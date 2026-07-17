@@ -14,7 +14,7 @@ Complete each item, tick the box, and **do not proceed to Phase 1 (Week 1) until
 ## 0.2 Repository created
 - [x] Project dir at `C:\Users\Krish\Documents\career-intelligence-engine`
 - [x] `git init -b main` done; first commit `a5a99ae`
-- [ ] GitHub remote pushed — **PENDING** (see §0.7 below — needs your GitHub login)
+- [x] GitHub remote pushed → `origin/main` tracking (repo: KrizzNike/career-intelligence-engine)
 
 ## 0.3 Environment & dependencies
 - [x] `.venv` created and activated on **Python 3.11.3**
@@ -25,23 +25,35 @@ Complete each item, tick the box, and **do not proceed to Phase 1 (Week 1) until
 ## 0.4 Smoke test
 - [x] `python scripts/smoke_test.py` → 4 OK lines (dirs, core deps, ML stack, spaCy model)
 - [x] `path()` helper resolves, `src.config` importable
-- [ ] `python scripts/smoke_test.py --check-db` → **PENDING** `.env` (see §0.5)
+- [x] `python scripts/smoke_test.py --check-db` → `OK - DB connection: MySQL 8.0.45 @ localhost:3306/career_intelligence`
 
 ## 0.5 Configuration
-- [ ] `.env` created and `DB_PASSWORD` filled with real MySQL creds — **PENDING** (file exists, password still `changeme`)
-- [x] `.gitignore` correctly excludes `.env`, `.venv/`, `data/raw/*.pdf`, models
+- [x] `.env` created and `DB_PASSWORD` filled with real MySQL creds
+- [x] `.gitignore` correctly excludes `.env`, `.venv/`, `data/raw/*.pdf`, models — verified (push did not leak secrets)
 
 ## 0.6 Documentation
 - [x] `README.md` with problem, architecture, stack, structure, roadmap, setup (updated for 3.11)
 - [x] This checklist (`docs/phase0_checklist.md`)
 
-## 0.7 GitHub setup (pending)
-- [ ] Create repo `career-intelligence-engine` on github.com (Private, no README/.gitignore — you have all three)
-- [ ] `git remote add origin https://github.com/<your-handle>/career-intelligence-engine.git`
-- [ ] `git push -u origin main`
-- [ ] Add GitHub URL to README
+## 0.7 GitHub setup
+- [x] Repo created: `KrizzNike/career-intelligence-engine` (Private)
+- [x] `git remote add origin https://github.com/KrizzNike/career-intelligence-engine.git`
+- [x] `git push -u origin main` → `* [new branch] main -> main`
+- [x] GitHub URL added to README
 
 ---
+
+## ✅ Phase 0 COMPLETE — validation gate passed (2026-07-17)
+
+All smoke checks green:
+```
+OK   - dirs present, config + core deps import cleanly
+OK   - ML/NLP/RAG stack (11 packages) imports cleanly
+OK   - spaCy model 'en_core_web_md' loads + NER works
+OK   - DB connection: MySQL 8.0.45 @ localhost:3306/career_intelligence
+```
+Remote pushed, secrets excluded, Python 3.11 + full ML stack in place.
+**Ready to enter Phase 1, Week 1.**
 
 ## Decision log: Python 3.14 → 3.11 (2026-07-17)
 

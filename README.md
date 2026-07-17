@@ -3,6 +3,8 @@
 **An Explainable AI-Powered Employability Analytics Platform** for skill assessment, career gap analysis, job matching, and personalized career guidance — "Google Maps for career development."
 
 > Status: 🟡 Phase 0 — Project Initialization · 16-week roadmap · in progress
+>
+> **Repo:** https://github.com/KrizzNike/career-intelligence-engine
 
 ---
 
