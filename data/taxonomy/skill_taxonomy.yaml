@@ -1,0 +1,442 @@
+# ============================================================
+# Career Intelligence Engine — Skill Taxonomy
+# ------------------------------------------------------------
+# The single source of truth for "what is a skill" across the
+# platform. Used by:
+#   - Resume parser (Week 4)   -> normalize extracted skills
+#   - JD analyzer    (Week 5)  -> map requirements to canonical ids
+#   - Matching engine(Week 6)  -> overlap is computed on skill ids
+#   - Gap analysis   (Week 7)  -> missing skills come from here
+#   - RAG advisor    (Week 10) -> skill relationships in prompts
+#
+# Hierarchy (mandatory, 5 levels, enforced by validate_taxonomy.py):
+#   industry -> role -> category -> skill -> sub_skill
+#
+# Each skill has a stable `id` (snake_case, never reused) and a
+# canonical `name`. Aliases are alternate surface forms the parser
+# will collapse to this skill (e.g. "PowerBI" -> "power_bi").
+#
+# v0 scope: Data & Analytics vertical DEEP (5 roles, ~120 skills).
+# Other industries are STUBBED (one role each) to prove the schema
+# extends; they get filled in future versions.
+#
+# References: O*NET, ESCO, Lightcast/EMSI open skills (see docs/research.md).
+# ============================================================
+schema_version: "0.1"
+last_updated: "2026-07-17"
+
+industries:
+  # =========================================================
+  # DEEP VERTICAL — Data & Analytics
+  # =========================================================
+  - id: data_analytics
+    name: Data & Analytics
+    description: >
+      Roles that turn data into insight: collection, modeling,
+      analysis, visualization, and decision support.
+    roles:
+
+      # -----------------------------------------------------
+      # ROLE 1 — Data Analyst
+      # -----------------------------------------------------
+      - id: data_analyst
+        name: Data Analyst
+        seniority: entry_to_mid
+        description: >
+          Extracts, cleans, and analyzes business data to answer
+          stakeholder questions and produce reports/dashboards.
+        categories:
+          - id: programming
+            name: Programming
+            skills:
+              - id: sql
+                name: SQL
+                importance: critical
+                aliases: [T-SQL, PL/SQL, MySQL, PostgreSQL]
+                sub_skills: [joins, window_functions, cte, query_optimization, indexing]
+              - id: python
+                name: Python
+                importance: high
+                aliases: [Python3]
+                sub_skills: [pandas, numpy, data_cleaning, scripting]
+              - id: r_language
+                name: R
+                importance: medium
+                aliases: [Rlang]
+                sub_skills: [dplyr, ggplot2, tidyverse]
+          - id: data_management
+            name: Data Management
+            skills:
+              - id: etl_basics
+                name: ETL Fundamentals
+                importance: high
+                sub_skills: [data_extraction, data_loading, scheduling]
+              - id: excel
+                name: Microsoft Excel
+                importance: high
+                aliases: [MS Excel, XLSX]
+                sub_skills: [pivot_tables, vlookup_xlookup, power_query, formulas]
+              - id: data_modeling_basics
+                name: Data Modeling (Basics)
+                importance: medium
+                sub_skills: [star_schema, er_diagrams, normalization]
+          - id: analytics
+            name: Analytics
+            skills:
+              - id: descriptive_stats
+                name: Descriptive Statistics
+                importance: high
+                sub_skills: [mean_median_mode, variance_std, distributions]
+              - id: hypothesis_testing
+                name: Hypothesis Testing
+                importance: medium
+                sub_skills: [ab_testing, p_values, confidence_intervals]
+              - id: kpi_design
+                name: KPI Design
+                importance: high
+                sub_skills: [metric_definition, funnels, cohort_analysis]
+          - id: business_skills
+            name: Business Skills
+            skills:
+              - id: stakeholder_management
+                name: Stakeholder Management
+                importance: high
+                sub_skills: [requirement_gathering, expectation_setting]
+              - id: sql_to_insight
+                name: SQL-to-Insight Storytelling
+                importance: medium
+                sub_skills: []
+              - id: domain_acumen
+                name: Domain Acumen
+                importance: medium
+                sub_skills: [finance_basics, marketing_basics, operations_basics]
+
+      # -----------------------------------------------------
+      # ROLE 2 — BI Analyst
+      # -----------------------------------------------------
+      - id: bi_analyst
+        name: BI Analyst
+        seniority: entry_to_mid
+        description: >
+          Designs and maintains self-serve BI layers: semantic
+          models, dashboards, and governed metrics.
+        categories:
+          - id: visualization
+            name: Visualization
+            skills:
+              - id: power_bi
+                name: Power BI
+                importance: critical
+                aliases: [PowerBI, "Microsoft Power BI", PBI]
+                sub_skills: [dax, power_query_m, calculated_columns, dashboards, row_level_security]
+              - id: tableau
+                name: Tableau
+                importance: high
+                aliases: [Tableau Desktop, Tableau Public]
+                sub_skills: [calculated_fields, lod_expressions, dashboards]
+              - id: looker
+                name: Looker
+                importance: medium
+                aliases: [LookML]
+                sub_skills: [lookml, explores]
+          - id: data_management
+            name: Data Management
+            skills:
+              - id: semantic_layer
+                name: Semantic Layer
+                importance: high
+                sub_skills: [metric_definitions, dimension_modeling]
+              - id: data_modeling_basics
+                name: Data Modeling (Basics)
+                importance: high
+                sub_skills: [star_schema, slowly_changing_dimensions]
+          - id: analytics
+            name: Analytics
+            skills:
+              - id: kpi_design
+                name: KPI Design
+                importance: critical
+                sub_skills: [metric_definition, north_star_metrics]
+          - id: programming
+            name: Programming
+            skills:
+              - id: sql
+                name: SQL
+                importance: critical
+                aliases: [T-SQL, Snowflake SQL, BigQuery SQL]
+                sub_skills: [window_functions, query_optimization]
+              - id: python
+                name: Python
+                importance: medium
+                sub_skills: [pandas]
+
+      # -----------------------------------------------------
+      # ROLE 3 — Data Scientist
+      # -----------------------------------------------------
+      - id: data_scientist
+        name: Data Scientist
+        seniority: mid
+        description: >
+          Builds predictive models, runs experiments, and derives
+          insights that go beyond descriptive reporting.
+        categories:
+          - id: programming
+            name: Programming
+            skills:
+              - id: python
+                name: Python
+                importance: critical
+                sub_skills: [pandas, numpy, scikit_learn, statsmodels]
+              - id: sql
+                name: SQL
+                importance: high
+                sub_skills: [window_functions, query_optimization]
+              - id: r_language
+                name: R
+                importance: medium
+                sub_skills: [caret, ggplot2]
+          - id: aiml
+            name: AI / ML
+            skills:
+              - id: supervised_learning
+                name: Supervised Learning
+                importance: critical
+                sub_skills: [regression, classification, logistic_regression, random_forest, gradient_boosting]
+              - id: unsupervised_learning
+                name: Unsupervised Learning
+                importance: high
+                sub_skills: [clustering, kmeans, pca, dimensionality_reduction]
+              - id: model_evaluation
+                name: Model Evaluation
+                importance: critical
+                sub_skills: [cross_validation, roc_auc, precision_recall, overfitting]
+              - id: feature_engineering
+                name: Feature Engineering
+                importance: high
+                sub_skills: [encoding, scaling, feature_selection]
+              - id: nlp
+                name: Natural Language Processing
+                importance: medium
+                sub_skills: [tokenization, tf_idf, embeddings, transformers]
+          - id: analytics
+            name: Analytics
+            skills:
+              - id: probability
+                name: Probability & Statistics
+                importance: critical
+                sub_skills: [bayes_theorem, distributions, sampling]
+              - id: experimentation
+                name: Experimentation
+                importance: high
+                sub_skills: [ab_testing, causal_inference, sample_size]
+          - id: business_skills
+            name: Business Skills
+            skills:
+              - id: insight_storytelling
+                name: Insight Storytelling
+                importance: high
+                sub_skills: []
+
+      # -----------------------------------------------------
+      # ROLE 4 — Data Engineer
+      # -----------------------------------------------------
+      - id: data_engineer
+        name: Data Engineer
+        seniority: mid
+        description: >
+          Builds and operates the pipelines, warehouses, and data
+          platforms that analysts and scientists depend on.
+        categories:
+          - id: data_management
+            name: Data Management
+            skills:
+              - id: etl_elt
+                name: ETL / ELT
+                importance: critical
+                sub_skills: [batch, incremental_loads, cdc]
+              - id: data_warehousing
+                name: Data Warehousing
+                importance: critical
+                aliases: [Snowflake, BigQuery, Redshift]
+                sub_skills: [star_schema, partitioning, materialized_views]
+              - id: data_modeling
+                name: Data Modeling
+                importance: high
+                sub_skills: [dimensional_modeling, data_vault, medallion]
+              - id: orchestration
+                name: Orchestration
+                importance: high
+                aliases: [Airflow, Dagster, Prefect]
+                sub_skills: [dags, scheduling, retries]
+          - id: programming
+            name: Programming
+            skills:
+              - id: python
+                name: Python
+                importance: critical
+                sub_skills: [pyspark, scripting, airflow_operators]
+              - id: sql
+                name: SQL
+                importance: critical
+                sub_skills: [query_optimization, window_functions, ddl]
+              - id: scala
+                name: Scala
+                importance: medium
+                sub_skills: [apache_spark]
+          - id: cloud
+            name: Cloud
+            skills:
+              - id: aws
+                name: AWS
+                importance: high
+                sub_skills: [s3, glue, redshift, emr]
+              - id: azure
+                name: Azure
+                importance: medium
+                sub_skills: [data_factory, synapse, adls]
+              - id: gcp
+                name: GCP
+                importance: medium
+                sub_skills: [bigquery, dataproc, composer]
+          - id: aiml
+            name: AI / ML
+            skills:
+              - id: ml_engineering
+                name: ML Engineering (Ops)
+                importance: medium
+                sub_skills: [feature_stores, model_serving, pipelines]
+
+      # -----------------------------------------------------
+      # ROLE 5 — Machine Learning Engineer
+      # -----------------------------------------------------
+      - id: ml_engineer
+        name: Machine Learning Engineer
+        seniority: mid_to_senior
+        description: >
+          Productionizes ML models: training pipelines, serving,
+          monitoring, and MLOps.
+        categories:
+          - id: aiml
+            name: AI / ML
+            skills:
+              - id: deep_learning
+                name: Deep Learning
+                importance: critical
+                sub_skills: [cnn, rnn, transformers, pytorch, tensorflow]
+              - id: supervised_learning
+                name: Supervised Learning
+                importance: high
+                sub_skills: [gradient_boosting, random_forest]
+              - id: mlops
+                name: MLOps
+                importance: critical
+                sub_skills: [model_registry, model_monitoring, drift_detection, ci_cd_for_ml]
+          - id: programming
+            name: Programming
+            skills:
+              - id: python
+                name: Python
+                importance: critical
+                sub_skills: [pytorch, tensorflow, scikit_learn]
+              - id: sql
+                name: SQL
+                importance: medium
+                sub_skills: []
+          - id: cloud
+            name: Cloud
+            skills:
+              - id: aws
+                name: AWS
+                importance: high
+                sub_skills: [sagemaker, ec2, lambda]
+              - id: docker_k8s
+                name: Docker & Kubernetes
+                importance: high
+                aliases: [Docker, Kubernetes, K8s]
+                sub_skills: [containerization, helm, manifests]
+          - id: data_management
+            name: Data Management
+            skills:
+              - id: feature_stores
+                name: Feature Stores
+                importance: medium
+                sub_skills: [feast, online_offline]
+
+  # =========================================================
+  # STUB VERTICALS — prove the schema extends. Fill in v1+.
+  # =========================================================
+  - id: software_engineering
+    name: Software Engineering
+    description: STUB — backend/frontend/devops roles. Populate in v1.
+    roles:
+      - id: software_engineer
+        name: Software Engineer
+        seniority: entry_to_senior
+        description: STUB.
+        categories:
+          - id: programming
+            name: Programming
+            skills:
+              - id: python
+                name: Python
+                importance: high
+                sub_skills: []
+              - id: java
+                name: Java
+                importance: high
+                sub_skills: []
+
+  - id: cloud_devops
+    name: Cloud & DevOps
+    description: STUB — cloud architect / SRE / platform roles. Populate in v1.
+    roles:
+      - id: cloud_engineer
+        name: Cloud Engineer
+        seniority: mid
+        description: STUB.
+        categories:
+          - id: cloud
+            name: Cloud
+            skills:
+              - id: aws
+                name: AWS
+                importance: high
+                sub_skills: []
+              - id: docker_k8s
+                name: Docker & Kubernetes
+                importance: high
+                sub_skills: []
+
+  - id: finance
+    name: Finance & FinTech
+    description: STUB — financial analyst / quant roles. Populate in v1.
+    roles:
+      - id: financial_analyst
+        name: Financial Analyst
+        seniority: entry_to_mid
+        description: STUB.
+        categories:
+          - id: business_skills
+            name: Business Skills
+            skills:
+              - id: domain_acumen
+                name: Domain Acumen
+                importance: high
+                sub_skills: [finance_basics]
+
+  - id: marketing
+    name: Marketing & Growth
+    description: STUB — marketing analyst / growth roles. Populate in v1.
+    roles:
+      - id: marketing_analyst
+        name: Marketing Analyst
+        seniority: entry_to_mid
+        description: STUB.
+        categories:
+          - id: analytics
+            name: Analytics
+            skills:
+              - id: kpi_design
+                name: KPI Design
+                importance: high
+                sub_skills: []
