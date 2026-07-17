@@ -2,55 +2,59 @@
 
 Complete each item, tick the box, and **do not proceed to Phase 1 (Week 1) until all are ticked and confirmed with your mentor.**
 
+> Last verified: 2026-07-17
+
 ## 0.1 Tooling verified
 - [x] Git installed (`git --version` → 2.53.0)
-- [x] Python 3.14.6 + pip on PATH
+- [x] Python 3.11.3 + pip — chosen for full ML-wheel coverage (was 3.14; switched because torch has no 3.14 Windows wheel)
 - [x] MySQL 8.0.45 installed and CLI on PATH (`mysql --version`)
-- [ ] Visual Studio Build Tools 2022 (C++ workload) — **PENDING**: required to build PyMuPDF and the ML stack on 3.14 (see `requirements-ml.txt` and known blocker below)
-- [ ] Power BI Desktop installed (needed from Week 8 — install now at https://aka.ms/pbiSingleInstaller)
+- [x] VS Build Tools — **NOT NEEDED**: 3.11 ships prebuilt wheels for the entire stack
+- [x] Power BI Desktop installed (in `C:\Program Files\Microsoft Power BI Desktop\`)
 
 ## 0.2 Repository created
 - [x] Project dir at `C:\Users\Krish\Documents\career-intelligence-engine`
 - [x] `git init -b main` done; first commit `a5a99ae`
-- [ ] GitHub remote pushed (see §0.7 below — pending your GitHub account login)
+- [ ] GitHub remote pushed — **PENDING** (see §0.7 below — needs your GitHub login)
 
 ## 0.3 Environment & dependencies
-- [x] `.venv` created and activated
-- [x] `pip install -r requirements.txt` succeeded (Phase 0/1 pure-Python deps)
-- [ ] `pip install -r requirements-ml.txt` — **PENDING build toolchain** (see requirements-ml.txt header for the 14/3.14 wheel status)
+- [x] `.venv` created and activated on **Python 3.11.3**
+- [x] `pip install -r requirements.txt` succeeded (core deps)
+- [x] `pip install -r requirements-ml.txt` succeeded — torch, sentence-transformers, spacy, sklearn, xgboost, langchain, chromadb, streamlit all import cleanly
+- [x] `python -m spacy download en_core_web_md` — NER model loads, entities extracted
 
 ## 0.4 Smoke test
-- [x] `python scripts/smoke_test.py` → "OK - all dirs present, config + Phase 0 deps import cleanly."
+- [x] `python scripts/smoke_test.py` → 4 OK lines (dirs, core deps, ML stack, spaCy model)
 - [x] `path()` helper resolves, `src.config` importable
+- [ ] `python scripts/smoke_test.py --check-db` → **PENDING** `.env` (see §0.5)
 
 ## 0.5 Configuration
-- [ ] `.env` created from `.env.example` and filled with real MySQL credentials — **PENDING** (you will create `career_intelligence` DB and enter password)
+- [ ] `.env` created and `DB_PASSWORD` filled with real MySQL creds — **PENDING** (file exists, password still `changeme`)
 - [x] `.gitignore` correctly excludes `.env`, `.venv/`, `data/raw/*.pdf`, models
 
 ## 0.6 Documentation
-- [x] `README.md` with problem, architecture, stack, structure, roadmap, setup
+- [x] `README.md` with problem, architecture, stack, structure, roadmap, setup (updated for 3.11)
 - [x] This checklist (`docs/phase0_checklist.md`)
 
 ## 0.7 GitHub setup (pending)
-- [ ] Create repo `career-intelligence-engine` on github.com
-- [ ] `git remote add origin git@github.com:<your-handle>/career-intelligence-engine.git`
+- [ ] Create repo `career-intelligence-engine` on github.com (Private, no README/.gitignore — you have all three)
+- [ ] `git remote add origin https://github.com/<your-handle>/career-intelligence-engine.git`
 - [ ] `git push -u origin main`
 - [ ] Add GitHub URL to README
 
 ---
 
-## Known blocker (recorded 2026-07-17)
+## Decision log: Python 3.14 → 3.11 (2026-07-17)
 
-User chose to stay on **Python 3.14** and install VS Build Tools rather than downgrade to 3.12.
-- Many data/ML packages have **no prebuilt 3.14 wheel**; source builds need a C++ toolchain.
-- **Hard blocker at Week 9**: PyTorch has no 3.14 wheel and cannot be built on Windows.
-  Therefore `sentence-transformers` (Week 6 advanced matching + Week 9 embeddings) will fail.
-- **Planned mitigation**: when we reach Week 9, provision a small **Python 3.12 venv**
-  *only* for the AI-layer weeks. Phase 1–8 continue on 3.14 once build tools are installed.
+Originally chose Python 3.14 with the intent to install VS Build Tools later.
+On audit, discovered Python 3.11 was already installed and that it has
+**prebuilt wheels for the entire ML/RAG stack including torch** — which has
+*no* 3.14 Windows wheel and cannot be built from source. Switching to 3.11
+eliminates the ~6 GB Build Tools install and the planned Week-9 second venv,
+and lets every layer of the roadmap run in a single virtual environment.
 
 ## Next milestone (Phase 1, Week 1)
-Topic modeling completeness delayed by build tools; but Week 1 deliverables that need
-only the pure-Python stack can proceed immediately once this checklist is fully ticked:
-- README finalized, repo on GitHub
-- Research notes on resume datasets + skill taxonomy drafts
-- MySQL `career_intelligence` database created (DDL lands Week 3, but DB now)
+
+Once §0.5 (DB + `.env`) and §0.7 (GitHub) are complete:
+1. Run `python scripts/smoke_test.py --check-db` → must print `OK - DB connection`.
+2. `git push` the Phase 0 close commit.
+3. Begin **Week 1 — Research notes** (resume datasets + skill taxonomy draft) — no ML needed, pure Python + reading.

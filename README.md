@@ -42,7 +42,7 @@ A complete write-up with component-level diagrams lands in `docs/architecture.md
 
 | Layer | Choice | Why |
 |---|---|---|
-| Language | Python 3.14 (fallback 3.12 if ML wheels missing) | analytics ecosystem |
+| Language | Python 3.11 | full prebuilt wheels for the entire ML/NLP/RAG stack incl. torch — no compiler needed |
 | Database | MySQL 8.0 | relational core, JSON type, window functions |
 | Analytics | pandas, NumPy | standard data wrangling |
 | NLP | spaCy, sentence-transformers | entity extraction + semantic embeddings |
@@ -90,20 +90,25 @@ career-intelligence-engine/
 # 1. Clone (or you're already in it)
 cd C:\Users\Krish\Documents\career-intelligence-engine
 
-# 2. Create + activate virtual environment
-python -m venv .venv
+# 2. Create + activate virtual environment (Python 3.11 required)
+py -3.11 -m venv .venv
 .venv\Scripts\activate
 
-# 3. Install dependencies
+# 3. Install dependencies (both files; the second has the heavy ML/RAG wheels)
 pip install -r requirements.txt
+pip install -r requirements-ml.txt
+python -m spacy download en_core_web_md   # NLP model, ~40MB
 
-# 4. Configure environment (NEVER commit .env)
+# 4. Create the database
+mysql -u root -p -e "CREATE DATABASE career_intelligence CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;"
+
+# 5. Configure environment (NEVER commit .env)
 copy .env.example .env
-#   edit .env: set DB_PASSWORD and DB_USER for your MySQL
+#   edit .env: set DB_PASSWORD to your real MySQL password
 
-# 5. Verify the build
-python scripts/smoke_test.py
-#   expected: "OK - all directories present and config importable."
+# 6. Verify the whole stack (deps + ML imports + spaCy model + DB)
+python scripts/smoke_test.py --check-db
+#   expected: 5 OK lines, exit 0
 ```
 
 ---

@@ -1,25 +1,24 @@
 # =========================================================
 # Career Intelligence Engine - ML / NLP / RAG dependencies
-#
-# These packages need PREBUILT WHEELS for the Python in use.
-# Status (2026-07-17): user is on Python 3.14.
-#   - pandas, numpy, scikit-learn, xgboost, spacy: NO 3.14 wheel
-#     -> need VS Build Tools 2022 (C++ workload) to compile,
-#        OR move to Python 3.12 for wheels.
-#   - sentence-transformers -> torch: NO 3.14 wheel, CANNOT build
-#     on Windows. BLOCKER for Weeks 9-11 if staying on 3.14.
-#     Plan: provisioning a 3.12 venv for the AI-layer weeks.
-#
-# Install only after resolving the build toolchain:
+# Target Python: 3.11 - prebuilt wheels for EVERYTHING here,
+#   including torch + sentence-transformers. No compiler needed.
+# Install AFTER requirements.txt:
 #   pip install -r requirements-ml.txt
+#
+# Heaviest packages: torch (~750MB), spacy model (~12MB),
+#   chromadb deps. First install ~5-8 min on broadband.
 # =========================================================
 
-# ---- Core data ---- (no 3.14 wheel; needs build tools or 3.12)
+# ---- Core data ----
 pandas==2.2.3
 numpy==1.26.4
 
 # ---- NLP ----
 spacy==3.7.5
+# NOTE: the spaCy language model is NOT a PyPI package.
+# After this file installs, run separately:
+#   python -m spacy download en_core_web_md
+# (Medium model: entities PERSON, ORG, GPE, DATE + word vectors for Week 6 similarity.)
 
 # ---- ML ----
 scikit-learn==1.5.2
@@ -27,9 +26,8 @@ xgboost==2.1.1
 imbalanced-learn==0.12.4
 
 # ---- Embeddings / matching (Week 6 advanced, Week 9) ----
-# BLOCKER on Python 3.14 (torch has no 3.14 wheel)
 sentence-transformers==3.1.1
-torch==2.4.1
+torch==2.4.1                 # CPU wheel; full ML stack works on 3.11
 
 # ---- RAG (Week 10) ---- local Ollama + Chroma vector store
 langchain==0.3.4
