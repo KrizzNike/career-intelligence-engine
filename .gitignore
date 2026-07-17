@@ -1,0 +1,55 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ===== Virtual environment =====
+.venv/
+venv/
+env/
+
+# ===== Environment & secrets =====
+.env
+.env.*
+*.local
+credentials/*.json
+credentials/*.key
+secrets/
+
+# ===== Data (large/raw files never versioned) =====
+data/raw/**/*.pdf
+data/raw/**/*.docx
+data/raw/**/*.csv
+data/processed/**/*.csv
+data/processed/**/*.parquet
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# ===== Models / embeddings (large binary) =====
+*.pkl
+*.joblib
+*.bin
+*.safetensors
+models/
+vectorstore/
+
+# ===== Logs =====
+logs/
+*.log
+
+# ===== OS / editor =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# ===== Streamlit / local app =====
+.streamlit/secrets.toml
+
+# ===== Notebooks outputs =====
+*.nbconvert.ipynb
