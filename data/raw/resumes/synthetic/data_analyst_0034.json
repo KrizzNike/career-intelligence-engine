@@ -1,0 +1,35 @@
+{
+  "resume_id": "data_analyst_0034",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "excel",
+    "etl_basics",
+    "r_language",
+    "data_modeling_basics",
+    "descriptive_stats",
+    "kpi_design",
+    "python",
+    "sql",
+    "sql_to_insight",
+    "stakeholder_management",
+    "domain_acumen"
+  ],
+  "skill_names": [
+    "Microsoft Excel",
+    "ETL Fundamentals",
+    "R",
+    "Data Modeling (Basics)",
+    "Descriptive Statistics",
+    "KPI Design",
+    "Python",
+    "SQL",
+    "SQL-to-Insight Storytelling",
+    "Stakeholder Management",
+    "Domain Acumen"
+  ],
+  "name": "Jessica Thomas MD",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

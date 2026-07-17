@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0102",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "python",
+    "etl_elt",
+    "data_warehousing",
+    "data_modeling",
+    "orchestration",
+    "azure",
+    "scala"
+  ],
+  "skill_names": [
+    "Python",
+    "ETL / ELT",
+    "Data Warehousing",
+    "Data Modeling",
+    "Orchestration",
+    "Azure",
+    "Scala"
+  ],
+  "name": "Sharon Burke",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

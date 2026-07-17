@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0058",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "python",
+    "data_modeling_basics",
+    "looker",
+    "sql",
+    "kpi_design",
+    "semantic_layer",
+    "tableau"
+  ],
+  "skill_names": [
+    "Python",
+    "Data Modeling (Basics)",
+    "Looker",
+    "SQL",
+    "KPI Design",
+    "Semantic Layer",
+    "Tableau"
+  ],
+  "name": "Jamie Baird",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_analyst_0086",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "kpi_design",
+    "descriptive_stats",
+    "hypothesis_testing",
+    "stakeholder_management",
+    "python",
+    "domain_acumen",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "KPI Design",
+    "Descriptive Statistics",
+    "Hypothesis Testing",
+    "Stakeholder Management",
+    "Python",
+    "Domain Acumen",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Anthony Davies",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

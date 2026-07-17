@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0013",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "etl_elt",
+    "data_warehousing",
+    "orchestration",
+    "ml_engineering",
+    "azure",
+    "python",
+    "sql",
+    "data_modeling",
+    "gcp"
+  ],
+  "skill_names": [
+    "ETL / ELT",
+    "Data Warehousing",
+    "Orchestration",
+    "ML Engineering (Ops)",
+    "Azure",
+    "Python",
+    "SQL",
+    "Data Modeling",
+    "GCP"
+  ],
+  "name": "Paul Washington",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

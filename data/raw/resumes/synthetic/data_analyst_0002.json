@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0002",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "r_language",
+    "kpi_design",
+    "python",
+    "descriptive_stats",
+    "sql",
+    "etl_basics",
+    "domain_acumen",
+    "excel"
+  ],
+  "skill_names": [
+    "R",
+    "KPI Design",
+    "Python",
+    "Descriptive Statistics",
+    "SQL",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Microsoft Excel"
+  ],
+  "name": "Jessica Garcia",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

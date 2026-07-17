@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0088",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_warehousing",
+    "aws",
+    "azure",
+    "orchestration",
+    "sql",
+    "ml_engineering",
+    "etl_elt"
+  ],
+  "skill_names": [
+    "Data Warehousing",
+    "AWS",
+    "Azure",
+    "Orchestration",
+    "SQL",
+    "ML Engineering (Ops)",
+    "ETL / ELT"
+  ],
+  "name": "Amy Cannon",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

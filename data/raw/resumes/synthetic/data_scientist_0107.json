@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0107",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "python",
+    "probability",
+    "supervised_learning",
+    "model_evaluation",
+    "experimentation",
+    "feature_engineering",
+    "unsupervised_learning",
+    "insight_storytelling",
+    "nlp"
+  ],
+  "skill_names": [
+    "Python",
+    "Probability & Statistics",
+    "Supervised Learning",
+    "Model Evaluation",
+    "Experimentation",
+    "Feature Engineering",
+    "Unsupervised Learning",
+    "Insight Storytelling",
+    "Natural Language Processing"
+  ],
+  "name": "Jennifer Lane",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

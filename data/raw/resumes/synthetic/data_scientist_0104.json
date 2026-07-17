@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0104",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "python",
+    "insight_storytelling",
+    "sql",
+    "model_evaluation",
+    "feature_engineering",
+    "supervised_learning",
+    "experimentation"
+  ],
+  "skill_names": [
+    "Python",
+    "Insight Storytelling",
+    "SQL",
+    "Model Evaluation",
+    "Feature Engineering",
+    "Supervised Learning",
+    "Experimentation"
+  ],
+  "name": "Margaret Sanchez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

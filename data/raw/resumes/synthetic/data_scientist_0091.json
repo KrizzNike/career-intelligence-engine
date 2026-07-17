@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0091",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "insight_storytelling",
+    "experimentation",
+    "model_evaluation",
+    "sql",
+    "supervised_learning",
+    "feature_engineering",
+    "unsupervised_learning",
+    "nlp",
+    "python"
+  ],
+  "skill_names": [
+    "Insight Storytelling",
+    "Experimentation",
+    "Model Evaluation",
+    "SQL",
+    "Supervised Learning",
+    "Feature Engineering",
+    "Unsupervised Learning",
+    "Natural Language Processing",
+    "Python"
+  ],
+  "name": "Yvonne Hernandez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

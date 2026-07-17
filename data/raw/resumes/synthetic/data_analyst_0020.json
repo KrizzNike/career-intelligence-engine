@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_analyst_0020",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "data_modeling_basics",
+    "etl_basics",
+    "domain_acumen",
+    "stakeholder_management",
+    "excel",
+    "kpi_design",
+    "r_language"
+  ],
+  "skill_names": [
+    "Data Modeling (Basics)",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Stakeholder Management",
+    "Microsoft Excel",
+    "KPI Design",
+    "R"
+  ],
+  "name": "Margaret Mcfarland",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

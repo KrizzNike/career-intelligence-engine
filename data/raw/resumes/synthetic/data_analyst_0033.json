@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0033",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "stakeholder_management",
+    "excel",
+    "sql",
+    "hypothesis_testing",
+    "domain_acumen",
+    "kpi_design",
+    "etl_basics",
+    "r_language",
+    "sql_to_insight",
+    "descriptive_stats"
+  ],
+  "skill_names": [
+    "Stakeholder Management",
+    "Microsoft Excel",
+    "SQL",
+    "Hypothesis Testing",
+    "Domain Acumen",
+    "KPI Design",
+    "ETL Fundamentals",
+    "R",
+    "SQL-to-Insight Storytelling",
+    "Descriptive Statistics"
+  ],
+  "name": "George Alvarez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

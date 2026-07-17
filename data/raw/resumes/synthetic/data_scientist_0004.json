@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0004",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "model_evaluation",
+    "sql",
+    "experimentation",
+    "probability",
+    "unsupervised_learning",
+    "python",
+    "feature_engineering",
+    "nlp"
+  ],
+  "skill_names": [
+    "Model Evaluation",
+    "SQL",
+    "Experimentation",
+    "Probability & Statistics",
+    "Unsupervised Learning",
+    "Python",
+    "Feature Engineering",
+    "Natural Language Processing"
+  ],
+  "name": "Karen Grant",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

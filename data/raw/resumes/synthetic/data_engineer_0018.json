@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0018",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "python",
+    "ml_engineering",
+    "orchestration",
+    "scala",
+    "etl_elt",
+    "data_warehousing",
+    "data_modeling",
+    "aws"
+  ],
+  "skill_names": [
+    "Python",
+    "ML Engineering (Ops)",
+    "Orchestration",
+    "Scala",
+    "ETL / ELT",
+    "Data Warehousing",
+    "Data Modeling",
+    "AWS"
+  ],
+  "name": "Sandra Frederick",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0048",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "probability",
+    "feature_engineering",
+    "r_language",
+    "supervised_learning",
+    "experimentation",
+    "unsupervised_learning",
+    "insight_storytelling",
+    "model_evaluation"
+  ],
+  "skill_names": [
+    "Probability & Statistics",
+    "Feature Engineering",
+    "R",
+    "Supervised Learning",
+    "Experimentation",
+    "Unsupervised Learning",
+    "Insight Storytelling",
+    "Model Evaluation"
+  ],
+  "name": "Rebecca Brooks",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

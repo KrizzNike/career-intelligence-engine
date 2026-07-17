@@ -1,0 +1,27 @@
+{
+  "resume_id": "ml_engineer_0037",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "mlops",
+    "deep_learning",
+    "supervised_learning",
+    "sql",
+    "feature_stores",
+    "docker_k8s",
+    "aws"
+  ],
+  "skill_names": [
+    "MLOps",
+    "Deep Learning",
+    "Supervised Learning",
+    "SQL",
+    "Feature Stores",
+    "Docker & Kubernetes",
+    "AWS"
+  ],
+  "name": "Mercedes Richardson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

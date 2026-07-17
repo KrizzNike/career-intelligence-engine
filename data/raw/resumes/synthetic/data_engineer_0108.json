@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0108",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_modeling",
+    "python",
+    "sql",
+    "scala",
+    "etl_elt",
+    "orchestration",
+    "ml_engineering",
+    "gcp"
+  ],
+  "skill_names": [
+    "Data Modeling",
+    "Python",
+    "SQL",
+    "Scala",
+    "ETL / ELT",
+    "Orchestration",
+    "ML Engineering (Ops)",
+    "GCP"
+  ],
+  "name": "Daniel Rivera",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

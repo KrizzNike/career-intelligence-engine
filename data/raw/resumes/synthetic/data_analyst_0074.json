@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0074",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "kpi_design",
+    "stakeholder_management",
+    "etl_basics",
+    "domain_acumen",
+    "python",
+    "sql",
+    "excel",
+    "descriptive_stats"
+  ],
+  "skill_names": [
+    "KPI Design",
+    "Stakeholder Management",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Python",
+    "SQL",
+    "Microsoft Excel",
+    "Descriptive Statistics"
+  ],
+  "name": "Megan Rosario",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0056",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "python",
+    "scala",
+    "data_warehousing",
+    "azure",
+    "orchestration",
+    "aws",
+    "ml_engineering"
+  ],
+  "skill_names": [
+    "Python",
+    "Scala",
+    "Data Warehousing",
+    "Azure",
+    "Orchestration",
+    "AWS",
+    "ML Engineering (Ops)"
+  ],
+  "name": "John Scott",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

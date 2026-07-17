@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0046",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "etl_elt",
+    "gcp",
+    "scala",
+    "ml_engineering",
+    "azure",
+    "data_modeling",
+    "orchestration",
+    "python"
+  ],
+  "skill_names": [
+    "ETL / ELT",
+    "GCP",
+    "Scala",
+    "ML Engineering (Ops)",
+    "Azure",
+    "Data Modeling",
+    "Orchestration",
+    "Python"
+  ],
+  "name": "Alisha Martin",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

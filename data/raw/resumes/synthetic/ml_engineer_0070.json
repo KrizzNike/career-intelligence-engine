@@ -1,0 +1,27 @@
+{
+  "resume_id": "ml_engineer_0070",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "sql",
+    "python",
+    "mlops",
+    "docker_k8s",
+    "feature_stores",
+    "aws",
+    "supervised_learning"
+  ],
+  "skill_names": [
+    "SQL",
+    "Python",
+    "MLOps",
+    "Docker & Kubernetes",
+    "Feature Stores",
+    "AWS",
+    "Supervised Learning"
+  ],
+  "name": "Nicole Brown",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

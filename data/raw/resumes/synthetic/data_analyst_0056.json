@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_analyst_0056",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "domain_acumen",
+    "hypothesis_testing",
+    "python",
+    "kpi_design",
+    "data_modeling_basics",
+    "r_language",
+    "sql_to_insight"
+  ],
+  "skill_names": [
+    "Domain Acumen",
+    "Hypothesis Testing",
+    "Python",
+    "KPI Design",
+    "Data Modeling (Basics)",
+    "R",
+    "SQL-to-Insight Storytelling"
+  ],
+  "name": "Debbie Haynes",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

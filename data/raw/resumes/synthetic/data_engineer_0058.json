@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0058",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "etl_elt",
+    "data_warehousing",
+    "ml_engineering",
+    "python",
+    "azure",
+    "data_modeling",
+    "sql"
+  ],
+  "skill_names": [
+    "ETL / ELT",
+    "Data Warehousing",
+    "ML Engineering (Ops)",
+    "Python",
+    "Azure",
+    "Data Modeling",
+    "SQL"
+  ],
+  "name": "Andre Burke",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

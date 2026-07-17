@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0031",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "descriptive_stats",
+    "kpi_design",
+    "domain_acumen",
+    "r_language",
+    "sql_to_insight",
+    "etl_basics",
+    "excel",
+    "python"
+  ],
+  "skill_names": [
+    "Descriptive Statistics",
+    "KPI Design",
+    "Domain Acumen",
+    "R",
+    "SQL-to-Insight Storytelling",
+    "ETL Fundamentals",
+    "Microsoft Excel",
+    "Python"
+  ],
+  "name": "Alison Short",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

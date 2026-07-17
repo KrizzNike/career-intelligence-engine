@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0065",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "sql",
+    "looker",
+    "semantic_layer",
+    "kpi_design",
+    "data_modeling_basics",
+    "tableau",
+    "power_bi"
+  ],
+  "skill_names": [
+    "SQL",
+    "Looker",
+    "Semantic Layer",
+    "KPI Design",
+    "Data Modeling (Basics)",
+    "Tableau",
+    "Power BI"
+  ],
+  "name": "Joshua Webster",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

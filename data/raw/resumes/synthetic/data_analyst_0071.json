@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0071",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "r_language",
+    "data_modeling_basics",
+    "hypothesis_testing",
+    "domain_acumen",
+    "sql_to_insight",
+    "python",
+    "sql",
+    "kpi_design",
+    "excel"
+  ],
+  "skill_names": [
+    "R",
+    "Data Modeling (Basics)",
+    "Hypothesis Testing",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "Python",
+    "SQL",
+    "KPI Design",
+    "Microsoft Excel"
+  ],
+  "name": "Tristan Johnson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0011",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_warehousing",
+    "azure",
+    "orchestration",
+    "scala",
+    "ml_engineering",
+    "gcp",
+    "data_modeling",
+    "python",
+    "sql"
+  ],
+  "skill_names": [
+    "Data Warehousing",
+    "Azure",
+    "Orchestration",
+    "Scala",
+    "ML Engineering (Ops)",
+    "GCP",
+    "Data Modeling",
+    "Python",
+    "SQL"
+  ],
+  "name": "Jill Summers DDS",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

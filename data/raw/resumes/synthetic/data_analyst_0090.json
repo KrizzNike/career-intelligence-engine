@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0090",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "excel",
+    "stakeholder_management",
+    "sql",
+    "data_modeling_basics",
+    "sql_to_insight",
+    "kpi_design",
+    "domain_acumen",
+    "etl_basics",
+    "r_language"
+  ],
+  "skill_names": [
+    "Microsoft Excel",
+    "Stakeholder Management",
+    "SQL",
+    "Data Modeling (Basics)",
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Domain Acumen",
+    "ETL Fundamentals",
+    "R"
+  ],
+  "name": "Sherry Giles",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

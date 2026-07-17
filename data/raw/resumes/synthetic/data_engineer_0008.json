@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0008",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "orchestration",
+    "sql",
+    "gcp",
+    "ml_engineering",
+    "data_warehousing",
+    "python",
+    "etl_elt",
+    "scala",
+    "data_modeling"
+  ],
+  "skill_names": [
+    "Orchestration",
+    "SQL",
+    "GCP",
+    "ML Engineering (Ops)",
+    "Data Warehousing",
+    "Python",
+    "ETL / ELT",
+    "Scala",
+    "Data Modeling"
+  ],
+  "name": "Crystal Cummings",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

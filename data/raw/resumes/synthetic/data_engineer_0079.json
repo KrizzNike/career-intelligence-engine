@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0079",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "azure",
+    "scala",
+    "python",
+    "aws",
+    "orchestration",
+    "ml_engineering",
+    "sql",
+    "data_modeling",
+    "etl_elt"
+  ],
+  "skill_names": [
+    "Azure",
+    "Scala",
+    "Python",
+    "AWS",
+    "Orchestration",
+    "ML Engineering (Ops)",
+    "SQL",
+    "Data Modeling",
+    "ETL / ELT"
+  ],
+  "name": "Lori Gardner",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

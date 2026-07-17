@@ -1,0 +1,27 @@
+{
+  "resume_id": "ml_engineer_0057",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "sql",
+    "aws",
+    "feature_stores",
+    "supervised_learning",
+    "mlops",
+    "python",
+    "deep_learning"
+  ],
+  "skill_names": [
+    "SQL",
+    "AWS",
+    "Feature Stores",
+    "Supervised Learning",
+    "MLOps",
+    "Python",
+    "Deep Learning"
+  ],
+  "name": "Denise Taylor",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

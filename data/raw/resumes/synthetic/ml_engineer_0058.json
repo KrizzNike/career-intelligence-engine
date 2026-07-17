@@ -1,0 +1,27 @@
+{
+  "resume_id": "ml_engineer_0058",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "aws",
+    "mlops",
+    "supervised_learning",
+    "docker_k8s",
+    "sql",
+    "deep_learning",
+    "python"
+  ],
+  "skill_names": [
+    "AWS",
+    "MLOps",
+    "Supervised Learning",
+    "Docker & Kubernetes",
+    "SQL",
+    "Deep Learning",
+    "Python"
+  ],
+  "name": "Robert Whitney",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

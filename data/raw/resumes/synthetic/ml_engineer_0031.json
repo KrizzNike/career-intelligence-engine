@@ -1,0 +1,25 @@
+{
+  "resume_id": "ml_engineer_0031",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "mlops",
+    "deep_learning",
+    "feature_stores",
+    "docker_k8s",
+    "python",
+    "supervised_learning"
+  ],
+  "skill_names": [
+    "MLOps",
+    "Deep Learning",
+    "Feature Stores",
+    "Docker & Kubernetes",
+    "Python",
+    "Supervised Learning"
+  ],
+  "name": "Brian Simmons",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

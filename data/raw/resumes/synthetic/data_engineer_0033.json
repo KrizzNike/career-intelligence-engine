@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0033",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "gcp",
+    "python",
+    "sql",
+    "etl_elt",
+    "azure",
+    "aws",
+    "data_modeling",
+    "data_warehousing"
+  ],
+  "skill_names": [
+    "GCP",
+    "Python",
+    "SQL",
+    "ETL / ELT",
+    "Azure",
+    "AWS",
+    "Data Modeling",
+    "Data Warehousing"
+  ],
+  "name": "Debra Schultz",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

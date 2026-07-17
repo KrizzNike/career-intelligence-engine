@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0113",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "experimentation",
+    "sql",
+    "model_evaluation",
+    "python",
+    "supervised_learning",
+    "feature_engineering",
+    "insight_storytelling",
+    "unsupervised_learning"
+  ],
+  "skill_names": [
+    "Experimentation",
+    "SQL",
+    "Model Evaluation",
+    "Python",
+    "Supervised Learning",
+    "Feature Engineering",
+    "Insight Storytelling",
+    "Unsupervised Learning"
+  ],
+  "name": "Christopher Todd",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

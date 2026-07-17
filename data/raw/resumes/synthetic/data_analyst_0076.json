@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0076",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "descriptive_stats",
+    "python",
+    "etl_basics",
+    "domain_acumen",
+    "hypothesis_testing",
+    "r_language",
+    "data_modeling_basics",
+    "excel",
+    "kpi_design"
+  ],
+  "skill_names": [
+    "Descriptive Statistics",
+    "Python",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Hypothesis Testing",
+    "R",
+    "Data Modeling (Basics)",
+    "Microsoft Excel",
+    "KPI Design"
+  ],
+  "name": "Maxwell Roberts",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

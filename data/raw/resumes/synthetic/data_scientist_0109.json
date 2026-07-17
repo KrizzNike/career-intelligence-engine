@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0109",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "experimentation",
+    "insight_storytelling",
+    "feature_engineering",
+    "probability",
+    "nlp",
+    "model_evaluation",
+    "r_language",
+    "supervised_learning"
+  ],
+  "skill_names": [
+    "Experimentation",
+    "Insight Storytelling",
+    "Feature Engineering",
+    "Probability & Statistics",
+    "Natural Language Processing",
+    "Model Evaluation",
+    "R",
+    "Supervised Learning"
+  ],
+  "name": "Brenda Ramirez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0090",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "power_bi",
+    "tableau",
+    "python",
+    "semantic_layer",
+    "looker",
+    "sql",
+    "kpi_design"
+  ],
+  "skill_names": [
+    "Power BI",
+    "Tableau",
+    "Python",
+    "Semantic Layer",
+    "Looker",
+    "SQL",
+    "KPI Design"
+  ],
+  "name": "Mrs. Tonya Kaufman",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

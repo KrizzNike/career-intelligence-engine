@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0061",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "scala",
+    "data_modeling",
+    "python",
+    "aws",
+    "azure",
+    "orchestration",
+    "etl_elt",
+    "ml_engineering"
+  ],
+  "skill_names": [
+    "Scala",
+    "Data Modeling",
+    "Python",
+    "AWS",
+    "Azure",
+    "Orchestration",
+    "ETL / ELT",
+    "ML Engineering (Ops)"
+  ],
+  "name": "Jane Bruce",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

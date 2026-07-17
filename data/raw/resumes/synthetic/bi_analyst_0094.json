@@ -1,0 +1,23 @@
+{
+  "resume_id": "bi_analyst_0094",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "semantic_layer",
+    "looker",
+    "python",
+    "data_modeling_basics",
+    "power_bi"
+  ],
+  "skill_names": [
+    "Semantic Layer",
+    "Looker",
+    "Python",
+    "Data Modeling (Basics)",
+    "Power BI"
+  ],
+  "name": "Richard Cooper",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

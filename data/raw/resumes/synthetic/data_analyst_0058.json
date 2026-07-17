@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0058",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "r_language",
+    "sql",
+    "domain_acumen",
+    "sql_to_insight",
+    "excel",
+    "descriptive_stats",
+    "kpi_design",
+    "etl_basics",
+    "python",
+    "stakeholder_management"
+  ],
+  "skill_names": [
+    "R",
+    "SQL",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "Microsoft Excel",
+    "Descriptive Statistics",
+    "KPI Design",
+    "ETL Fundamentals",
+    "Python",
+    "Stakeholder Management"
+  ],
+  "name": "Andrew Harvey",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

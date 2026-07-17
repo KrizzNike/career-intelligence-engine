@@ -1,0 +1,23 @@
+{
+  "resume_id": "bi_analyst_0117",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "power_bi",
+    "sql",
+    "python",
+    "data_modeling_basics",
+    "looker"
+  ],
+  "skill_names": [
+    "Power BI",
+    "SQL",
+    "Python",
+    "Data Modeling (Basics)",
+    "Looker"
+  ],
+  "name": "Lee Schwartz",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

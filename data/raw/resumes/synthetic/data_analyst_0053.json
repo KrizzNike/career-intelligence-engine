@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_analyst_0053",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "python",
+    "kpi_design",
+    "domain_acumen",
+    "hypothesis_testing",
+    "data_modeling_basics",
+    "stakeholder_management",
+    "sql_to_insight"
+  ],
+  "skill_names": [
+    "Python",
+    "KPI Design",
+    "Domain Acumen",
+    "Hypothesis Testing",
+    "Data Modeling (Basics)",
+    "Stakeholder Management",
+    "SQL-to-Insight Storytelling"
+  ],
+  "name": "Brianna Dyer",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

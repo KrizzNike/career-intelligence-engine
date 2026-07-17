@@ -1,0 +1,27 @@
+{
+  "resume_id": "ml_engineer_0002",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "feature_stores",
+    "sql",
+    "mlops",
+    "python",
+    "aws",
+    "deep_learning",
+    "supervised_learning"
+  ],
+  "skill_names": [
+    "Feature Stores",
+    "SQL",
+    "MLOps",
+    "Python",
+    "AWS",
+    "Deep Learning",
+    "Supervised Learning"
+  ],
+  "name": "Toni Moreno",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0085",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "data_modeling_basics",
+    "r_language",
+    "descriptive_stats",
+    "stakeholder_management",
+    "etl_basics",
+    "sql",
+    "kpi_design",
+    "excel"
+  ],
+  "skill_names": [
+    "Data Modeling (Basics)",
+    "R",
+    "Descriptive Statistics",
+    "Stakeholder Management",
+    "ETL Fundamentals",
+    "SQL",
+    "KPI Design",
+    "Microsoft Excel"
+  ],
+  "name": "Ashley Jackson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

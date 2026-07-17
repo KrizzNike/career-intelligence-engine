@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0055",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "nlp",
+    "model_evaluation",
+    "experimentation",
+    "python",
+    "r_language",
+    "probability",
+    "supervised_learning",
+    "unsupervised_learning",
+    "feature_engineering",
+    "insight_storytelling"
+  ],
+  "skill_names": [
+    "Natural Language Processing",
+    "Model Evaluation",
+    "Experimentation",
+    "Python",
+    "R",
+    "Probability & Statistics",
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "Feature Engineering",
+    "Insight Storytelling"
+  ],
+  "name": "Chelsea Allison",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

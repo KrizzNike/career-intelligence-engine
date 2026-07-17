@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0019",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "kpi_design",
+    "stakeholder_management",
+    "sql",
+    "descriptive_stats",
+    "python",
+    "data_modeling_basics",
+    "hypothesis_testing",
+    "sql_to_insight"
+  ],
+  "skill_names": [
+    "KPI Design",
+    "Stakeholder Management",
+    "SQL",
+    "Descriptive Statistics",
+    "Python",
+    "Data Modeling (Basics)",
+    "Hypothesis Testing",
+    "SQL-to-Insight Storytelling"
+  ],
+  "name": "Scott Williams",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

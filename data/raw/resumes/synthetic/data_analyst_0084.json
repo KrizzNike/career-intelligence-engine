@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0084",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "excel",
+    "python",
+    "hypothesis_testing",
+    "stakeholder_management",
+    "descriptive_stats",
+    "kpi_design",
+    "r_language",
+    "etl_basics",
+    "sql",
+    "domain_acumen"
+  ],
+  "skill_names": [
+    "Microsoft Excel",
+    "Python",
+    "Hypothesis Testing",
+    "Stakeholder Management",
+    "Descriptive Statistics",
+    "KPI Design",
+    "R",
+    "ETL Fundamentals",
+    "SQL",
+    "Domain Acumen"
+  ],
+  "name": "Laura Alvarez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0047",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "ml_engineering",
+    "python",
+    "data_modeling",
+    "etl_elt",
+    "aws",
+    "orchestration",
+    "azure",
+    "gcp"
+  ],
+  "skill_names": [
+    "ML Engineering (Ops)",
+    "Python",
+    "Data Modeling",
+    "ETL / ELT",
+    "AWS",
+    "Orchestration",
+    "Azure",
+    "GCP"
+  ],
+  "name": "Mark Smith",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

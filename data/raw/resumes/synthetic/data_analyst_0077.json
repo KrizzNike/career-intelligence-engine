@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0077",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "kpi_design",
+    "domain_acumen",
+    "sql",
+    "stakeholder_management",
+    "descriptive_stats",
+    "sql_to_insight",
+    "etl_basics",
+    "data_modeling_basics",
+    "r_language",
+    "python"
+  ],
+  "skill_names": [
+    "KPI Design",
+    "Domain Acumen",
+    "SQL",
+    "Stakeholder Management",
+    "Descriptive Statistics",
+    "SQL-to-Insight Storytelling",
+    "ETL Fundamentals",
+    "Data Modeling (Basics)",
+    "R",
+    "Python"
+  ],
+  "name": "Thomas Kelly",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

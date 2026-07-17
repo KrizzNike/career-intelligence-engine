@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0036",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "etl_basics",
+    "domain_acumen",
+    "python",
+    "r_language",
+    "hypothesis_testing",
+    "descriptive_stats",
+    "excel",
+    "sql_to_insight",
+    "kpi_design",
+    "stakeholder_management"
+  ],
+  "skill_names": [
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Python",
+    "R",
+    "Hypothesis Testing",
+    "Descriptive Statistics",
+    "Microsoft Excel",
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Stakeholder Management"
+  ],
+  "name": "John Garner",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

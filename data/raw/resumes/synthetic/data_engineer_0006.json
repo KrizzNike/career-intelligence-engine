@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0006",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "scala",
+    "ml_engineering",
+    "data_warehousing",
+    "orchestration",
+    "azure",
+    "etl_elt",
+    "data_modeling",
+    "python",
+    "sql",
+    "aws"
+  ],
+  "skill_names": [
+    "Scala",
+    "ML Engineering (Ops)",
+    "Data Warehousing",
+    "Orchestration",
+    "Azure",
+    "ETL / ELT",
+    "Data Modeling",
+    "Python",
+    "SQL",
+    "AWS"
+  ],
+  "name": "Christine Jacobson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

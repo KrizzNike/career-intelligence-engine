@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0067",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "scala",
+    "aws",
+    "ml_engineering",
+    "azure",
+    "orchestration",
+    "etl_elt",
+    "python",
+    "sql"
+  ],
+  "skill_names": [
+    "Scala",
+    "AWS",
+    "ML Engineering (Ops)",
+    "Azure",
+    "Orchestration",
+    "ETL / ELT",
+    "Python",
+    "SQL"
+  ],
+  "name": "Jacqueline Chen",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

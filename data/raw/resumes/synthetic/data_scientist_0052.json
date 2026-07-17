@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0052",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "python",
+    "unsupervised_learning",
+    "model_evaluation",
+    "sql",
+    "experimentation",
+    "r_language",
+    "supervised_learning",
+    "feature_engineering",
+    "probability"
+  ],
+  "skill_names": [
+    "Python",
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "SQL",
+    "Experimentation",
+    "R",
+    "Supervised Learning",
+    "Feature Engineering",
+    "Probability & Statistics"
+  ],
+  "name": "Melody Baker",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

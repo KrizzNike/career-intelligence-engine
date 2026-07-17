@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_analyst_0010",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql",
+    "r_language",
+    "stakeholder_management",
+    "sql_to_insight",
+    "kpi_design",
+    "data_modeling_basics",
+    "excel"
+  ],
+  "skill_names": [
+    "SQL",
+    "R",
+    "Stakeholder Management",
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Data Modeling (Basics)",
+    "Microsoft Excel"
+  ],
+  "name": "Nathaniel Cooper",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

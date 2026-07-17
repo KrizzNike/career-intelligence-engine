@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0003",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "ml_engineering",
+    "data_modeling",
+    "data_warehousing",
+    "scala",
+    "sql",
+    "etl_elt",
+    "azure",
+    "python"
+  ],
+  "skill_names": [
+    "ML Engineering (Ops)",
+    "Data Modeling",
+    "Data Warehousing",
+    "Scala",
+    "SQL",
+    "ETL / ELT",
+    "Azure",
+    "Python"
+  ],
+  "name": "Thomas Fowler DDS",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0026",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "hypothesis_testing",
+    "sql",
+    "kpi_design",
+    "descriptive_stats",
+    "r_language",
+    "sql_to_insight",
+    "excel",
+    "domain_acumen",
+    "python"
+  ],
+  "skill_names": [
+    "Hypothesis Testing",
+    "SQL",
+    "KPI Design",
+    "Descriptive Statistics",
+    "R",
+    "SQL-to-Insight Storytelling",
+    "Microsoft Excel",
+    "Domain Acumen",
+    "Python"
+  ],
+  "name": "Brandon Moore",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

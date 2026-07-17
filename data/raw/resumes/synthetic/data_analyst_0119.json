@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0119",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "domain_acumen",
+    "etl_basics",
+    "hypothesis_testing",
+    "sql_to_insight",
+    "stakeholder_management",
+    "data_modeling_basics",
+    "kpi_design",
+    "r_language"
+  ],
+  "skill_names": [
+    "Domain Acumen",
+    "ETL Fundamentals",
+    "Hypothesis Testing",
+    "SQL-to-Insight Storytelling",
+    "Stakeholder Management",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "R"
+  ],
+  "name": "Jerry Smith",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

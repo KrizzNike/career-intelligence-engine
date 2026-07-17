@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0026",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "looker",
+    "semantic_layer",
+    "data_modeling_basics",
+    "sql",
+    "python",
+    "power_bi",
+    "tableau"
+  ],
+  "skill_names": [
+    "Looker",
+    "Semantic Layer",
+    "Data Modeling (Basics)",
+    "SQL",
+    "Python",
+    "Power BI",
+    "Tableau"
+  ],
+  "name": "William Lynch",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0019",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "supervised_learning",
+    "model_evaluation",
+    "probability",
+    "experimentation",
+    "python",
+    "nlp",
+    "sql",
+    "r_language",
+    "insight_storytelling",
+    "feature_engineering"
+  ],
+  "skill_names": [
+    "Supervised Learning",
+    "Model Evaluation",
+    "Probability & Statistics",
+    "Experimentation",
+    "Python",
+    "Natural Language Processing",
+    "SQL",
+    "R",
+    "Insight Storytelling",
+    "Feature Engineering"
+  ],
+  "name": "Joseph Schwartz",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

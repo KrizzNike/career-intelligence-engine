@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0008",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "sql",
+    "r_language",
+    "python",
+    "nlp",
+    "insight_storytelling",
+    "experimentation",
+    "supervised_learning",
+    "model_evaluation",
+    "feature_engineering",
+    "unsupervised_learning"
+  ],
+  "skill_names": [
+    "SQL",
+    "R",
+    "Python",
+    "Natural Language Processing",
+    "Insight Storytelling",
+    "Experimentation",
+    "Supervised Learning",
+    "Model Evaluation",
+    "Feature Engineering",
+    "Unsupervised Learning"
+  ],
+  "name": "Whitney Atkins",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

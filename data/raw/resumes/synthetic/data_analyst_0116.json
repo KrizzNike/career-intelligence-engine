@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0116",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "python",
+    "data_modeling_basics",
+    "etl_basics",
+    "excel",
+    "hypothesis_testing",
+    "domain_acumen",
+    "r_language",
+    "sql_to_insight",
+    "descriptive_stats",
+    "kpi_design"
+  ],
+  "skill_names": [
+    "Python",
+    "Data Modeling (Basics)",
+    "ETL Fundamentals",
+    "Microsoft Excel",
+    "Hypothesis Testing",
+    "Domain Acumen",
+    "R",
+    "SQL-to-Insight Storytelling",
+    "Descriptive Statistics",
+    "KPI Design"
+  ],
+  "name": "Elizabeth Foster",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

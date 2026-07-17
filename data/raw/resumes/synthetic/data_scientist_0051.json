@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0051",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "feature_engineering",
+    "nlp",
+    "insight_storytelling",
+    "r_language",
+    "python",
+    "unsupervised_learning",
+    "probability"
+  ],
+  "skill_names": [
+    "Feature Engineering",
+    "Natural Language Processing",
+    "Insight Storytelling",
+    "R",
+    "Python",
+    "Unsupervised Learning",
+    "Probability & Statistics"
+  ],
+  "name": "Andrea Taylor",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

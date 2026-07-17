@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0065",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "r_language",
+    "sql_to_insight",
+    "kpi_design",
+    "python",
+    "etl_basics",
+    "stakeholder_management",
+    "domain_acumen",
+    "descriptive_stats",
+    "sql"
+  ],
+  "skill_names": [
+    "R",
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Python",
+    "ETL Fundamentals",
+    "Stakeholder Management",
+    "Domain Acumen",
+    "Descriptive Statistics",
+    "SQL"
+  ],
+  "name": "Cory Hogan",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

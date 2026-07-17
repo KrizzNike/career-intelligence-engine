@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0025",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "insight_storytelling",
+    "feature_engineering",
+    "experimentation",
+    "probability",
+    "supervised_learning",
+    "python",
+    "nlp",
+    "model_evaluation"
+  ],
+  "skill_names": [
+    "Insight Storytelling",
+    "Feature Engineering",
+    "Experimentation",
+    "Probability & Statistics",
+    "Supervised Learning",
+    "Python",
+    "Natural Language Processing",
+    "Model Evaluation"
+  ],
+  "name": "James Thomas",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

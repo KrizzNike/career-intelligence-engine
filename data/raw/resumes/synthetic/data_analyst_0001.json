@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0001",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "domain_acumen",
+    "excel",
+    "sql",
+    "descriptive_stats",
+    "kpi_design",
+    "etl_basics",
+    "data_modeling_basics",
+    "r_language"
+  ],
+  "skill_names": [
+    "Domain Acumen",
+    "Microsoft Excel",
+    "SQL",
+    "Descriptive Statistics",
+    "KPI Design",
+    "ETL Fundamentals",
+    "Data Modeling (Basics)",
+    "R"
+  ],
+  "name": "Justin Goodwin",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

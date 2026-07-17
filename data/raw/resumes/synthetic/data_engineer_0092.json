@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0092",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "orchestration",
+    "data_warehousing",
+    "python",
+    "aws",
+    "ml_engineering",
+    "data_modeling",
+    "scala",
+    "etl_elt"
+  ],
+  "skill_names": [
+    "Orchestration",
+    "Data Warehousing",
+    "Python",
+    "AWS",
+    "ML Engineering (Ops)",
+    "Data Modeling",
+    "Scala",
+    "ETL / ELT"
+  ],
+  "name": "James Gilbert",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

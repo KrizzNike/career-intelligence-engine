@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0092",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "hypothesis_testing",
+    "sql_to_insight",
+    "etl_basics",
+    "r_language",
+    "domain_acumen",
+    "excel",
+    "data_modeling_basics",
+    "descriptive_stats",
+    "sql"
+  ],
+  "skill_names": [
+    "Hypothesis Testing",
+    "SQL-to-Insight Storytelling",
+    "ETL Fundamentals",
+    "R",
+    "Domain Acumen",
+    "Microsoft Excel",
+    "Data Modeling (Basics)",
+    "Descriptive Statistics",
+    "SQL"
+  ],
+  "name": "David Reeves",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

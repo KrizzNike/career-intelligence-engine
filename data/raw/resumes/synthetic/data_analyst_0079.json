@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0079",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "hypothesis_testing",
+    "python",
+    "etl_basics",
+    "data_modeling_basics",
+    "domain_acumen",
+    "excel",
+    "kpi_design",
+    "r_language",
+    "sql_to_insight"
+  ],
+  "skill_names": [
+    "Hypothesis Testing",
+    "Python",
+    "ETL Fundamentals",
+    "Data Modeling (Basics)",
+    "Domain Acumen",
+    "Microsoft Excel",
+    "KPI Design",
+    "R",
+    "SQL-to-Insight Storytelling"
+  ],
+  "name": "Julie Kerr",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

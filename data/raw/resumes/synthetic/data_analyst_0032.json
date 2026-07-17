@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0032",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "etl_basics",
+    "stakeholder_management",
+    "r_language",
+    "excel",
+    "sql",
+    "sql_to_insight",
+    "data_modeling_basics",
+    "hypothesis_testing",
+    "descriptive_stats",
+    "python"
+  ],
+  "skill_names": [
+    "ETL Fundamentals",
+    "Stakeholder Management",
+    "R",
+    "Microsoft Excel",
+    "SQL",
+    "SQL-to-Insight Storytelling",
+    "Data Modeling (Basics)",
+    "Hypothesis Testing",
+    "Descriptive Statistics",
+    "Python"
+  ],
+  "name": "Laura Miller",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

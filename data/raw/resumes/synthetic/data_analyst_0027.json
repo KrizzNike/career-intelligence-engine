@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0027",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "stakeholder_management",
+    "sql_to_insight",
+    "descriptive_stats",
+    "hypothesis_testing",
+    "excel",
+    "sql",
+    "r_language",
+    "python"
+  ],
+  "skill_names": [
+    "Stakeholder Management",
+    "SQL-to-Insight Storytelling",
+    "Descriptive Statistics",
+    "Hypothesis Testing",
+    "Microsoft Excel",
+    "SQL",
+    "R",
+    "Python"
+  ],
+  "name": "Cheryl Lopez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

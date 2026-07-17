@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0105",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "sql",
+    "python",
+    "scala",
+    "azure",
+    "gcp",
+    "etl_elt",
+    "data_modeling",
+    "orchestration"
+  ],
+  "skill_names": [
+    "SQL",
+    "Python",
+    "Scala",
+    "Azure",
+    "GCP",
+    "ETL / ELT",
+    "Data Modeling",
+    "Orchestration"
+  ],
+  "name": "Walter Hoffman",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

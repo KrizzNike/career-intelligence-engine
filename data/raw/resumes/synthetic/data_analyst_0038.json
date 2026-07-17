@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0038",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "descriptive_stats",
+    "kpi_design",
+    "stakeholder_management",
+    "r_language",
+    "domain_acumen",
+    "excel",
+    "etl_basics",
+    "sql",
+    "python"
+  ],
+  "skill_names": [
+    "Descriptive Statistics",
+    "KPI Design",
+    "Stakeholder Management",
+    "R",
+    "Domain Acumen",
+    "Microsoft Excel",
+    "ETL Fundamentals",
+    "SQL",
+    "Python"
+  ],
+  "name": "Crystal Johnson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

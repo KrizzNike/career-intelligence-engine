@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0096",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_warehousing",
+    "data_modeling",
+    "azure",
+    "scala",
+    "gcp",
+    "python",
+    "sql"
+  ],
+  "skill_names": [
+    "Data Warehousing",
+    "Data Modeling",
+    "Azure",
+    "Scala",
+    "GCP",
+    "Python",
+    "SQL"
+  ],
+  "name": "Megan Wade",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

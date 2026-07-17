@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0100",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "r_language",
+    "sql",
+    "insight_storytelling",
+    "feature_engineering",
+    "unsupervised_learning",
+    "model_evaluation",
+    "probability"
+  ],
+  "skill_names": [
+    "R",
+    "SQL",
+    "Insight Storytelling",
+    "Feature Engineering",
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "Probability & Statistics"
+  ],
+  "name": "Tyler Lang",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

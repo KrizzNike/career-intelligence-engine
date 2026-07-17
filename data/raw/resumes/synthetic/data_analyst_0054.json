@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0054",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "python",
+    "excel",
+    "sql",
+    "descriptive_stats",
+    "kpi_design",
+    "r_language",
+    "stakeholder_management",
+    "hypothesis_testing"
+  ],
+  "skill_names": [
+    "Python",
+    "Microsoft Excel",
+    "SQL",
+    "Descriptive Statistics",
+    "KPI Design",
+    "R",
+    "Stakeholder Management",
+    "Hypothesis Testing"
+  ],
+  "name": "John Vaughn",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0010",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "r_language",
+    "python",
+    "insight_storytelling",
+    "experimentation",
+    "feature_engineering",
+    "sql",
+    "model_evaluation",
+    "supervised_learning",
+    "unsupervised_learning"
+  ],
+  "skill_names": [
+    "R",
+    "Python",
+    "Insight Storytelling",
+    "Experimentation",
+    "Feature Engineering",
+    "SQL",
+    "Model Evaluation",
+    "Supervised Learning",
+    "Unsupervised Learning"
+  ],
+  "name": "Brittany Trujillo",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

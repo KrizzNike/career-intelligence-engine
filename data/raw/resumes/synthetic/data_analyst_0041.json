@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_analyst_0041",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql",
+    "hypothesis_testing",
+    "python",
+    "etl_basics",
+    "descriptive_stats",
+    "kpi_design",
+    "domain_acumen"
+  ],
+  "skill_names": [
+    "SQL",
+    "Hypothesis Testing",
+    "Python",
+    "ETL Fundamentals",
+    "Descriptive Statistics",
+    "KPI Design",
+    "Domain Acumen"
+  ],
+  "name": "Susan Cunningham",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

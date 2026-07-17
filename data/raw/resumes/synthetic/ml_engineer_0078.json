@@ -1,0 +1,25 @@
+{
+  "resume_id": "ml_engineer_0078",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "sql",
+    "supervised_learning",
+    "docker_k8s",
+    "aws",
+    "feature_stores",
+    "mlops"
+  ],
+  "skill_names": [
+    "SQL",
+    "Supervised Learning",
+    "Docker & Kubernetes",
+    "AWS",
+    "Feature Stores",
+    "MLOps"
+  ],
+  "name": "Tina Bates",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

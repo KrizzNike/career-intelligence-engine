@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0081",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "r_language",
+    "etl_basics",
+    "sql",
+    "sql_to_insight",
+    "excel",
+    "kpi_design",
+    "descriptive_stats",
+    "hypothesis_testing"
+  ],
+  "skill_names": [
+    "R",
+    "ETL Fundamentals",
+    "SQL",
+    "SQL-to-Insight Storytelling",
+    "Microsoft Excel",
+    "KPI Design",
+    "Descriptive Statistics",
+    "Hypothesis Testing"
+  ],
+  "name": "Sarah Perez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

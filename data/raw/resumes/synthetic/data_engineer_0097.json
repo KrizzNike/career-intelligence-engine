@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0097",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "azure",
+    "sql",
+    "ml_engineering",
+    "data_warehousing",
+    "python",
+    "aws",
+    "gcp",
+    "data_modeling"
+  ],
+  "skill_names": [
+    "Azure",
+    "SQL",
+    "ML Engineering (Ops)",
+    "Data Warehousing",
+    "Python",
+    "AWS",
+    "GCP",
+    "Data Modeling"
+  ],
+  "name": "Michael Allen",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

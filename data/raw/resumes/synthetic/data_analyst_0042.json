@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0042",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "descriptive_stats",
+    "sql",
+    "kpi_design",
+    "excel",
+    "data_modeling_basics",
+    "stakeholder_management",
+    "domain_acumen",
+    "sql_to_insight",
+    "python",
+    "r_language"
+  ],
+  "skill_names": [
+    "Descriptive Statistics",
+    "SQL",
+    "KPI Design",
+    "Microsoft Excel",
+    "Data Modeling (Basics)",
+    "Stakeholder Management",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "Python",
+    "R"
+  ],
+  "name": "Joshua Harvey",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

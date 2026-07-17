@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0023",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "insight_storytelling",
+    "r_language",
+    "model_evaluation",
+    "experimentation",
+    "supervised_learning",
+    "probability",
+    "sql"
+  ],
+  "skill_names": [
+    "Insight Storytelling",
+    "R",
+    "Model Evaluation",
+    "Experimentation",
+    "Supervised Learning",
+    "Probability & Statistics",
+    "SQL"
+  ],
+  "name": "Susan Baker",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

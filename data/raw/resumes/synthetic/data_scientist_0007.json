@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0007",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "python",
+    "insight_storytelling",
+    "feature_engineering",
+    "probability",
+    "supervised_learning",
+    "experimentation",
+    "r_language",
+    "unsupervised_learning",
+    "sql",
+    "model_evaluation"
+  ],
+  "skill_names": [
+    "Python",
+    "Insight Storytelling",
+    "Feature Engineering",
+    "Probability & Statistics",
+    "Supervised Learning",
+    "Experimentation",
+    "R",
+    "Unsupervised Learning",
+    "SQL",
+    "Model Evaluation"
+  ],
+  "name": "Tiffany Johnson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

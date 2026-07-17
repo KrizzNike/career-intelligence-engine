@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0038",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "power_bi",
+    "data_modeling_basics",
+    "kpi_design",
+    "looker",
+    "python",
+    "semantic_layer",
+    "tableau"
+  ],
+  "skill_names": [
+    "Power BI",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "Looker",
+    "Python",
+    "Semantic Layer",
+    "Tableau"
+  ],
+  "name": "Brad Ramos",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

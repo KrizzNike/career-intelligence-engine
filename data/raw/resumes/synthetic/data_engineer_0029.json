@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0029",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "orchestration",
+    "ml_engineering",
+    "sql",
+    "scala",
+    "gcp",
+    "etl_elt",
+    "python",
+    "aws",
+    "data_modeling"
+  ],
+  "skill_names": [
+    "Orchestration",
+    "ML Engineering (Ops)",
+    "SQL",
+    "Scala",
+    "GCP",
+    "ETL / ELT",
+    "Python",
+    "AWS",
+    "Data Modeling"
+  ],
+  "name": "Matthew Cox",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

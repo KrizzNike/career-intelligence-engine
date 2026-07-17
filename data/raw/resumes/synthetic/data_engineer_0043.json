@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0043",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_warehousing",
+    "orchestration",
+    "gcp",
+    "data_modeling",
+    "scala",
+    "sql",
+    "ml_engineering",
+    "aws",
+    "python",
+    "etl_elt"
+  ],
+  "skill_names": [
+    "Data Warehousing",
+    "Orchestration",
+    "GCP",
+    "Data Modeling",
+    "Scala",
+    "SQL",
+    "ML Engineering (Ops)",
+    "AWS",
+    "Python",
+    "ETL / ELT"
+  ],
+  "name": "Stephanie West",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

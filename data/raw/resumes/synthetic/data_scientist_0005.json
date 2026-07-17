@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0005",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "model_evaluation",
+    "feature_engineering",
+    "r_language",
+    "unsupervised_learning",
+    "experimentation",
+    "sql",
+    "nlp"
+  ],
+  "skill_names": [
+    "Model Evaluation",
+    "Feature Engineering",
+    "R",
+    "Unsupervised Learning",
+    "Experimentation",
+    "SQL",
+    "Natural Language Processing"
+  ],
+  "name": "Krystal Perry",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

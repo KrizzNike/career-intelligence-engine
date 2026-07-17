@@ -1,0 +1,25 @@
+{
+  "resume_id": "ml_engineer_0055",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "aws",
+    "docker_k8s",
+    "mlops",
+    "deep_learning",
+    "sql",
+    "supervised_learning"
+  ],
+  "skill_names": [
+    "AWS",
+    "Docker & Kubernetes",
+    "MLOps",
+    "Deep Learning",
+    "SQL",
+    "Supervised Learning"
+  ],
+  "name": "Steven Duncan",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

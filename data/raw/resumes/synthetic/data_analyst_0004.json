@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_analyst_0004",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql_to_insight",
+    "etl_basics",
+    "data_modeling_basics",
+    "kpi_design",
+    "python",
+    "sql",
+    "hypothesis_testing"
+  ],
+  "skill_names": [
+    "SQL-to-Insight Storytelling",
+    "ETL Fundamentals",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "Python",
+    "SQL",
+    "Hypothesis Testing"
+  ],
+  "name": "Theresa Torres",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

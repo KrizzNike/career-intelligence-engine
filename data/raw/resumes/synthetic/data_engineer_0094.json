@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0094",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_warehousing",
+    "etl_elt",
+    "scala",
+    "aws",
+    "ml_engineering",
+    "sql",
+    "python",
+    "orchestration"
+  ],
+  "skill_names": [
+    "Data Warehousing",
+    "ETL / ELT",
+    "Scala",
+    "AWS",
+    "ML Engineering (Ops)",
+    "SQL",
+    "Python",
+    "Orchestration"
+  ],
+  "name": "Heather Hester",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

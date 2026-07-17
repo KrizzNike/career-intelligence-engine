@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0049",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "r_language",
+    "model_evaluation",
+    "supervised_learning",
+    "nlp",
+    "experimentation",
+    "probability",
+    "insight_storytelling"
+  ],
+  "skill_names": [
+    "R",
+    "Model Evaluation",
+    "Supervised Learning",
+    "Natural Language Processing",
+    "Experimentation",
+    "Probability & Statistics",
+    "Insight Storytelling"
+  ],
+  "name": "Oscar Farmer",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

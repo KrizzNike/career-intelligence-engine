@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0099",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "descriptive_stats",
+    "domain_acumen",
+    "sql_to_insight",
+    "hypothesis_testing",
+    "data_modeling_basics",
+    "sql",
+    "etl_basics",
+    "python"
+  ],
+  "skill_names": [
+    "Descriptive Statistics",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "Hypothesis Testing",
+    "Data Modeling (Basics)",
+    "SQL",
+    "ETL Fundamentals",
+    "Python"
+  ],
+  "name": "Angela Mcdonald",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

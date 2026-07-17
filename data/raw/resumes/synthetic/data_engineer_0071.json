@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0071",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "gcp",
+    "sql",
+    "aws",
+    "data_modeling",
+    "azure",
+    "ml_engineering",
+    "scala",
+    "orchestration"
+  ],
+  "skill_names": [
+    "GCP",
+    "SQL",
+    "AWS",
+    "Data Modeling",
+    "Azure",
+    "ML Engineering (Ops)",
+    "Scala",
+    "Orchestration"
+  ],
+  "name": "Stephanie Walsh",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

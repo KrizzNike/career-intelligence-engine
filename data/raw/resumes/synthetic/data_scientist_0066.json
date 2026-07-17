@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0066",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "model_evaluation",
+    "python",
+    "supervised_learning",
+    "sql",
+    "insight_storytelling",
+    "nlp",
+    "experimentation",
+    "unsupervised_learning",
+    "feature_engineering",
+    "probability"
+  ],
+  "skill_names": [
+    "Model Evaluation",
+    "Python",
+    "Supervised Learning",
+    "SQL",
+    "Insight Storytelling",
+    "Natural Language Processing",
+    "Experimentation",
+    "Unsupervised Learning",
+    "Feature Engineering",
+    "Probability & Statistics"
+  ],
+  "name": "Mary Pace",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

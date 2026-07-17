@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0001",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "model_evaluation",
+    "insight_storytelling",
+    "nlp",
+    "unsupervised_learning",
+    "supervised_learning",
+    "probability",
+    "feature_engineering",
+    "experimentation"
+  ],
+  "skill_names": [
+    "Model Evaluation",
+    "Insight Storytelling",
+    "Natural Language Processing",
+    "Unsupervised Learning",
+    "Supervised Learning",
+    "Probability & Statistics",
+    "Feature Engineering",
+    "Experimentation"
+  ],
+  "name": "John Williams",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

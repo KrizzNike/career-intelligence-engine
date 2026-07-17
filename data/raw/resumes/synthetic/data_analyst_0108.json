@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0108",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "r_language",
+    "sql_to_insight",
+    "sql",
+    "hypothesis_testing",
+    "stakeholder_management",
+    "kpi_design",
+    "data_modeling_basics",
+    "python",
+    "etl_basics",
+    "domain_acumen"
+  ],
+  "skill_names": [
+    "R",
+    "SQL-to-Insight Storytelling",
+    "SQL",
+    "Hypothesis Testing",
+    "Stakeholder Management",
+    "KPI Design",
+    "Data Modeling (Basics)",
+    "Python",
+    "ETL Fundamentals",
+    "Domain Acumen"
+  ],
+  "name": "Victoria Rodriguez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0090",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "azure",
+    "scala",
+    "orchestration",
+    "python",
+    "gcp",
+    "data_warehousing",
+    "data_modeling",
+    "aws",
+    "sql",
+    "etl_elt"
+  ],
+  "skill_names": [
+    "Azure",
+    "Scala",
+    "Orchestration",
+    "Python",
+    "GCP",
+    "Data Warehousing",
+    "Data Modeling",
+    "AWS",
+    "SQL",
+    "ETL / ELT"
+  ],
+  "name": "Jaime Velasquez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

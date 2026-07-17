@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0056",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "nlp",
+    "r_language",
+    "insight_storytelling",
+    "unsupervised_learning",
+    "feature_engineering",
+    "sql",
+    "python",
+    "experimentation",
+    "supervised_learning"
+  ],
+  "skill_names": [
+    "Natural Language Processing",
+    "R",
+    "Insight Storytelling",
+    "Unsupervised Learning",
+    "Feature Engineering",
+    "SQL",
+    "Python",
+    "Experimentation",
+    "Supervised Learning"
+  ],
+  "name": "Monica Flores",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

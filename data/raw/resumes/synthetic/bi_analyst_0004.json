@@ -1,0 +1,25 @@
+{
+  "resume_id": "bi_analyst_0004",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "power_bi",
+    "data_modeling_basics",
+    "looker",
+    "semantic_layer",
+    "python",
+    "sql"
+  ],
+  "skill_names": [
+    "Power BI",
+    "Data Modeling (Basics)",
+    "Looker",
+    "Semantic Layer",
+    "Python",
+    "SQL"
+  ],
+  "name": "Troy Nielsen",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

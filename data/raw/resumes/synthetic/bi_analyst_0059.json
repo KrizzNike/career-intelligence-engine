@@ -1,0 +1,25 @@
+{
+  "resume_id": "bi_analyst_0059",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "python",
+    "kpi_design",
+    "looker",
+    "semantic_layer",
+    "tableau",
+    "power_bi"
+  ],
+  "skill_names": [
+    "Python",
+    "KPI Design",
+    "Looker",
+    "Semantic Layer",
+    "Tableau",
+    "Power BI"
+  ],
+  "name": "Timothy Johns",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

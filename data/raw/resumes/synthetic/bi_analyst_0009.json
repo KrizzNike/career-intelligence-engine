@@ -1,0 +1,23 @@
+{
+  "resume_id": "bi_analyst_0009",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "looker",
+    "kpi_design",
+    "sql",
+    "python",
+    "semantic_layer"
+  ],
+  "skill_names": [
+    "Looker",
+    "KPI Design",
+    "SQL",
+    "Python",
+    "Semantic Layer"
+  ],
+  "name": "Shirley Suarez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

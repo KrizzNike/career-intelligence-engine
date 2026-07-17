@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0095",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql",
+    "kpi_design",
+    "domain_acumen",
+    "descriptive_stats",
+    "data_modeling_basics",
+    "excel",
+    "stakeholder_management",
+    "r_language"
+  ],
+  "skill_names": [
+    "SQL",
+    "KPI Design",
+    "Domain Acumen",
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "Microsoft Excel",
+    "Stakeholder Management",
+    "R"
+  ],
+  "name": "Brenda Wilson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

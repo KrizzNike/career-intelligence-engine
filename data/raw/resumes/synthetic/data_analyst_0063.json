@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0063",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "hypothesis_testing",
+    "excel",
+    "sql",
+    "descriptive_stats",
+    "etl_basics",
+    "python",
+    "r_language",
+    "domain_acumen",
+    "kpi_design"
+  ],
+  "skill_names": [
+    "Hypothesis Testing",
+    "Microsoft Excel",
+    "SQL",
+    "Descriptive Statistics",
+    "ETL Fundamentals",
+    "Python",
+    "R",
+    "Domain Acumen",
+    "KPI Design"
+  ],
+  "name": "Nancy Morales",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

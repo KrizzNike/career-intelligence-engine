@@ -1,0 +1,25 @@
+{
+  "resume_id": "bi_analyst_0069",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "kpi_design",
+    "data_modeling_basics",
+    "semantic_layer",
+    "python",
+    "power_bi",
+    "looker"
+  ],
+  "skill_names": [
+    "KPI Design",
+    "Data Modeling (Basics)",
+    "Semantic Layer",
+    "Python",
+    "Power BI",
+    "Looker"
+  ],
+  "name": "Crystal Mann",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

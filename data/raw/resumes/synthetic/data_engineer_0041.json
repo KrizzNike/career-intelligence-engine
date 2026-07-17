@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0041",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_modeling",
+    "orchestration",
+    "scala",
+    "etl_elt",
+    "data_warehousing",
+    "gcp",
+    "azure",
+    "aws"
+  ],
+  "skill_names": [
+    "Data Modeling",
+    "Orchestration",
+    "Scala",
+    "ETL / ELT",
+    "Data Warehousing",
+    "GCP",
+    "Azure",
+    "AWS"
+  ],
+  "name": "Veronica Walker",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

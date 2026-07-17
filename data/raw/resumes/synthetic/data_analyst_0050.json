@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0050",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "domain_acumen",
+    "python",
+    "r_language",
+    "kpi_design",
+    "excel",
+    "etl_basics",
+    "hypothesis_testing",
+    "sql",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "Domain Acumen",
+    "Python",
+    "R",
+    "KPI Design",
+    "Microsoft Excel",
+    "ETL Fundamentals",
+    "Hypothesis Testing",
+    "SQL",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Gregory Andrews",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

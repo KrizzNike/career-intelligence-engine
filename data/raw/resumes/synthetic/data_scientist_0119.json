@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0119",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "experimentation",
+    "model_evaluation",
+    "probability",
+    "sql",
+    "insight_storytelling",
+    "python",
+    "r_language",
+    "unsupervised_learning"
+  ],
+  "skill_names": [
+    "Experimentation",
+    "Model Evaluation",
+    "Probability & Statistics",
+    "SQL",
+    "Insight Storytelling",
+    "Python",
+    "R",
+    "Unsupervised Learning"
+  ],
+  "name": "Robert Hunt",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0027",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "insight_storytelling",
+    "model_evaluation",
+    "r_language",
+    "feature_engineering",
+    "nlp",
+    "sql",
+    "probability",
+    "supervised_learning",
+    "python",
+    "unsupervised_learning"
+  ],
+  "skill_names": [
+    "Insight Storytelling",
+    "Model Evaluation",
+    "R",
+    "Feature Engineering",
+    "Natural Language Processing",
+    "SQL",
+    "Probability & Statistics",
+    "Supervised Learning",
+    "Python",
+    "Unsupervised Learning"
+  ],
+  "name": "Todd Lutz",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

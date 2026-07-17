@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0055",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_warehousing",
+    "orchestration",
+    "sql",
+    "azure",
+    "ml_engineering",
+    "data_modeling",
+    "etl_elt",
+    "python"
+  ],
+  "skill_names": [
+    "Data Warehousing",
+    "Orchestration",
+    "SQL",
+    "Azure",
+    "ML Engineering (Ops)",
+    "Data Modeling",
+    "ETL / ELT",
+    "Python"
+  ],
+  "name": "Isaac Chase",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

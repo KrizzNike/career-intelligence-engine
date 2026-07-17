@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0110",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "ml_engineering",
+    "python",
+    "gcp",
+    "etl_elt",
+    "orchestration",
+    "data_warehousing",
+    "aws",
+    "scala",
+    "data_modeling",
+    "azure"
+  ],
+  "skill_names": [
+    "ML Engineering (Ops)",
+    "Python",
+    "GCP",
+    "ETL / ELT",
+    "Orchestration",
+    "Data Warehousing",
+    "AWS",
+    "Scala",
+    "Data Modeling",
+    "Azure"
+  ],
+  "name": "Aaron Hall",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

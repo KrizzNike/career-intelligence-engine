@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0063",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "experimentation",
+    "insight_storytelling",
+    "unsupervised_learning",
+    "model_evaluation",
+    "feature_engineering",
+    "sql",
+    "nlp"
+  ],
+  "skill_names": [
+    "Experimentation",
+    "Insight Storytelling",
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "Feature Engineering",
+    "SQL",
+    "Natural Language Processing"
+  ],
+  "name": "Kimberly Davis",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

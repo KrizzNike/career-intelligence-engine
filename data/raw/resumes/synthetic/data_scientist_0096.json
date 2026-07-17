@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0096",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "python",
+    "probability",
+    "experimentation",
+    "sql",
+    "nlp",
+    "unsupervised_learning",
+    "model_evaluation"
+  ],
+  "skill_names": [
+    "Python",
+    "Probability & Statistics",
+    "Experimentation",
+    "SQL",
+    "Natural Language Processing",
+    "Unsupervised Learning",
+    "Model Evaluation"
+  ],
+  "name": "Larry Green",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

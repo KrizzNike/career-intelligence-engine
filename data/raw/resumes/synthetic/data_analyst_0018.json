@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0018",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "descriptive_stats",
+    "etl_basics",
+    "domain_acumen",
+    "data_modeling_basics",
+    "kpi_design",
+    "stakeholder_management",
+    "sql_to_insight",
+    "r_language"
+  ],
+  "skill_names": [
+    "Descriptive Statistics",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "Stakeholder Management",
+    "SQL-to-Insight Storytelling",
+    "R"
+  ],
+  "name": "Michael Watson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

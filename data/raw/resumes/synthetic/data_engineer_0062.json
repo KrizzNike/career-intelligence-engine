@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0062",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "python",
+    "aws",
+    "orchestration",
+    "data_modeling",
+    "scala",
+    "data_warehousing",
+    "gcp",
+    "ml_engineering",
+    "azure"
+  ],
+  "skill_names": [
+    "Python",
+    "AWS",
+    "Orchestration",
+    "Data Modeling",
+    "Scala",
+    "Data Warehousing",
+    "GCP",
+    "ML Engineering (Ops)",
+    "Azure"
+  ],
+  "name": "Walter Sloan",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

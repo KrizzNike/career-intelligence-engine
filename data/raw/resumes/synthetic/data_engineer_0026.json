@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0026",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "ml_engineering",
+    "azure",
+    "etl_elt",
+    "aws",
+    "python",
+    "orchestration",
+    "gcp",
+    "data_modeling",
+    "scala",
+    "data_warehousing"
+  ],
+  "skill_names": [
+    "ML Engineering (Ops)",
+    "Azure",
+    "ETL / ELT",
+    "AWS",
+    "Python",
+    "Orchestration",
+    "GCP",
+    "Data Modeling",
+    "Scala",
+    "Data Warehousing"
+  ],
+  "name": "Katherine Pope",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

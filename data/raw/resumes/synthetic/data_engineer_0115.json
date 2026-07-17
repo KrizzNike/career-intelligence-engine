@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0115",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "orchestration",
+    "python",
+    "data_warehousing",
+    "sql",
+    "aws",
+    "scala",
+    "etl_elt",
+    "ml_engineering",
+    "data_modeling"
+  ],
+  "skill_names": [
+    "Orchestration",
+    "Python",
+    "Data Warehousing",
+    "SQL",
+    "AWS",
+    "Scala",
+    "ETL / ELT",
+    "ML Engineering (Ops)",
+    "Data Modeling"
+  ],
+  "name": "John Lane",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0112",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql",
+    "kpi_design",
+    "domain_acumen",
+    "excel",
+    "descriptive_stats",
+    "etl_basics",
+    "stakeholder_management",
+    "sql_to_insight"
+  ],
+  "skill_names": [
+    "SQL",
+    "KPI Design",
+    "Domain Acumen",
+    "Microsoft Excel",
+    "Descriptive Statistics",
+    "ETL Fundamentals",
+    "Stakeholder Management",
+    "SQL-to-Insight Storytelling"
+  ],
+  "name": "Rebecca Zimmerman",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0034",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "python",
+    "model_evaluation",
+    "sql",
+    "experimentation",
+    "r_language",
+    "probability",
+    "nlp",
+    "unsupervised_learning",
+    "supervised_learning",
+    "insight_storytelling"
+  ],
+  "skill_names": [
+    "Python",
+    "Model Evaluation",
+    "SQL",
+    "Experimentation",
+    "R",
+    "Probability & Statistics",
+    "Natural Language Processing",
+    "Unsupervised Learning",
+    "Supervised Learning",
+    "Insight Storytelling"
+  ],
+  "name": "Jennifer Morse",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

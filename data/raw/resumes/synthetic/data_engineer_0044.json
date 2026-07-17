@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0044",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "aws",
+    "python",
+    "ml_engineering",
+    "gcp",
+    "scala",
+    "orchestration",
+    "data_warehousing"
+  ],
+  "skill_names": [
+    "AWS",
+    "Python",
+    "ML Engineering (Ops)",
+    "GCP",
+    "Scala",
+    "Orchestration",
+    "Data Warehousing"
+  ],
+  "name": "Samuel Phillips",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

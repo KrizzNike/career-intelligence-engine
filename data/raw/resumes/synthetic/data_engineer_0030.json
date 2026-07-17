@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0030",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "etl_elt",
+    "azure",
+    "data_modeling",
+    "sql",
+    "gcp",
+    "aws",
+    "scala"
+  ],
+  "skill_names": [
+    "ETL / ELT",
+    "Azure",
+    "Data Modeling",
+    "SQL",
+    "GCP",
+    "AWS",
+    "Scala"
+  ],
+  "name": "Matthew Richardson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

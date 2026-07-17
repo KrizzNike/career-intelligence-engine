@@ -1,0 +1,25 @@
+{
+  "resume_id": "ml_engineer_0052",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "sql",
+    "mlops",
+    "python",
+    "deep_learning",
+    "aws",
+    "docker_k8s"
+  ],
+  "skill_names": [
+    "SQL",
+    "MLOps",
+    "Python",
+    "Deep Learning",
+    "AWS",
+    "Docker & Kubernetes"
+  ],
+  "name": "Ashley Perez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

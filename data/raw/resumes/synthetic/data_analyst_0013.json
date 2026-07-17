@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0013",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "kpi_design",
+    "descriptive_stats",
+    "stakeholder_management",
+    "data_modeling_basics",
+    "excel",
+    "domain_acumen",
+    "etl_basics",
+    "python"
+  ],
+  "skill_names": [
+    "KPI Design",
+    "Descriptive Statistics",
+    "Stakeholder Management",
+    "Data Modeling (Basics)",
+    "Microsoft Excel",
+    "Domain Acumen",
+    "ETL Fundamentals",
+    "Python"
+  ],
+  "name": "Samantha Ruiz",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

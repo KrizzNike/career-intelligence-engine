@@ -1,0 +1,25 @@
+{
+  "resume_id": "ml_engineer_0065",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "supervised_learning",
+    "feature_stores",
+    "mlops",
+    "docker_k8s",
+    "deep_learning",
+    "python"
+  ],
+  "skill_names": [
+    "Supervised Learning",
+    "Feature Stores",
+    "MLOps",
+    "Docker & Kubernetes",
+    "Deep Learning",
+    "Python"
+  ],
+  "name": "Michele Snow",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

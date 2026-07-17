@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0049",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "sql",
+    "ml_engineering",
+    "azure",
+    "scala",
+    "python",
+    "data_modeling",
+    "etl_elt",
+    "data_warehousing"
+  ],
+  "skill_names": [
+    "SQL",
+    "ML Engineering (Ops)",
+    "Azure",
+    "Scala",
+    "Python",
+    "Data Modeling",
+    "ETL / ELT",
+    "Data Warehousing"
+  ],
+  "name": "Brian Hendricks",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

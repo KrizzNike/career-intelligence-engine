@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0032",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "etl_elt",
+    "azure",
+    "orchestration",
+    "python",
+    "ml_engineering",
+    "sql",
+    "data_warehousing"
+  ],
+  "skill_names": [
+    "ETL / ELT",
+    "Azure",
+    "Orchestration",
+    "Python",
+    "ML Engineering (Ops)",
+    "SQL",
+    "Data Warehousing"
+  ],
+  "name": "Kayla Watts",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

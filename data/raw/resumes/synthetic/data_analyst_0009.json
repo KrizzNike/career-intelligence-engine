@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0009",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql",
+    "sql_to_insight",
+    "data_modeling_basics",
+    "python",
+    "excel",
+    "descriptive_stats",
+    "stakeholder_management",
+    "r_language",
+    "kpi_design",
+    "etl_basics"
+  ],
+  "skill_names": [
+    "SQL",
+    "SQL-to-Insight Storytelling",
+    "Data Modeling (Basics)",
+    "Python",
+    "Microsoft Excel",
+    "Descriptive Statistics",
+    "Stakeholder Management",
+    "R",
+    "KPI Design",
+    "ETL Fundamentals"
+  ],
+  "name": "Christopher Whitaker",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

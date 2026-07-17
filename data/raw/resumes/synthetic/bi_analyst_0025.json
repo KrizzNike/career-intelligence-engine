@@ -1,0 +1,23 @@
+{
+  "resume_id": "bi_analyst_0025",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "looker",
+    "sql",
+    "python",
+    "data_modeling_basics",
+    "kpi_design"
+  ],
+  "skill_names": [
+    "Looker",
+    "SQL",
+    "Python",
+    "Data Modeling (Basics)",
+    "KPI Design"
+  ],
+  "name": "Michael Roberts",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

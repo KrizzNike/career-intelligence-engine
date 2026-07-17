@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0096",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "etl_basics",
+    "r_language",
+    "stakeholder_management",
+    "hypothesis_testing",
+    "python",
+    "descriptive_stats",
+    "domain_acumen",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "ETL Fundamentals",
+    "R",
+    "Stakeholder Management",
+    "Hypothesis Testing",
+    "Python",
+    "Descriptive Statistics",
+    "Domain Acumen",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Mr. Ryan Camacho",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0048",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_modeling",
+    "aws",
+    "sql",
+    "data_warehousing",
+    "scala",
+    "azure",
+    "orchestration",
+    "ml_engineering",
+    "python",
+    "etl_elt"
+  ],
+  "skill_names": [
+    "Data Modeling",
+    "AWS",
+    "SQL",
+    "Data Warehousing",
+    "Scala",
+    "Azure",
+    "Orchestration",
+    "ML Engineering (Ops)",
+    "Python",
+    "ETL / ELT"
+  ],
+  "name": "Harry Mitchell",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

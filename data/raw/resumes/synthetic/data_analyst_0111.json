@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0111",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql_to_insight",
+    "data_modeling_basics",
+    "excel",
+    "etl_basics",
+    "python",
+    "kpi_design",
+    "hypothesis_testing",
+    "r_language",
+    "sql"
+  ],
+  "skill_names": [
+    "SQL-to-Insight Storytelling",
+    "Data Modeling (Basics)",
+    "Microsoft Excel",
+    "ETL Fundamentals",
+    "Python",
+    "KPI Design",
+    "Hypothesis Testing",
+    "R",
+    "SQL"
+  ],
+  "name": "Joshua Jones",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

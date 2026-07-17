@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0011",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "unsupervised_learning",
+    "r_language",
+    "model_evaluation",
+    "insight_storytelling",
+    "supervised_learning",
+    "feature_engineering",
+    "nlp"
+  ],
+  "skill_names": [
+    "Unsupervised Learning",
+    "R",
+    "Model Evaluation",
+    "Insight Storytelling",
+    "Supervised Learning",
+    "Feature Engineering",
+    "Natural Language Processing"
+  ],
+  "name": "Eric Walker",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

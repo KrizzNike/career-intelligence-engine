@@ -1,0 +1,23 @@
+{
+  "resume_id": "bi_analyst_0075",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "sql",
+    "semantic_layer",
+    "power_bi",
+    "data_modeling_basics",
+    "tableau"
+  ],
+  "skill_names": [
+    "SQL",
+    "Semantic Layer",
+    "Power BI",
+    "Data Modeling (Basics)",
+    "Tableau"
+  ],
+  "name": "Eddie Schwartz",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

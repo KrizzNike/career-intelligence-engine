@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0066",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "hypothesis_testing",
+    "sql_to_insight",
+    "sql",
+    "excel",
+    "etl_basics",
+    "stakeholder_management",
+    "descriptive_stats",
+    "python"
+  ],
+  "skill_names": [
+    "Hypothesis Testing",
+    "SQL-to-Insight Storytelling",
+    "SQL",
+    "Microsoft Excel",
+    "ETL Fundamentals",
+    "Stakeholder Management",
+    "Descriptive Statistics",
+    "Python"
+  ],
+  "name": "Brian Perez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

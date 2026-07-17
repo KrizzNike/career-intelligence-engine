@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0054",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "scala",
+    "orchestration",
+    "python",
+    "data_modeling",
+    "data_warehousing",
+    "sql",
+    "aws",
+    "gcp"
+  ],
+  "skill_names": [
+    "Scala",
+    "Orchestration",
+    "Python",
+    "Data Modeling",
+    "Data Warehousing",
+    "SQL",
+    "AWS",
+    "GCP"
+  ],
+  "name": "Paul Swanson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

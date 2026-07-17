@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0093",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql",
+    "python",
+    "descriptive_stats",
+    "excel",
+    "data_modeling_basics",
+    "kpi_design",
+    "hypothesis_testing",
+    "etl_basics",
+    "stakeholder_management",
+    "r_language"
+  ],
+  "skill_names": [
+    "SQL",
+    "Python",
+    "Descriptive Statistics",
+    "Microsoft Excel",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "Hypothesis Testing",
+    "ETL Fundamentals",
+    "Stakeholder Management",
+    "R"
+  ],
+  "name": "David Davis",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

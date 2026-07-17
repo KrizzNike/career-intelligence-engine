@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0105",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "experimentation",
+    "sql",
+    "insight_storytelling",
+    "unsupervised_learning",
+    "python",
+    "nlp",
+    "r_language"
+  ],
+  "skill_names": [
+    "Experimentation",
+    "SQL",
+    "Insight Storytelling",
+    "Unsupervised Learning",
+    "Python",
+    "Natural Language Processing",
+    "R"
+  ],
+  "name": "Emily Martinez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

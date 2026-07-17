@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0063",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "python",
+    "orchestration",
+    "azure",
+    "data_modeling",
+    "scala",
+    "data_warehousing",
+    "etl_elt",
+    "ml_engineering"
+  ],
+  "skill_names": [
+    "Python",
+    "Orchestration",
+    "Azure",
+    "Data Modeling",
+    "Scala",
+    "Data Warehousing",
+    "ETL / ELT",
+    "ML Engineering (Ops)"
+  ],
+  "name": "Todd Myers",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

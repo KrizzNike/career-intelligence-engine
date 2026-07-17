@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0022",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "gcp",
+    "azure",
+    "data_modeling",
+    "scala",
+    "aws",
+    "data_warehousing",
+    "ml_engineering",
+    "orchestration",
+    "sql"
+  ],
+  "skill_names": [
+    "GCP",
+    "Azure",
+    "Data Modeling",
+    "Scala",
+    "AWS",
+    "Data Warehousing",
+    "ML Engineering (Ops)",
+    "Orchestration",
+    "SQL"
+  ],
+  "name": "Dylan Jordan",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

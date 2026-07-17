@@ -1,0 +1,25 @@
+{
+  "resume_id": "ml_engineer_0014",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "feature_stores",
+    "deep_learning",
+    "sql",
+    "docker_k8s",
+    "supervised_learning",
+    "python"
+  ],
+  "skill_names": [
+    "Feature Stores",
+    "Deep Learning",
+    "SQL",
+    "Docker & Kubernetes",
+    "Supervised Learning",
+    "Python"
+  ],
+  "name": "Linda Cooper",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

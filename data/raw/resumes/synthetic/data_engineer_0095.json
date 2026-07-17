@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0095",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_warehousing",
+    "etl_elt",
+    "python",
+    "orchestration",
+    "ml_engineering",
+    "sql",
+    "gcp"
+  ],
+  "skill_names": [
+    "Data Warehousing",
+    "ETL / ELT",
+    "Python",
+    "Orchestration",
+    "ML Engineering (Ops)",
+    "SQL",
+    "GCP"
+  ],
+  "name": "Kelsey Williams",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0070",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "python",
+    "tableau",
+    "data_modeling_basics",
+    "power_bi",
+    "kpi_design",
+    "semantic_layer",
+    "looker"
+  ],
+  "skill_names": [
+    "Python",
+    "Tableau",
+    "Data Modeling (Basics)",
+    "Power BI",
+    "KPI Design",
+    "Semantic Layer",
+    "Looker"
+  ],
+  "name": "Tyler Stevens",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

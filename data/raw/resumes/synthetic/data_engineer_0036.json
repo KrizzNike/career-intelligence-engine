@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0036",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "python",
+    "orchestration",
+    "scala",
+    "data_warehousing",
+    "gcp",
+    "aws",
+    "etl_elt",
+    "sql"
+  ],
+  "skill_names": [
+    "Python",
+    "Orchestration",
+    "Scala",
+    "Data Warehousing",
+    "GCP",
+    "AWS",
+    "ETL / ELT",
+    "SQL"
+  ],
+  "name": "Alexandra Vaughan",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

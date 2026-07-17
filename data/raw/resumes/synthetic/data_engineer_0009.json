@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0009",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "orchestration",
+    "ml_engineering",
+    "scala",
+    "data_modeling",
+    "python",
+    "data_warehousing",
+    "aws"
+  ],
+  "skill_names": [
+    "Orchestration",
+    "ML Engineering (Ops)",
+    "Scala",
+    "Data Modeling",
+    "Python",
+    "Data Warehousing",
+    "AWS"
+  ],
+  "name": "Melissa Evans",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

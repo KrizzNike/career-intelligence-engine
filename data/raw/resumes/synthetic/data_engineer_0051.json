@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0051",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "gcp",
+    "scala",
+    "data_modeling",
+    "ml_engineering",
+    "sql",
+    "data_warehousing",
+    "orchestration",
+    "azure",
+    "python"
+  ],
+  "skill_names": [
+    "GCP",
+    "Scala",
+    "Data Modeling",
+    "ML Engineering (Ops)",
+    "SQL",
+    "Data Warehousing",
+    "Orchestration",
+    "Azure",
+    "Python"
+  ],
+  "name": "Melissa Coleman",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

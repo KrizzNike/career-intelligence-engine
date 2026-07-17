@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0069",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "descriptive_stats",
+    "data_modeling_basics",
+    "domain_acumen",
+    "sql_to_insight",
+    "sql",
+    "r_language",
+    "stakeholder_management",
+    "kpi_design"
+  ],
+  "skill_names": [
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "SQL",
+    "R",
+    "Stakeholder Management",
+    "KPI Design"
+  ],
+  "name": "Faith Johnson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

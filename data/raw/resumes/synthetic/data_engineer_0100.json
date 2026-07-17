@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0100",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "scala",
+    "data_modeling",
+    "etl_elt",
+    "python",
+    "gcp",
+    "aws",
+    "ml_engineering",
+    "azure",
+    "data_warehousing"
+  ],
+  "skill_names": [
+    "Scala",
+    "Data Modeling",
+    "ETL / ELT",
+    "Python",
+    "GCP",
+    "AWS",
+    "ML Engineering (Ops)",
+    "Azure",
+    "Data Warehousing"
+  ],
+  "name": "George Chavez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,25 @@
+{
+  "resume_id": "bi_analyst_0068",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "tableau",
+    "semantic_layer",
+    "looker",
+    "power_bi",
+    "python",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "Tableau",
+    "Semantic Layer",
+    "Looker",
+    "Power BI",
+    "Python",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Timothy Riley",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

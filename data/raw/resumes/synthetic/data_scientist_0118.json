@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0118",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "sql",
+    "feature_engineering",
+    "model_evaluation",
+    "python",
+    "experimentation",
+    "r_language",
+    "unsupervised_learning",
+    "supervised_learning",
+    "nlp"
+  ],
+  "skill_names": [
+    "SQL",
+    "Feature Engineering",
+    "Model Evaluation",
+    "Python",
+    "Experimentation",
+    "R",
+    "Unsupervised Learning",
+    "Supervised Learning",
+    "Natural Language Processing"
+  ],
+  "name": "Debbie Miller",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0084",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "probability",
+    "feature_engineering",
+    "unsupervised_learning",
+    "python",
+    "experimentation",
+    "nlp",
+    "model_evaluation"
+  ],
+  "skill_names": [
+    "Probability & Statistics",
+    "Feature Engineering",
+    "Unsupervised Learning",
+    "Python",
+    "Experimentation",
+    "Natural Language Processing",
+    "Model Evaluation"
+  ],
+  "name": "Stephanie Gray",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

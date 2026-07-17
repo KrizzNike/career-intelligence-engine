@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0106",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "semantic_layer",
+    "power_bi",
+    "python",
+    "sql",
+    "looker",
+    "kpi_design",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "Semantic Layer",
+    "Power BI",
+    "Python",
+    "SQL",
+    "Looker",
+    "KPI Design",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Mr. Donald Nguyen",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

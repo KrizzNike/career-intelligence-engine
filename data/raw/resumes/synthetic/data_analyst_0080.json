@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0080",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "domain_acumen",
+    "hypothesis_testing",
+    "excel",
+    "kpi_design",
+    "descriptive_stats",
+    "stakeholder_management",
+    "data_modeling_basics",
+    "sql"
+  ],
+  "skill_names": [
+    "Domain Acumen",
+    "Hypothesis Testing",
+    "Microsoft Excel",
+    "KPI Design",
+    "Descriptive Statistics",
+    "Stakeholder Management",
+    "Data Modeling (Basics)",
+    "SQL"
+  ],
+  "name": "Annette Lewis",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

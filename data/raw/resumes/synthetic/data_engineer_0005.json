@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0005",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "etl_elt",
+    "scala",
+    "orchestration",
+    "azure",
+    "data_modeling",
+    "data_warehousing",
+    "sql",
+    "ml_engineering",
+    "aws"
+  ],
+  "skill_names": [
+    "ETL / ELT",
+    "Scala",
+    "Orchestration",
+    "Azure",
+    "Data Modeling",
+    "Data Warehousing",
+    "SQL",
+    "ML Engineering (Ops)",
+    "AWS"
+  ],
+  "name": "Elizabeth Hernandez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

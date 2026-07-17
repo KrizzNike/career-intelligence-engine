@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0083",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "sql",
+    "semantic_layer",
+    "tableau",
+    "data_modeling_basics",
+    "looker",
+    "python",
+    "kpi_design"
+  ],
+  "skill_names": [
+    "SQL",
+    "Semantic Layer",
+    "Tableau",
+    "Data Modeling (Basics)",
+    "Looker",
+    "Python",
+    "KPI Design"
+  ],
+  "name": "Mark Copeland",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

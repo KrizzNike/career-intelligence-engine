@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0111",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "sql",
+    "data_warehousing",
+    "orchestration",
+    "ml_engineering",
+    "data_modeling",
+    "scala",
+    "aws",
+    "azure"
+  ],
+  "skill_names": [
+    "SQL",
+    "Data Warehousing",
+    "Orchestration",
+    "ML Engineering (Ops)",
+    "Data Modeling",
+    "Scala",
+    "AWS",
+    "Azure"
+  ],
+  "name": "Sandra Dawson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,25 @@
+{
+  "resume_id": "bi_analyst_0064",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "sql",
+    "semantic_layer",
+    "data_modeling_basics",
+    "power_bi",
+    "python",
+    "looker"
+  ],
+  "skill_names": [
+    "SQL",
+    "Semantic Layer",
+    "Data Modeling (Basics)",
+    "Power BI",
+    "Python",
+    "Looker"
+  ],
+  "name": "Cameron Irwin",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

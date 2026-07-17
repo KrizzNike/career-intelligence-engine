@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0014",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "sql",
+    "aws",
+    "orchestration",
+    "gcp",
+    "azure",
+    "ml_engineering",
+    "python",
+    "etl_elt",
+    "data_warehousing",
+    "data_modeling"
+  ],
+  "skill_names": [
+    "SQL",
+    "AWS",
+    "Orchestration",
+    "GCP",
+    "Azure",
+    "ML Engineering (Ops)",
+    "Python",
+    "ETL / ELT",
+    "Data Warehousing",
+    "Data Modeling"
+  ],
+  "name": "Aaron Barton",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

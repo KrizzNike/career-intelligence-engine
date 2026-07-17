@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0043",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "kpi_design",
+    "r_language",
+    "etl_basics",
+    "data_modeling_basics",
+    "hypothesis_testing",
+    "domain_acumen",
+    "excel",
+    "sql_to_insight",
+    "descriptive_stats",
+    "sql"
+  ],
+  "skill_names": [
+    "KPI Design",
+    "R",
+    "ETL Fundamentals",
+    "Data Modeling (Basics)",
+    "Hypothesis Testing",
+    "Domain Acumen",
+    "Microsoft Excel",
+    "SQL-to-Insight Storytelling",
+    "Descriptive Statistics",
+    "SQL"
+  ],
+  "name": "Chad Neal",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

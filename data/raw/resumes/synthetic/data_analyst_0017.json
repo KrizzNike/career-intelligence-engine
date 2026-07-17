@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0017",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "python",
+    "sql_to_insight",
+    "hypothesis_testing",
+    "sql",
+    "kpi_design",
+    "descriptive_stats",
+    "etl_basics",
+    "r_language"
+  ],
+  "skill_names": [
+    "Python",
+    "SQL-to-Insight Storytelling",
+    "Hypothesis Testing",
+    "SQL",
+    "KPI Design",
+    "Descriptive Statistics",
+    "ETL Fundamentals",
+    "R"
+  ],
+  "name": "Daniel Ray",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0035",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "domain_acumen",
+    "python",
+    "r_language",
+    "data_modeling_basics",
+    "stakeholder_management",
+    "kpi_design",
+    "sql",
+    "hypothesis_testing",
+    "etl_basics"
+  ],
+  "skill_names": [
+    "Domain Acumen",
+    "Python",
+    "R",
+    "Data Modeling (Basics)",
+    "Stakeholder Management",
+    "KPI Design",
+    "SQL",
+    "Hypothesis Testing",
+    "ETL Fundamentals"
+  ],
+  "name": "Mary Bennett",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

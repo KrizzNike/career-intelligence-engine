@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0032",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "insight_storytelling",
+    "model_evaluation",
+    "supervised_learning",
+    "feature_engineering",
+    "probability",
+    "nlp",
+    "experimentation"
+  ],
+  "skill_names": [
+    "Insight Storytelling",
+    "Model Evaluation",
+    "Supervised Learning",
+    "Feature Engineering",
+    "Probability & Statistics",
+    "Natural Language Processing",
+    "Experimentation"
+  ],
+  "name": "Allison Bradley",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

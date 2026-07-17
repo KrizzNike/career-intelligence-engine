@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0067",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "domain_acumen",
+    "sql_to_insight",
+    "r_language",
+    "stakeholder_management",
+    "etl_basics",
+    "sql",
+    "descriptive_stats",
+    "kpi_design",
+    "python",
+    "hypothesis_testing"
+  ],
+  "skill_names": [
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "R",
+    "Stakeholder Management",
+    "ETL Fundamentals",
+    "SQL",
+    "Descriptive Statistics",
+    "KPI Design",
+    "Python",
+    "Hypothesis Testing"
+  ],
+  "name": "Christopher Cooper",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

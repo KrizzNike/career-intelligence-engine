@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0113",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "sql",
+    "gcp",
+    "orchestration",
+    "data_modeling",
+    "python",
+    "ml_engineering",
+    "azure",
+    "etl_elt",
+    "data_warehousing",
+    "scala"
+  ],
+  "skill_names": [
+    "SQL",
+    "GCP",
+    "Orchestration",
+    "Data Modeling",
+    "Python",
+    "ML Engineering (Ops)",
+    "Azure",
+    "ETL / ELT",
+    "Data Warehousing",
+    "Scala"
+  ],
+  "name": "Samuel Rios",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0045",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_warehousing",
+    "orchestration",
+    "scala",
+    "aws",
+    "sql",
+    "etl_elt",
+    "data_modeling",
+    "gcp"
+  ],
+  "skill_names": [
+    "Data Warehousing",
+    "Orchestration",
+    "Scala",
+    "AWS",
+    "SQL",
+    "ETL / ELT",
+    "Data Modeling",
+    "GCP"
+  ],
+  "name": "Vincent Thompson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

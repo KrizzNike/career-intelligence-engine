@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0093",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "unsupervised_learning",
+    "probability",
+    "r_language",
+    "python",
+    "feature_engineering",
+    "supervised_learning",
+    "sql"
+  ],
+  "skill_names": [
+    "Unsupervised Learning",
+    "Probability & Statistics",
+    "R",
+    "Python",
+    "Feature Engineering",
+    "Supervised Learning",
+    "SQL"
+  ],
+  "name": "Elizabeth Kaufman",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

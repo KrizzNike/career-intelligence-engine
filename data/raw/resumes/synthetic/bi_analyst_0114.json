@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0114",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "kpi_design",
+    "semantic_layer",
+    "python",
+    "power_bi",
+    "data_modeling_basics",
+    "sql",
+    "looker"
+  ],
+  "skill_names": [
+    "KPI Design",
+    "Semantic Layer",
+    "Python",
+    "Power BI",
+    "Data Modeling (Basics)",
+    "SQL",
+    "Looker"
+  ],
+  "name": "Mr. Martin Hernandez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

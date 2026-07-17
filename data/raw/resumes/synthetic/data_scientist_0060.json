@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0060",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "r_language",
+    "python",
+    "model_evaluation",
+    "unsupervised_learning",
+    "supervised_learning",
+    "insight_storytelling",
+    "feature_engineering",
+    "probability"
+  ],
+  "skill_names": [
+    "R",
+    "Python",
+    "Model Evaluation",
+    "Unsupervised Learning",
+    "Supervised Learning",
+    "Insight Storytelling",
+    "Feature Engineering",
+    "Probability & Statistics"
+  ],
+  "name": "Amy Wright",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

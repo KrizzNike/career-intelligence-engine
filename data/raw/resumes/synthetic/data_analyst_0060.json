@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0060",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql_to_insight",
+    "excel",
+    "kpi_design",
+    "hypothesis_testing",
+    "descriptive_stats",
+    "python",
+    "stakeholder_management",
+    "domain_acumen"
+  ],
+  "skill_names": [
+    "SQL-to-Insight Storytelling",
+    "Microsoft Excel",
+    "KPI Design",
+    "Hypothesis Testing",
+    "Descriptive Statistics",
+    "Python",
+    "Stakeholder Management",
+    "Domain Acumen"
+  ],
+  "name": "Martin Fitzpatrick",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0090",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "sql",
+    "supervised_learning",
+    "unsupervised_learning",
+    "probability",
+    "feature_engineering",
+    "insight_storytelling",
+    "nlp"
+  ],
+  "skill_names": [
+    "SQL",
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "Probability & Statistics",
+    "Feature Engineering",
+    "Insight Storytelling",
+    "Natural Language Processing"
+  ],
+  "name": "Carol Gay",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

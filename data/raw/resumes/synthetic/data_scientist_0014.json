@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0014",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "probability",
+    "experimentation",
+    "nlp",
+    "r_language",
+    "python",
+    "model_evaluation",
+    "insight_storytelling",
+    "unsupervised_learning",
+    "feature_engineering"
+  ],
+  "skill_names": [
+    "Probability & Statistics",
+    "Experimentation",
+    "Natural Language Processing",
+    "R",
+    "Python",
+    "Model Evaluation",
+    "Insight Storytelling",
+    "Unsupervised Learning",
+    "Feature Engineering"
+  ],
+  "name": "Anna Atkins",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

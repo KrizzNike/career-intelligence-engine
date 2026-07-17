@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0110",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql_to_insight",
+    "sql",
+    "kpi_design",
+    "excel",
+    "hypothesis_testing",
+    "domain_acumen",
+    "etl_basics",
+    "descriptive_stats"
+  ],
+  "skill_names": [
+    "SQL-to-Insight Storytelling",
+    "SQL",
+    "KPI Design",
+    "Microsoft Excel",
+    "Hypothesis Testing",
+    "Domain Acumen",
+    "ETL Fundamentals",
+    "Descriptive Statistics"
+  ],
+  "name": "Bailey Lewis",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0020",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "data_warehousing",
+    "data_modeling",
+    "gcp",
+    "etl_elt",
+    "python",
+    "orchestration",
+    "azure",
+    "aws",
+    "sql",
+    "scala"
+  ],
+  "skill_names": [
+    "Data Warehousing",
+    "Data Modeling",
+    "GCP",
+    "ETL / ELT",
+    "Python",
+    "Orchestration",
+    "Azure",
+    "AWS",
+    "SQL",
+    "Scala"
+  ],
+  "name": "Keith Lee",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

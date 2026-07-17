@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0038",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "gcp",
+    "scala",
+    "azure",
+    "orchestration",
+    "sql",
+    "etl_elt",
+    "data_warehousing",
+    "data_modeling"
+  ],
+  "skill_names": [
+    "GCP",
+    "Scala",
+    "Azure",
+    "Orchestration",
+    "SQL",
+    "ETL / ELT",
+    "Data Warehousing",
+    "Data Modeling"
+  ],
+  "name": "Craig Rice",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

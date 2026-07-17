@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0028",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "excel",
+    "python",
+    "etl_basics",
+    "kpi_design",
+    "sql_to_insight",
+    "sql",
+    "data_modeling_basics",
+    "hypothesis_testing",
+    "stakeholder_management",
+    "descriptive_stats"
+  ],
+  "skill_names": [
+    "Microsoft Excel",
+    "Python",
+    "ETL Fundamentals",
+    "KPI Design",
+    "SQL-to-Insight Storytelling",
+    "SQL",
+    "Data Modeling (Basics)",
+    "Hypothesis Testing",
+    "Stakeholder Management",
+    "Descriptive Statistics"
+  ],
+  "name": "Kimberly Hughes",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,25 @@
+{
+  "resume_id": "ml_engineer_0068",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "docker_k8s",
+    "feature_stores",
+    "deep_learning",
+    "aws",
+    "mlops",
+    "sql"
+  ],
+  "skill_names": [
+    "Docker & Kubernetes",
+    "Feature Stores",
+    "Deep Learning",
+    "AWS",
+    "MLOps",
+    "SQL"
+  ],
+  "name": "Robert Keith",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

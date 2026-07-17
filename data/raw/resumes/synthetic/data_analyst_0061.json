@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0061",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "r_language",
+    "sql_to_insight",
+    "hypothesis_testing",
+    "stakeholder_management",
+    "domain_acumen",
+    "python",
+    "data_modeling_basics",
+    "sql"
+  ],
+  "skill_names": [
+    "R",
+    "SQL-to-Insight Storytelling",
+    "Hypothesis Testing",
+    "Stakeholder Management",
+    "Domain Acumen",
+    "Python",
+    "Data Modeling (Basics)",
+    "SQL"
+  ],
+  "name": "Donna Harris",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

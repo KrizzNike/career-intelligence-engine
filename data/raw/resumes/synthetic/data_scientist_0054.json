@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0054",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "probability",
+    "sql",
+    "supervised_learning",
+    "python",
+    "nlp",
+    "feature_engineering",
+    "r_language",
+    "model_evaluation",
+    "insight_storytelling"
+  ],
+  "skill_names": [
+    "Probability & Statistics",
+    "SQL",
+    "Supervised Learning",
+    "Python",
+    "Natural Language Processing",
+    "Feature Engineering",
+    "R",
+    "Model Evaluation",
+    "Insight Storytelling"
+  ],
+  "name": "Paul Miller",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

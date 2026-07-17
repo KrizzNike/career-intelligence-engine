@@ -1,0 +1,25 @@
+{
+  "resume_id": "bi_analyst_0110",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "power_bi",
+    "python",
+    "semantic_layer",
+    "looker",
+    "tableau",
+    "sql"
+  ],
+  "skill_names": [
+    "Power BI",
+    "Python",
+    "Semantic Layer",
+    "Looker",
+    "Tableau",
+    "SQL"
+  ],
+  "name": "Alex Wagner",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

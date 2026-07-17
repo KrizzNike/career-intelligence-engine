@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0089",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "etl_basics",
+    "excel",
+    "r_language",
+    "stakeholder_management",
+    "sql_to_insight",
+    "hypothesis_testing",
+    "data_modeling_basics",
+    "descriptive_stats"
+  ],
+  "skill_names": [
+    "ETL Fundamentals",
+    "Microsoft Excel",
+    "R",
+    "Stakeholder Management",
+    "SQL-to-Insight Storytelling",
+    "Hypothesis Testing",
+    "Data Modeling (Basics)",
+    "Descriptive Statistics"
+  ],
+  "name": "Tasha Boyd",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

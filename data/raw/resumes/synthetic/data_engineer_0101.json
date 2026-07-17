@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_engineer_0101",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "python",
+    "data_modeling",
+    "ml_engineering",
+    "gcp",
+    "azure",
+    "aws",
+    "orchestration",
+    "data_warehousing"
+  ],
+  "skill_names": [
+    "Python",
+    "Data Modeling",
+    "ML Engineering (Ops)",
+    "GCP",
+    "Azure",
+    "AWS",
+    "Orchestration",
+    "Data Warehousing"
+  ],
+  "name": "Logan Mckinney Jr.",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0045",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "semantic_layer",
+    "sql",
+    "python",
+    "looker",
+    "power_bi",
+    "tableau",
+    "kpi_design"
+  ],
+  "skill_names": [
+    "Semantic Layer",
+    "SQL",
+    "Python",
+    "Looker",
+    "Power BI",
+    "Tableau",
+    "KPI Design"
+  ],
+  "name": "Miguel Rogers",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

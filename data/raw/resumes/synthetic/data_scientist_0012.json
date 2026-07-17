@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0012",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "probability",
+    "r_language",
+    "model_evaluation",
+    "experimentation",
+    "python",
+    "insight_storytelling",
+    "sql",
+    "unsupervised_learning",
+    "nlp"
+  ],
+  "skill_names": [
+    "Probability & Statistics",
+    "R",
+    "Model Evaluation",
+    "Experimentation",
+    "Python",
+    "Insight Storytelling",
+    "SQL",
+    "Unsupervised Learning",
+    "Natural Language Processing"
+  ],
+  "name": "Andrew Lynch",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

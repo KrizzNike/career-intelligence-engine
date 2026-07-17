@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0081",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "python",
+    "semantic_layer",
+    "tableau",
+    "power_bi",
+    "data_modeling_basics",
+    "sql",
+    "kpi_design"
+  ],
+  "skill_names": [
+    "Python",
+    "Semantic Layer",
+    "Tableau",
+    "Power BI",
+    "Data Modeling (Basics)",
+    "SQL",
+    "KPI Design"
+  ],
+  "name": "Leah Bell",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

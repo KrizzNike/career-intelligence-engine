@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0099",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "python",
+    "nlp",
+    "insight_storytelling",
+    "feature_engineering",
+    "sql",
+    "experimentation",
+    "supervised_learning",
+    "unsupervised_learning"
+  ],
+  "skill_names": [
+    "Python",
+    "Natural Language Processing",
+    "Insight Storytelling",
+    "Feature Engineering",
+    "SQL",
+    "Experimentation",
+    "Supervised Learning",
+    "Unsupervised Learning"
+  ],
+  "name": "Amanda Maynard",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

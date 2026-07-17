@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0060",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "python",
+    "scala",
+    "data_modeling",
+    "ml_engineering",
+    "gcp",
+    "aws",
+    "etl_elt"
+  ],
+  "skill_names": [
+    "Python",
+    "Scala",
+    "Data Modeling",
+    "ML Engineering (Ops)",
+    "GCP",
+    "AWS",
+    "ETL / ELT"
+  ],
+  "name": "Terri Mathews DDS",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

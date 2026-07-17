@@ -1,0 +1,23 @@
+{
+  "resume_id": "bi_analyst_0078",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "looker",
+    "python",
+    "sql",
+    "kpi_design",
+    "semantic_layer"
+  ],
+  "skill_names": [
+    "Looker",
+    "Python",
+    "SQL",
+    "KPI Design",
+    "Semantic Layer"
+  ],
+  "name": "Rebecca Ray",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

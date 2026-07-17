@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0069",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "nlp",
+    "r_language",
+    "python",
+    "supervised_learning",
+    "probability",
+    "unsupervised_learning",
+    "experimentation"
+  ],
+  "skill_names": [
+    "Natural Language Processing",
+    "R",
+    "Python",
+    "Supervised Learning",
+    "Probability & Statistics",
+    "Unsupervised Learning",
+    "Experimentation"
+  ],
+  "name": "Christopher Morales",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_analyst_0073",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql_to_insight",
+    "kpi_design",
+    "stakeholder_management",
+    "sql",
+    "hypothesis_testing",
+    "domain_acumen",
+    "r_language"
+  ],
+  "skill_names": [
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Stakeholder Management",
+    "SQL",
+    "Hypothesis Testing",
+    "Domain Acumen",
+    "R"
+  ],
+  "name": "Wayne Payne",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

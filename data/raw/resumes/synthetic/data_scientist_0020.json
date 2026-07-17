@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0020",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "r_language",
+    "python",
+    "probability",
+    "nlp",
+    "unsupervised_learning",
+    "model_evaluation",
+    "experimentation",
+    "insight_storytelling",
+    "sql",
+    "feature_engineering"
+  ],
+  "skill_names": [
+    "R",
+    "Python",
+    "Probability & Statistics",
+    "Natural Language Processing",
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "Experimentation",
+    "Insight Storytelling",
+    "SQL",
+    "Feature Engineering"
+  ],
+  "name": "Brian Ferguson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

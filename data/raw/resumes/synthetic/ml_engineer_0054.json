@@ -1,0 +1,25 @@
+{
+  "resume_id": "ml_engineer_0054",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "sql",
+    "python",
+    "supervised_learning",
+    "feature_stores",
+    "deep_learning",
+    "aws"
+  ],
+  "skill_names": [
+    "SQL",
+    "Python",
+    "Supervised Learning",
+    "Feature Stores",
+    "Deep Learning",
+    "AWS"
+  ],
+  "name": "Matthew Armstrong",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

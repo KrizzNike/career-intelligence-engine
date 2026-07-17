@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0071",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "sql",
+    "r_language",
+    "probability",
+    "unsupervised_learning",
+    "python",
+    "feature_engineering",
+    "nlp"
+  ],
+  "skill_names": [
+    "SQL",
+    "R",
+    "Probability & Statistics",
+    "Unsupervised Learning",
+    "Python",
+    "Feature Engineering",
+    "Natural Language Processing"
+  ],
+  "name": "Melissa Travis",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

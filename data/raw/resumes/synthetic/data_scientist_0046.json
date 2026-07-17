@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0046",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "r_language",
+    "supervised_learning",
+    "sql",
+    "model_evaluation",
+    "insight_storytelling",
+    "feature_engineering",
+    "python"
+  ],
+  "skill_names": [
+    "R",
+    "Supervised Learning",
+    "SQL",
+    "Model Evaluation",
+    "Insight Storytelling",
+    "Feature Engineering",
+    "Python"
+  ],
+  "name": "Patricia Wilson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

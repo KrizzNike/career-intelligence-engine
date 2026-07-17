@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0064",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "scala",
+    "data_warehousing",
+    "python",
+    "aws",
+    "azure",
+    "gcp",
+    "data_modeling"
+  ],
+  "skill_names": [
+    "Scala",
+    "Data Warehousing",
+    "Python",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Data Modeling"
+  ],
+  "name": "Joseph Sanchez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

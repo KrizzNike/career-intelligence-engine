@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0092",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "probability",
+    "nlp",
+    "r_language",
+    "supervised_learning",
+    "model_evaluation",
+    "sql",
+    "feature_engineering"
+  ],
+  "skill_names": [
+    "Probability & Statistics",
+    "Natural Language Processing",
+    "R",
+    "Supervised Learning",
+    "Model Evaluation",
+    "SQL",
+    "Feature Engineering"
+  ],
+  "name": "Austin Trevino",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0070",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "domain_acumen",
+    "stakeholder_management",
+    "r_language",
+    "etl_basics",
+    "sql_to_insight",
+    "descriptive_stats",
+    "kpi_design",
+    "hypothesis_testing",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "Domain Acumen",
+    "Stakeholder Management",
+    "R",
+    "ETL Fundamentals",
+    "SQL-to-Insight Storytelling",
+    "Descriptive Statistics",
+    "KPI Design",
+    "Hypothesis Testing",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Michele Mullins",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

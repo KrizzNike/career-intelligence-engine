@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0081",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "unsupervised_learning",
+    "r_language",
+    "insight_storytelling",
+    "probability",
+    "supervised_learning",
+    "sql",
+    "feature_engineering",
+    "model_evaluation",
+    "experimentation",
+    "python"
+  ],
+  "skill_names": [
+    "Unsupervised Learning",
+    "R",
+    "Insight Storytelling",
+    "Probability & Statistics",
+    "Supervised Learning",
+    "SQL",
+    "Feature Engineering",
+    "Model Evaluation",
+    "Experimentation",
+    "Python"
+  ],
+  "name": "Joseph Anderson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

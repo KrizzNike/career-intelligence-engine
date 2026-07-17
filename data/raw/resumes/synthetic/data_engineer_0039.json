@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0039",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "orchestration",
+    "etl_elt",
+    "data_modeling",
+    "data_warehousing",
+    "sql",
+    "scala",
+    "aws"
+  ],
+  "skill_names": [
+    "Orchestration",
+    "ETL / ELT",
+    "Data Modeling",
+    "Data Warehousing",
+    "SQL",
+    "Scala",
+    "AWS"
+  ],
+  "name": "James Manning",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

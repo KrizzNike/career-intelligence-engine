@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_engineer_0072",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "etl_elt",
+    "gcp",
+    "python",
+    "data_warehousing",
+    "ml_engineering",
+    "sql",
+    "scala",
+    "orchestration",
+    "aws",
+    "azure"
+  ],
+  "skill_names": [
+    "ETL / ELT",
+    "GCP",
+    "Python",
+    "Data Warehousing",
+    "ML Engineering (Ops)",
+    "SQL",
+    "Scala",
+    "Orchestration",
+    "AWS",
+    "Azure"
+  ],
+  "name": "Mary Abbott",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

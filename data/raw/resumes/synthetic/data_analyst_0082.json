@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0082",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "etl_basics",
+    "stakeholder_management",
+    "python",
+    "data_modeling_basics",
+    "kpi_design",
+    "descriptive_stats",
+    "excel",
+    "domain_acumen",
+    "sql_to_insight",
+    "hypothesis_testing"
+  ],
+  "skill_names": [
+    "ETL Fundamentals",
+    "Stakeholder Management",
+    "Python",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "Descriptive Statistics",
+    "Microsoft Excel",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "Hypothesis Testing"
+  ],
+  "name": "Dr. Ralph Wheeler DDS",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

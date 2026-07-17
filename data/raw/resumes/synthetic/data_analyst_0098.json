@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0098",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "hypothesis_testing",
+    "python",
+    "r_language",
+    "data_modeling_basics",
+    "kpi_design",
+    "descriptive_stats",
+    "sql_to_insight",
+    "sql",
+    "domain_acumen",
+    "etl_basics"
+  ],
+  "skill_names": [
+    "Hypothesis Testing",
+    "Python",
+    "R",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "Descriptive Statistics",
+    "SQL-to-Insight Storytelling",
+    "SQL",
+    "Domain Acumen",
+    "ETL Fundamentals"
+  ],
+  "name": "John Reynolds",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

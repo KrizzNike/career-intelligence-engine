@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0025",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "python",
+    "r_language",
+    "hypothesis_testing",
+    "etl_basics",
+    "data_modeling_basics",
+    "excel",
+    "stakeholder_management",
+    "sql_to_insight",
+    "kpi_design",
+    "descriptive_stats"
+  ],
+  "skill_names": [
+    "Python",
+    "R",
+    "Hypothesis Testing",
+    "ETL Fundamentals",
+    "Data Modeling (Basics)",
+    "Microsoft Excel",
+    "Stakeholder Management",
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Descriptive Statistics"
+  ],
+  "name": "Michael Collins",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

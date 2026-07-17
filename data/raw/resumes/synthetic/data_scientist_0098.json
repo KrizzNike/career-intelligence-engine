@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0098",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "feature_engineering",
+    "nlp",
+    "python",
+    "probability",
+    "unsupervised_learning",
+    "experimentation",
+    "model_evaluation"
+  ],
+  "skill_names": [
+    "Feature Engineering",
+    "Natural Language Processing",
+    "Python",
+    "Probability & Statistics",
+    "Unsupervised Learning",
+    "Experimentation",
+    "Model Evaluation"
+  ],
+  "name": "David Davis",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

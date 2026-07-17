@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0080",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "insight_storytelling",
+    "experimentation",
+    "unsupervised_learning",
+    "feature_engineering",
+    "r_language",
+    "python",
+    "probability",
+    "sql",
+    "model_evaluation"
+  ],
+  "skill_names": [
+    "Insight Storytelling",
+    "Experimentation",
+    "Unsupervised Learning",
+    "Feature Engineering",
+    "R",
+    "Python",
+    "Probability & Statistics",
+    "SQL",
+    "Model Evaluation"
+  ],
+  "name": "Benjamin Martinez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

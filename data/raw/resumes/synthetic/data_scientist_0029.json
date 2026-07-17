@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0029",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "nlp",
+    "experimentation",
+    "python",
+    "supervised_learning",
+    "feature_engineering",
+    "sql",
+    "r_language",
+    "probability",
+    "unsupervised_learning"
+  ],
+  "skill_names": [
+    "Natural Language Processing",
+    "Experimentation",
+    "Python",
+    "Supervised Learning",
+    "Feature Engineering",
+    "SQL",
+    "R",
+    "Probability & Statistics",
+    "Unsupervised Learning"
+  ],
+  "name": "Travis Taylor",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

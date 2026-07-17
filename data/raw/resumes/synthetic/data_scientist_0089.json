@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0089",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "r_language",
+    "unsupervised_learning",
+    "experimentation",
+    "insight_storytelling",
+    "supervised_learning",
+    "python",
+    "feature_engineering",
+    "model_evaluation",
+    "nlp",
+    "sql"
+  ],
+  "skill_names": [
+    "R",
+    "Unsupervised Learning",
+    "Experimentation",
+    "Insight Storytelling",
+    "Supervised Learning",
+    "Python",
+    "Feature Engineering",
+    "Model Evaluation",
+    "Natural Language Processing",
+    "SQL"
+  ],
+  "name": "Elizabeth Sanchez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0009",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "probability",
+    "nlp",
+    "r_language",
+    "python",
+    "insight_storytelling",
+    "supervised_learning",
+    "model_evaluation",
+    "feature_engineering",
+    "experimentation"
+  ],
+  "skill_names": [
+    "Probability & Statistics",
+    "Natural Language Processing",
+    "R",
+    "Python",
+    "Insight Storytelling",
+    "Supervised Learning",
+    "Model Evaluation",
+    "Feature Engineering",
+    "Experimentation"
+  ],
+  "name": "Brenda Sanchez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0104",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "aws",
+    "scala",
+    "data_modeling",
+    "ml_engineering",
+    "etl_elt",
+    "sql",
+    "data_warehousing",
+    "python",
+    "gcp"
+  ],
+  "skill_names": [
+    "AWS",
+    "Scala",
+    "Data Modeling",
+    "ML Engineering (Ops)",
+    "ETL / ELT",
+    "SQL",
+    "Data Warehousing",
+    "Python",
+    "GCP"
+  ],
+  "name": "Douglas Johnson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

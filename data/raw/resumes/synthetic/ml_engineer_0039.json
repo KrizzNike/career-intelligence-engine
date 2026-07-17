@@ -1,0 +1,27 @@
+{
+  "resume_id": "ml_engineer_0039",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "feature_stores",
+    "mlops",
+    "aws",
+    "deep_learning",
+    "sql",
+    "python",
+    "supervised_learning"
+  ],
+  "skill_names": [
+    "Feature Stores",
+    "MLOps",
+    "AWS",
+    "Deep Learning",
+    "SQL",
+    "Python",
+    "Supervised Learning"
+  ],
+  "name": "Anthony Smith",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

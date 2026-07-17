@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0051",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "excel",
+    "domain_acumen",
+    "r_language",
+    "sql_to_insight",
+    "kpi_design",
+    "descriptive_stats",
+    "stakeholder_management",
+    "sql",
+    "hypothesis_testing",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "Microsoft Excel",
+    "Domain Acumen",
+    "R",
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Descriptive Statistics",
+    "Stakeholder Management",
+    "SQL",
+    "Hypothesis Testing",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Brent Wallace",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

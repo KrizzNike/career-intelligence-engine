@@ -1,0 +1,23 @@
+{
+  "resume_id": "bi_analyst_0032",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "data_modeling_basics",
+    "looker",
+    "kpi_design",
+    "semantic_layer",
+    "tableau"
+  ],
+  "skill_names": [
+    "Data Modeling (Basics)",
+    "Looker",
+    "KPI Design",
+    "Semantic Layer",
+    "Tableau"
+  ],
+  "name": "Susan Turner",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

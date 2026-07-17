@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0034",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "etl_elt",
+    "python",
+    "data_modeling",
+    "azure",
+    "scala",
+    "orchestration",
+    "gcp",
+    "data_warehousing",
+    "ml_engineering"
+  ],
+  "skill_names": [
+    "ETL / ELT",
+    "Python",
+    "Data Modeling",
+    "Azure",
+    "Scala",
+    "Orchestration",
+    "GCP",
+    "Data Warehousing",
+    "ML Engineering (Ops)"
+  ],
+  "name": "Sheri Chapman",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

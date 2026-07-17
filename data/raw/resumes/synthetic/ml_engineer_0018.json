@@ -1,0 +1,25 @@
+{
+  "resume_id": "ml_engineer_0018",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "mlops",
+    "supervised_learning",
+    "feature_stores",
+    "sql",
+    "deep_learning",
+    "docker_k8s"
+  ],
+  "skill_names": [
+    "MLOps",
+    "Supervised Learning",
+    "Feature Stores",
+    "SQL",
+    "Deep Learning",
+    "Docker & Kubernetes"
+  ],
+  "name": "Kathleen Mccullough",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

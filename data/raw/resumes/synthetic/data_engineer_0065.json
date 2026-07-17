@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0065",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "gcp",
+    "data_warehousing",
+    "etl_elt",
+    "aws",
+    "data_modeling",
+    "azure",
+    "orchestration"
+  ],
+  "skill_names": [
+    "GCP",
+    "Data Warehousing",
+    "ETL / ELT",
+    "AWS",
+    "Data Modeling",
+    "Azure",
+    "Orchestration"
+  ],
+  "name": "Madeline Hayes",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

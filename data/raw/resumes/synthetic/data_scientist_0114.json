@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_scientist_0114",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "probability",
+    "insight_storytelling",
+    "unsupervised_learning",
+    "sql",
+    "nlp",
+    "feature_engineering",
+    "model_evaluation",
+    "supervised_learning"
+  ],
+  "skill_names": [
+    "Probability & Statistics",
+    "Insight Storytelling",
+    "Unsupervised Learning",
+    "SQL",
+    "Natural Language Processing",
+    "Feature Engineering",
+    "Model Evaluation",
+    "Supervised Learning"
+  ],
+  "name": "Nicholas Ramsey",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

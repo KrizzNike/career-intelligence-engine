@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0076",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "unsupervised_learning",
+    "model_evaluation",
+    "sql",
+    "python",
+    "insight_storytelling",
+    "nlp",
+    "experimentation"
+  ],
+  "skill_names": [
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "SQL",
+    "Python",
+    "Insight Storytelling",
+    "Natural Language Processing",
+    "Experimentation"
+  ],
+  "name": "Anthony French",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

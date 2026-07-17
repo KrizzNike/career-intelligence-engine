@@ -1,0 +1,23 @@
+{
+  "resume_id": "ml_engineer_0083",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "python",
+    "aws",
+    "docker_k8s",
+    "sql",
+    "mlops"
+  ],
+  "skill_names": [
+    "Python",
+    "AWS",
+    "Docker & Kubernetes",
+    "SQL",
+    "MLOps"
+  ],
+  "name": "Tyrone Collins",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

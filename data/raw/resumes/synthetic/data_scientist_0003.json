@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0003",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "sql",
+    "model_evaluation",
+    "experimentation",
+    "nlp",
+    "probability",
+    "insight_storytelling",
+    "feature_engineering"
+  ],
+  "skill_names": [
+    "SQL",
+    "Model Evaluation",
+    "Experimentation",
+    "Natural Language Processing",
+    "Probability & Statistics",
+    "Insight Storytelling",
+    "Feature Engineering"
+  ],
+  "name": "John Hodges",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

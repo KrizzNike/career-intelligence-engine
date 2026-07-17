@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0066",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "tableau",
+    "power_bi",
+    "kpi_design",
+    "semantic_layer",
+    "sql",
+    "data_modeling_basics",
+    "looker"
+  ],
+  "skill_names": [
+    "Tableau",
+    "Power BI",
+    "KPI Design",
+    "Semantic Layer",
+    "SQL",
+    "Data Modeling (Basics)",
+    "Looker"
+  ],
+  "name": "Jennifer Evans",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

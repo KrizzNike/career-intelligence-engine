@@ -1,0 +1,35 @@
+{
+  "resume_id": "data_analyst_0023",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "excel",
+    "domain_acumen",
+    "r_language",
+    "hypothesis_testing",
+    "sql",
+    "python",
+    "kpi_design",
+    "descriptive_stats",
+    "data_modeling_basics",
+    "sql_to_insight",
+    "etl_basics"
+  ],
+  "skill_names": [
+    "Microsoft Excel",
+    "Domain Acumen",
+    "R",
+    "Hypothesis Testing",
+    "SQL",
+    "Python",
+    "KPI Design",
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "SQL-to-Insight Storytelling",
+    "ETL Fundamentals"
+  ],
+  "name": "Jason Castro",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

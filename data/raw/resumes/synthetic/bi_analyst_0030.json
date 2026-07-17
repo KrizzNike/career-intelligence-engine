@@ -1,0 +1,23 @@
+{
+  "resume_id": "bi_analyst_0030",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "tableau",
+    "data_modeling_basics",
+    "semantic_layer",
+    "sql",
+    "python"
+  ],
+  "skill_names": [
+    "Tableau",
+    "Data Modeling (Basics)",
+    "Semantic Layer",
+    "SQL",
+    "Python"
+  ],
+  "name": "Ronald Foster",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

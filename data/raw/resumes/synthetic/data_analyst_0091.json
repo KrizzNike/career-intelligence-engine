@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0091",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "descriptive_stats",
+    "excel",
+    "r_language",
+    "python",
+    "sql_to_insight",
+    "etl_basics",
+    "domain_acumen",
+    "stakeholder_management"
+  ],
+  "skill_names": [
+    "Descriptive Statistics",
+    "Microsoft Excel",
+    "R",
+    "Python",
+    "SQL-to-Insight Storytelling",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Stakeholder Management"
+  ],
+  "name": "Pamela Sullivan",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

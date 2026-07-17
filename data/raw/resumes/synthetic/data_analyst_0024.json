@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0024",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "domain_acumen",
+    "sql",
+    "kpi_design",
+    "stakeholder_management",
+    "python",
+    "r_language",
+    "etl_basics",
+    "descriptive_stats"
+  ],
+  "skill_names": [
+    "Domain Acumen",
+    "SQL",
+    "KPI Design",
+    "Stakeholder Management",
+    "Python",
+    "R",
+    "ETL Fundamentals",
+    "Descriptive Statistics"
+  ],
+  "name": "Mike Acosta",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

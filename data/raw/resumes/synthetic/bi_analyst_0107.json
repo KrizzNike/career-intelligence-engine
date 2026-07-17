@@ -1,0 +1,27 @@
+{
+  "resume_id": "bi_analyst_0107",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "power_bi",
+    "semantic_layer",
+    "tableau",
+    "kpi_design",
+    "python",
+    "sql",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "Power BI",
+    "Semantic Layer",
+    "Tableau",
+    "KPI Design",
+    "Python",
+    "SQL",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Molly Hansen",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

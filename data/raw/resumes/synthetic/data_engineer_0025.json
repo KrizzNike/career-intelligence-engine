@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0025",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "etl_elt",
+    "scala",
+    "azure",
+    "sql",
+    "data_warehousing",
+    "aws",
+    "python",
+    "ml_engineering",
+    "data_modeling"
+  ],
+  "skill_names": [
+    "ETL / ELT",
+    "Scala",
+    "Azure",
+    "SQL",
+    "Data Warehousing",
+    "AWS",
+    "Python",
+    "ML Engineering (Ops)",
+    "Data Modeling"
+  ],
+  "name": "Sheila Walter",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

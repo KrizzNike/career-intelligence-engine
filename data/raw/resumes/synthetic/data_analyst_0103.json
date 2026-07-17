@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0103",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "r_language",
+    "domain_acumen",
+    "stakeholder_management",
+    "descriptive_stats",
+    "sql",
+    "sql_to_insight",
+    "kpi_design",
+    "python",
+    "excel"
+  ],
+  "skill_names": [
+    "R",
+    "Domain Acumen",
+    "Stakeholder Management",
+    "Descriptive Statistics",
+    "SQL",
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Python",
+    "Microsoft Excel"
+  ],
+  "name": "Julie Kim",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,27 @@
+{
+  "resume_id": "ml_engineer_0099",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "aws",
+    "sql",
+    "deep_learning",
+    "supervised_learning",
+    "docker_k8s",
+    "feature_stores",
+    "python"
+  ],
+  "skill_names": [
+    "AWS",
+    "SQL",
+    "Deep Learning",
+    "Supervised Learning",
+    "Docker & Kubernetes",
+    "Feature Stores",
+    "Python"
+  ],
+  "name": "Scott Dodson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

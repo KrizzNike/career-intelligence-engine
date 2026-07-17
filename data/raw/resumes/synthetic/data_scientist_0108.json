@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0108",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "unsupervised_learning",
+    "insight_storytelling",
+    "python",
+    "sql",
+    "nlp",
+    "r_language",
+    "experimentation",
+    "probability",
+    "model_evaluation",
+    "feature_engineering"
+  ],
+  "skill_names": [
+    "Unsupervised Learning",
+    "Insight Storytelling",
+    "Python",
+    "SQL",
+    "Natural Language Processing",
+    "R",
+    "Experimentation",
+    "Probability & Statistics",
+    "Model Evaluation",
+    "Feature Engineering"
+  ],
+  "name": "Sandra Smith",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

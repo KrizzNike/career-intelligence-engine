@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0030",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "excel",
+    "sql",
+    "stakeholder_management",
+    "descriptive_stats",
+    "python",
+    "kpi_design",
+    "sql_to_insight",
+    "r_language",
+    "domain_acumen"
+  ],
+  "skill_names": [
+    "Microsoft Excel",
+    "SQL",
+    "Stakeholder Management",
+    "Descriptive Statistics",
+    "Python",
+    "KPI Design",
+    "SQL-to-Insight Storytelling",
+    "R",
+    "Domain Acumen"
+  ],
+  "name": "Jimmy Ortega",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

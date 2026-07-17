@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_scientist_0101",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "unsupervised_learning",
+    "feature_engineering",
+    "r_language",
+    "model_evaluation",
+    "experimentation",
+    "probability",
+    "nlp",
+    "python",
+    "supervised_learning"
+  ],
+  "skill_names": [
+    "Unsupervised Learning",
+    "Feature Engineering",
+    "R",
+    "Model Evaluation",
+    "Experimentation",
+    "Probability & Statistics",
+    "Natural Language Processing",
+    "Python",
+    "Supervised Learning"
+  ],
+  "name": "Eduardo Scott",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

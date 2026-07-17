@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0117",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "hypothesis_testing",
+    "r_language",
+    "data_modeling_basics",
+    "stakeholder_management",
+    "domain_acumen",
+    "kpi_design",
+    "etl_basics",
+    "descriptive_stats",
+    "sql_to_insight"
+  ],
+  "skill_names": [
+    "Hypothesis Testing",
+    "R",
+    "Data Modeling (Basics)",
+    "Stakeholder Management",
+    "Domain Acumen",
+    "KPI Design",
+    "ETL Fundamentals",
+    "Descriptive Statistics",
+    "SQL-to-Insight Storytelling"
+  ],
+  "name": "Heather Hess",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0052",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "orchestration",
+    "python",
+    "ml_engineering",
+    "azure",
+    "sql",
+    "aws",
+    "data_modeling",
+    "etl_elt",
+    "data_warehousing"
+  ],
+  "skill_names": [
+    "Orchestration",
+    "Python",
+    "ML Engineering (Ops)",
+    "Azure",
+    "SQL",
+    "AWS",
+    "Data Modeling",
+    "ETL / ELT",
+    "Data Warehousing"
+  ],
+  "name": "Jeff Vaughan",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

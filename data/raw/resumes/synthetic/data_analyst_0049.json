@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0049",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql_to_insight",
+    "r_language",
+    "hypothesis_testing",
+    "domain_acumen",
+    "etl_basics",
+    "excel",
+    "stakeholder_management",
+    "kpi_design",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "SQL-to-Insight Storytelling",
+    "R",
+    "Hypothesis Testing",
+    "Domain Acumen",
+    "ETL Fundamentals",
+    "Microsoft Excel",
+    "Stakeholder Management",
+    "KPI Design",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Craig Chang",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

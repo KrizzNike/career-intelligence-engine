@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0008",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "stakeholder_management",
+    "excel",
+    "r_language",
+    "hypothesis_testing",
+    "python",
+    "etl_basics",
+    "domain_acumen",
+    "sql_to_insight",
+    "sql",
+    "data_modeling_basics"
+  ],
+  "skill_names": [
+    "Stakeholder Management",
+    "Microsoft Excel",
+    "R",
+    "Hypothesis Testing",
+    "Python",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "SQL",
+    "Data Modeling (Basics)"
+  ],
+  "name": "Matthew Houston",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

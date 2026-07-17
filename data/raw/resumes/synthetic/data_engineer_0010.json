@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_engineer_0010",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "orchestration",
+    "data_modeling",
+    "ml_engineering",
+    "etl_elt",
+    "aws",
+    "python",
+    "gcp",
+    "azure",
+    "data_warehousing"
+  ],
+  "skill_names": [
+    "Orchestration",
+    "Data Modeling",
+    "ML Engineering (Ops)",
+    "ETL / ELT",
+    "AWS",
+    "Python",
+    "GCP",
+    "Azure",
+    "Data Warehousing"
+  ],
+  "name": "Diane Hall",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

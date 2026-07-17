@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0118",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql",
+    "r_language",
+    "hypothesis_testing",
+    "etl_basics",
+    "excel",
+    "data_modeling_basics",
+    "domain_acumen",
+    "sql_to_insight"
+  ],
+  "skill_names": [
+    "SQL",
+    "R",
+    "Hypothesis Testing",
+    "ETL Fundamentals",
+    "Microsoft Excel",
+    "Data Modeling (Basics)",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling"
+  ],
+  "name": "Cory Rodgers",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

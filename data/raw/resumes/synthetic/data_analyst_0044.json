@@ -1,0 +1,29 @@
+{
+  "resume_id": "data_analyst_0044",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "etl_basics",
+    "excel",
+    "sql_to_insight",
+    "kpi_design",
+    "data_modeling_basics",
+    "descriptive_stats",
+    "domain_acumen",
+    "sql"
+  ],
+  "skill_names": [
+    "ETL Fundamentals",
+    "Microsoft Excel",
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Data Modeling (Basics)",
+    "Descriptive Statistics",
+    "Domain Acumen",
+    "SQL"
+  ],
+  "name": "John Robles",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

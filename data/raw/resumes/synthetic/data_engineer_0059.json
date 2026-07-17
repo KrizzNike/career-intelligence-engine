@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_engineer_0059",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "skills": [
+    "aws",
+    "etl_elt",
+    "orchestration",
+    "gcp",
+    "sql",
+    "data_warehousing",
+    "azure"
+  ],
+  "skill_names": [
+    "AWS",
+    "ETL / ELT",
+    "Orchestration",
+    "GCP",
+    "SQL",
+    "Data Warehousing",
+    "Azure"
+  ],
+  "name": "Karen Nichols",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

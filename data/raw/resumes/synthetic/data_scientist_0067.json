@@ -1,0 +1,27 @@
+{
+  "resume_id": "data_scientist_0067",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "r_language",
+    "probability",
+    "sql",
+    "nlp",
+    "unsupervised_learning",
+    "insight_storytelling",
+    "experimentation"
+  ],
+  "skill_names": [
+    "R",
+    "Probability & Statistics",
+    "SQL",
+    "Natural Language Processing",
+    "Unsupervised Learning",
+    "Insight Storytelling",
+    "Experimentation"
+  ],
+  "name": "Mark Farley",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,25 @@
+{
+  "resume_id": "bi_analyst_0100",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "skills": [
+    "python",
+    "kpi_design",
+    "power_bi",
+    "semantic_layer",
+    "tableau",
+    "looker"
+  ],
+  "skill_names": [
+    "Python",
+    "KPI Design",
+    "Power BI",
+    "Semantic Layer",
+    "Tableau",
+    "Looker"
+  ],
+  "name": "Mary Miller",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

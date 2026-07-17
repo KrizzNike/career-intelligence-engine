@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0059",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "stakeholder_management",
+    "r_language",
+    "data_modeling_basics",
+    "python",
+    "kpi_design",
+    "sql_to_insight",
+    "hypothesis_testing",
+    "etl_basics",
+    "domain_acumen",
+    "descriptive_stats"
+  ],
+  "skill_names": [
+    "Stakeholder Management",
+    "R",
+    "Data Modeling (Basics)",
+    "Python",
+    "KPI Design",
+    "SQL-to-Insight Storytelling",
+    "Hypothesis Testing",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Descriptive Statistics"
+  ],
+  "name": "Antonio Price",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

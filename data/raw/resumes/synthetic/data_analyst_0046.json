@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0046",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "python",
+    "hypothesis_testing",
+    "domain_acumen",
+    "data_modeling_basics",
+    "sql_to_insight",
+    "etl_basics",
+    "stakeholder_management",
+    "r_language",
+    "excel"
+  ],
+  "skill_names": [
+    "Python",
+    "Hypothesis Testing",
+    "Domain Acumen",
+    "Data Modeling (Basics)",
+    "SQL-to-Insight Storytelling",
+    "ETL Fundamentals",
+    "Stakeholder Management",
+    "R",
+    "Microsoft Excel"
+  ],
+  "name": "Emily Johnson",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

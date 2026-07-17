@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0029",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "sql_to_insight",
+    "descriptive_stats",
+    "data_modeling_basics",
+    "etl_basics",
+    "kpi_design",
+    "hypothesis_testing",
+    "excel",
+    "r_language",
+    "stakeholder_management"
+  ],
+  "skill_names": [
+    "SQL-to-Insight Storytelling",
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "ETL Fundamentals",
+    "KPI Design",
+    "Hypothesis Testing",
+    "Microsoft Excel",
+    "R",
+    "Stakeholder Management"
+  ],
+  "name": "Andrea Conrad",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

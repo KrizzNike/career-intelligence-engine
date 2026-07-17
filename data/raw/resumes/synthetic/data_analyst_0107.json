@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_analyst_0107",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "stakeholder_management",
+    "excel",
+    "r_language",
+    "sql",
+    "kpi_design",
+    "etl_basics",
+    "domain_acumen",
+    "sql_to_insight",
+    "data_modeling_basics",
+    "descriptive_stats"
+  ],
+  "skill_names": [
+    "Stakeholder Management",
+    "Microsoft Excel",
+    "R",
+    "SQL",
+    "KPI Design",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "Data Modeling (Basics)",
+    "Descriptive Statistics"
+  ],
+  "name": "Aimee Ramirez",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

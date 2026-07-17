@@ -1,0 +1,23 @@
+{
+  "resume_id": "ml_engineer_0036",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "skills": [
+    "supervised_learning",
+    "deep_learning",
+    "mlops",
+    "sql",
+    "aws"
+  ],
+  "skill_names": [
+    "Supervised Learning",
+    "Deep Learning",
+    "MLOps",
+    "SQL",
+    "AWS"
+  ],
+  "name": "Nicole Lewis",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

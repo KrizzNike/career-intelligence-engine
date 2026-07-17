@@ -1,0 +1,33 @@
+{
+  "resume_id": "data_scientist_0024",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "skills": [
+    "probability",
+    "feature_engineering",
+    "nlp",
+    "sql",
+    "model_evaluation",
+    "unsupervised_learning",
+    "python",
+    "r_language",
+    "experimentation",
+    "insight_storytelling"
+  ],
+  "skill_names": [
+    "Probability & Statistics",
+    "Feature Engineering",
+    "Natural Language Processing",
+    "SQL",
+    "Model Evaluation",
+    "Unsupervised Learning",
+    "Python",
+    "R",
+    "Experimentation",
+    "Insight Storytelling"
+  ],
+  "name": "Emily Harrison",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

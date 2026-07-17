@@ -1,0 +1,31 @@
+{
+  "resume_id": "data_analyst_0102",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "skills": [
+    "r_language",
+    "hypothesis_testing",
+    "etl_basics",
+    "sql_to_insight",
+    "python",
+    "domain_acumen",
+    "data_modeling_basics",
+    "excel",
+    "stakeholder_management"
+  ],
+  "skill_names": [
+    "R",
+    "Hypothesis Testing",
+    "ETL Fundamentals",
+    "SQL-to-Insight Storytelling",
+    "Python",
+    "Domain Acumen",
+    "Data Modeling (Basics)",
+    "Microsoft Excel",
+    "Stakeholder Management"
+  ],
+  "name": "Jenna Cook",
+  "generated_at": "2026-07-17T17:00:41Z",
+  "source": "synthetic_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}
