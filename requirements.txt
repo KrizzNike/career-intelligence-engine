@@ -1,58 +1,41 @@
 # =========================================================
-# Career Intelligence Engine - Python dependencies
-# Pinned for reproducibility. Install in a fresh venv:
+# Career Intelligence Engine - Phase 0/1 core dependencies
+# Pinned where a 3.14 wheel is known-good; unpinned where the
+# pinned version lacks a 3.14 wheel. Pure-Python where possible.
+#
+# NOTE on Python 3.14 (user's choice, 2026-07-17):
+#   - Several packages have NO prebuilt 3.14 wheel and require a
+#     C++ build toolchain (VS Build Tools 2022) to compile.
+#   - See requirements-ml.txt for the heavy ML/RAG stack and its
+#     blockers (esp. torch has no 3.14 wheel at all).
+# Install:
 #   python -m venv .venv
-#   .venv\Scripts\activate        (Windows)
+#   .venv\Scripts\activate
 #   pip install -r requirements.txt
 # =========================================================
 
-# ---- Core data ----
-pandas==2.2.3
-numpy==1.26.4
-
-# ---- Database (MySQL 8) ----
-mysql-connector-python==8.4.0
+# ---- Database (MySQL 8) ---- all have 3.14 wheels
+mysql-connector-python          # unpinned: 8.4.0 pin lacks 3.14 wheel
+PyMySQL                         # pure-Python MySQL driver
 SQLAlchemy==2.0.36
-PyMySQL==1.1.1
 
-# ---- NLP / text ----
-spacy==3.7.5
-pydantic==2.9.2           # spaCy 3.7 needs pydantic v2
+# ---- Document parsing (Week 4) ----
+python-docx                     # .docx parsing, pure-Python
+pdfplumber                      # PDF text extraction (replaces PyMuPDF on 3.14)
+# PyMuPDF==1.24.10             # DEFERRED: no 3.14 wheel; needs VS Build Tools.
+                                # If you still want MuPDF, install build tools
+                                # then: pip install PyMuPDF==1.24.10
 
-# ---- Document parsing ----
-PyMuPDF==1.24.10          # resume PDF extraction
-python-docx==1.1.2        # resume DOCX extraction
-pdfplumber==0.11.4
-
-# ---- ML ----
-scikit-learn==1.5.2
-xgboost==2.1.1
-imbalanced-learn==0.12.4
-
-# ---- Embeddings / matching (Week 9) ----
-sentence-transformers==3.1.1
-
-# ---- RAG (Week 10) ----
-langchain==0.3.4
-langchain-community==0.3.3
-langchain-ollama==0.2.0
-chromadb==0.5.15           # local vector store for RAG
-
-# ---- Web app ----
-streamlit==1.39.0
-altair==5.4.1
-
-# ---- Config / env ----
+# ---- Config / env / logging / cli ----
 python-dotenv==1.0.1
+pydantic                        # unpinned for 3.14 wheel availability
 pydantic-settings==2.6.0
+loguru==0.7.2
+rich==13.9.2
+tqdm==4.66.5
 
 # ---- Testing / quality ----
 pytest==8.3.3
 pytest-cov==5.0.0
-ruff==0.6.9               # linter + formatter
-mypy==1.11.2
-
-# ---- Utilities ----
-tqdm==4.66.5
-loguru==0.7.2
-rich==13.9.2
+ruff                            # unpinned; ships wheels for 3.14
+mypy                            # unpinned
