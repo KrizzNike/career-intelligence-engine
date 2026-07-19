@@ -115,7 +115,54 @@ python scripts/smoke_test.py --check-db
 
 ---
 
-## 6. 16-Week Roadmap
+## 6. Week 3 — Database Design & ETL
+
+**Goal:** stand up the relational core the whole platform writes against, and
+prove it by loading the Week-2 synthetic data into it.
+
+### Two-layer schema (see `docs/data_model.md`)
+- **Operational layer (3NF, 14 tables)** — `sql/ddl/02_tables.sql`. Write
+  integrity for ingestion + scoring: candidates → resumes → education /
+  experience / projects / certifications; skills ↔ candidate_skills (M:N);
+  job_postings ↔ job_skills; match_results, career_readiness,
+  recommendations. All FKs enforced, `utf8mb4` throughout.
+- **Analytics layer (star schema, views)** — `sql/views/star_schema.sql`.
+  `v_fact_candidate_match` (one row per candidate×skill×role×date) +
+  `v_dim_candidate/role/skill/date`, pre-joined so Power BI does zero joins.
+
+### Reproduce
+```bash
+# 1. Build schema + seed taxonomy + create analytics views (idempotent)
+python scripts/db_init.py
+
+# 2. Load the 600 synthetic resume labels into Candidates/Resumes/Candidate_Skills
+python scripts/load_resumes.py
+
+# 3. Validate integrity + run analytical query templates
+mysql -u root -p career_intelligence < sql/validation/01_data_validation.sql
+mysql -u root -p career_intelligence < sql/validation/02_analytical_queries.sql
+
+# 4. Unit tests (schema invariants + loader idempotency)
+pytest tests/unit/test_db_init.py tests/unit/test_load_resumes.py
+```
+
+### Files
+| Path | Role |
+|---|---|
+| `docs/data_model.md` | architecture rationale (why two layers, grain, optimization) |
+| `sql/ddl/01..03` | database/charset, 14 tables, hot-path indexes |
+| `sql/dml/01_seed_taxonomy.sql` | generated from `data/taxonomy/skill_taxonomy.yaml` via `scripts/taxonomy_to_sql.py` |
+| `sql/views/star_schema.sql` | dim + fact views for Power BI |
+| `sql/validation/01..02` | data-integrity checks + analytical query templates |
+| `scripts/db_init.py` | orchestrator: DDL → seed → views |
+| `scripts/load_resumes.py` + `src/data_ingestion/load_resumes_to_db.py` | ETL: resume labels → operational tables |
+| `tests/unit/test_db_init.py`, `test_load_resumes.py` | schema + ETL tests |
+
+**Expected after run:** 14 tables, 5 views, taxonomy seeded, 600 candidates with ~skills each, all resumes `parsed_status='pending'` for Week 4.
+
+---
+
+## 7. 16-Week Roadmap
 
 | Month | Weeks | Theme |
 |---|---|---|
@@ -126,11 +173,11 @@ python scripts/smoke_test.py --check-db
 
 ---
 
-## 7. License & Contribution
+## 8. License & Contribution
 
 Private portfolio project. Contribution guidelines land in `CONTRIBUTING.md` at Week 15.
 
-## 8. Author
+## 9. Author
 
 Krish — MBA (Data Science & Decision Science) · Business Analytics specialization.
 Built under structured mentor guidance following a 16-week product lifecycle.
