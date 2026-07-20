@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_scientist_0035",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Applied Scientist",
+  "company": "Solis and Sons",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "model_evaluation",
+    "r_language",
+    "unsupervised_learning",
+    "supervised_learning",
+    "nlp",
+    "sql",
+    "probability",
+    "python",
+    "insight_storytelling",
+    "feature_engineering"
+  ],
+  "required_skill_names": [
+    "Model Evaluation",
+    "R",
+    "Unsupervised Learning",
+    "Supervised Learning",
+    "Natural Language Processing",
+    "SQL",
+    "Probability & Statistics",
+    "Python",
+    "Insight Storytelling",
+    "Feature Engineering"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

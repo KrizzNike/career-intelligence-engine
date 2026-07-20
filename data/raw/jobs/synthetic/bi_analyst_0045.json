@@ -1,0 +1,35 @@
+{
+  "jd_id": "bi_analyst_0045",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "BI Developer",
+  "company": "Walsh LLC",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "power_bi",
+    "looker",
+    "semantic_layer",
+    "python",
+    "data_modeling_basics",
+    "kpi_design"
+  ],
+  "required_skill_names": [
+    "Power BI",
+    "Looker",
+    "Semantic Layer",
+    "Python",
+    "Data Modeling (Basics)",
+    "KPI Design"
+  ],
+  "preferred_skills": [
+    "tableau"
+  ],
+  "preferred_skill_names": [
+    "Tableau"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

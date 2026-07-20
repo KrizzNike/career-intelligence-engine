@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_scientist_0045",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Data Scientist",
+  "company": "Carter Inc",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "feature_engineering",
+    "supervised_learning",
+    "r_language",
+    "python",
+    "unsupervised_learning",
+    "sql",
+    "experimentation",
+    "nlp",
+    "probability"
+  ],
+  "required_skill_names": [
+    "Feature Engineering",
+    "Supervised Learning",
+    "R",
+    "Python",
+    "Unsupervised Learning",
+    "SQL",
+    "Experimentation",
+    "Natural Language Processing",
+    "Probability & Statistics"
+  ],
+  "preferred_skills": [
+    "model_evaluation"
+  ],
+  "preferred_skill_names": [
+    "Model Evaluation"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

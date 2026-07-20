@@ -1,0 +1,45 @@
+{
+  "jd_id": "data_analyst_0006",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Sanchez-Douglas",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "data_modeling_basics",
+    "excel",
+    "kpi_design",
+    "descriptive_stats",
+    "hypothesis_testing",
+    "r_language",
+    "sql",
+    "python",
+    "stakeholder_management",
+    "sql_to_insight",
+    "domain_acumen"
+  ],
+  "required_skill_names": [
+    "Data Modeling (Basics)",
+    "Microsoft Excel",
+    "KPI Design",
+    "Descriptive Statistics",
+    "Hypothesis Testing",
+    "R",
+    "SQL",
+    "Python",
+    "Stakeholder Management",
+    "SQL-to-Insight Storytelling",
+    "Domain Acumen"
+  ],
+  "preferred_skills": [
+    "etl_basics"
+  ],
+  "preferred_skill_names": [
+    "ETL Fundamentals"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

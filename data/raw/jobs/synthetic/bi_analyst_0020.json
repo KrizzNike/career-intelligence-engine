@@ -1,0 +1,37 @@
+{
+  "jd_id": "bi_analyst_0020",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "BI Developer",
+  "company": "Allen PLC",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "python",
+    "power_bi",
+    "data_modeling_basics",
+    "tableau",
+    "sql",
+    "kpi_design",
+    "semantic_layer"
+  ],
+  "required_skill_names": [
+    "Python",
+    "Power BI",
+    "Data Modeling (Basics)",
+    "Tableau",
+    "SQL",
+    "KPI Design",
+    "Semantic Layer"
+  ],
+  "preferred_skills": [
+    "looker"
+  ],
+  "preferred_skill_names": [
+    "Looker"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

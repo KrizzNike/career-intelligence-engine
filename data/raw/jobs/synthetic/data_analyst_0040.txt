@@ -1,0 +1,15 @@
+Junior Data Analyst
+Ward LLC | Lake Amandaview, Aruba
+
+ABOUT THE ROLE
+We are hiring a Junior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with SQL, ETL Fundamentals for stakeholders
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using Data Modeling (Basics), SQL to answer business questions
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: Hypothesis Testing, ETL Fundamentals, Descriptive Statistics, R, KPI Design, Data Modeling (Basics), Stakeholder Management, SQL-to-Insight Storytelling, Microsoft Excel, SQL
+- Preferred skills: Python, Domain Acumen

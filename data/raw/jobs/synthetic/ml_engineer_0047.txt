@@ -1,0 +1,17 @@
+Machine Learning Engineer
+Smith PLC | South Denise, Turkmenistan
+
+ABOUT THE ROLE
+We are hiring a Machine Learning Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor MLOps, SQL models in production
+- Optimize Deep Learning, SQL serving infrastructure
+- Build MLOps pipelines for MLOps, Deep Learning model lifecycle
+- Collaborate with data scientists to ship AWS, MLOps models
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 2+ years deploying ML models to production
+- Required skills: MLOps, AWS, SQL, Docker & Kubernetes, Deep Learning, Feature Stores, Python
+- Preferred skills: Supervised Learning

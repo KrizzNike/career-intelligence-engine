@@ -1,0 +1,17 @@
+Senior Data Analyst
+Yates, Ramsey and Pittman | New Amanda, United States of America
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with R, ETL Fundamentals for stakeholders
+- Analyze large datasets using ETL Fundamentals, R to answer business questions
+- Partner with business teams to define KPIs and track them
+- Write efficient SQL-to-Insight Storytelling, Microsoft Excel queries to extract insights
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- 5+ years of experience in data analysis or analytics role
+- Required skills: Stakeholder Management, Hypothesis Testing, SQL, R, ETL Fundamentals, Microsoft Excel, KPI Design, SQL-to-Insight Storytelling, Descriptive Statistics, Python
+- Preferred skills: Data Modeling (Basics), Domain Acumen

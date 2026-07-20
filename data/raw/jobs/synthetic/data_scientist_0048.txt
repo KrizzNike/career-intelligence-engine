@@ -1,0 +1,16 @@
+Junior Data Scientist
+Sandoval, Garcia and Perkins | Dennisstad, Mayotte
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Derive insights from large datasets using Unsupervised Learning, SQL
+- Run experiments and A/B tests; report with Model Evaluation, Probability & Statistics
+- Build predictive models using Probability & Statistics, Unsupervised Learning
+- Productionize Supervised Learning, Feature Engineering models with the engineering team
+
+REQUIREMENTS
+- 0+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: Natural Language Processing, Supervised Learning, Model Evaluation, Unsupervised Learning, SQL, R, Feature Engineering, Python, Probability & Statistics

@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_scientist_0021",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Applied Scientist",
+  "company": "Morris Group",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "sql",
+    "experimentation",
+    "probability",
+    "insight_storytelling",
+    "supervised_learning",
+    "model_evaluation",
+    "unsupervised_learning",
+    "r_language",
+    "nlp"
+  ],
+  "required_skill_names": [
+    "SQL",
+    "Experimentation",
+    "Probability & Statistics",
+    "Insight Storytelling",
+    "Supervised Learning",
+    "Model Evaluation",
+    "Unsupervised Learning",
+    "R",
+    "Natural Language Processing"
+  ],
+  "preferred_skills": [
+    "python",
+    "feature_engineering"
+  ],
+  "preferred_skill_names": [
+    "Python",
+    "Feature Engineering"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,16 @@
+BI Developer
+Sellers, George and Burns | West Natashaport, Dominican Republic
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in KPI Design, SQL
+- Develop semantic layers and governed metrics with SQL, Python
+- Optimize Python, Semantic Layer workloads for dashboard performance
+- Design and maintain self-serve BI models using Looker, Semantic Layer
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Semantic Layer, SQL, Tableau, KPI Design, Power BI, Python, Looker

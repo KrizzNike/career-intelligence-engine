@@ -1,0 +1,15 @@
+BI Analyst
+Blake and Sons | Petersonberg, Cuba
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Tableau, KPI Design workloads for dashboard performance
+- Build executive dashboards in Looker, Data Modeling (Basics)
+- Design and maintain self-serve BI models using Data Modeling (Basics), Python
+- Develop semantic layers and governed metrics with Looker, KPI Design
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Required skills: SQL, Looker, KPI Design, Data Modeling (Basics), Tableau, Python

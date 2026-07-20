@@ -1,0 +1,15 @@
+Junior Data Analyst
+Miller Ltd | Freemanbury, Portugal
+
+ABOUT THE ROLE
+We are hiring a Junior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using Microsoft Excel, Data Modeling (Basics) to answer business questions
+- Write efficient SQL, Domain Acumen queries to extract insights
+- Build dashboards and reports with Hypothesis Testing, SQL-to-Insight Storytelling for stakeholders
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: Microsoft Excel, Hypothesis Testing, Data Modeling (Basics), Domain Acumen, Python, SQL-to-Insight Storytelling, SQL, Descriptive Statistics

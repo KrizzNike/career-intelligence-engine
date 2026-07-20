@@ -1,0 +1,16 @@
+BI Developer
+Brown-Silva | North Susan, Belgium
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Develop semantic layers and governed metrics with Tableau, Data Modeling (Basics)
+- Optimize SQL, Data Modeling (Basics) workloads for dashboard performance
+- Design and maintain self-serve BI models using Tableau, SQL
+- Build executive dashboards in Data Modeling (Basics), Semantic Layer
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Python, Looker, Tableau, Data Modeling (Basics), Semantic Layer, SQL, KPI Design
+- Preferred skills: Power BI

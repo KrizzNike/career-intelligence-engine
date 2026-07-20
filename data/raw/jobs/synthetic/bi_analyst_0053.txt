@@ -1,0 +1,17 @@
+BI Developer
+Ramirez-Jones | Michaelhaven, Iran
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Power BI, Looker
+- Develop semantic layers and governed metrics with Data Modeling (Basics), SQL
+- Design and maintain self-serve BI models using SQL, KPI Design
+- Optimize Power BI, KPI Design workloads for dashboard performance
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Looker, Tableau, Data Modeling (Basics), Power BI, KPI Design, SQL, Python
+- Preferred skills: Semantic Layer

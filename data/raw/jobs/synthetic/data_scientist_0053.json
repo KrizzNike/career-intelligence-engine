@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_scientist_0053",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Senior Data Scientist",
+  "company": "Rivera, Martinez and Richardson",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "supervised_learning",
+    "probability",
+    "python",
+    "unsupervised_learning",
+    "insight_storytelling",
+    "model_evaluation",
+    "nlp",
+    "sql",
+    "feature_engineering"
+  ],
+  "required_skill_names": [
+    "Supervised Learning",
+    "Probability & Statistics",
+    "Python",
+    "Unsupervised Learning",
+    "Insight Storytelling",
+    "Model Evaluation",
+    "Natural Language Processing",
+    "SQL",
+    "Feature Engineering"
+  ],
+  "preferred_skills": [
+    "r_language"
+  ],
+  "preferred_skill_names": [
+    "R"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

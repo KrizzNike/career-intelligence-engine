@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_scientist_0051",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Junior Data Scientist",
+  "company": "Blackwell LLC",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "experimentation",
+    "probability",
+    "supervised_learning",
+    "sql",
+    "unsupervised_learning",
+    "r_language",
+    "python",
+    "model_evaluation",
+    "feature_engineering",
+    "insight_storytelling"
+  ],
+  "required_skill_names": [
+    "Experimentation",
+    "Probability & Statistics",
+    "Supervised Learning",
+    "SQL",
+    "Unsupervised Learning",
+    "R",
+    "Python",
+    "Model Evaluation",
+    "Feature Engineering",
+    "Insight Storytelling"
+  ],
+  "preferred_skills": [
+    "nlp"
+  ],
+  "preferred_skill_names": [
+    "Natural Language Processing"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

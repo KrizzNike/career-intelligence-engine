@@ -1,0 +1,35 @@
+{
+  "jd_id": "bi_analyst_0024",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "Business Intelligence Analyst",
+  "company": "Spencer, Chapman and Smith",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "kpi_design",
+    "tableau",
+    "python",
+    "power_bi",
+    "data_modeling_basics",
+    "semantic_layer",
+    "looker",
+    "sql"
+  ],
+  "required_skill_names": [
+    "KPI Design",
+    "Tableau",
+    "Python",
+    "Power BI",
+    "Data Modeling (Basics)",
+    "Semantic Layer",
+    "Looker",
+    "SQL"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

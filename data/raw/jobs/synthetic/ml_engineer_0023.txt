@@ -1,0 +1,15 @@
+ML Engineer
+Li PLC | Jamesburgh, Luxembourg
+
+ABOUT THE ROLE
+We are hiring a ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Docker & Kubernetes, Feature Stores model lifecycle
+- Optimize Feature Stores, Docker & Kubernetes serving infrastructure
+- Deploy and monitor Feature Stores, Python models in production
+- Collaborate with data scientists to ship Supervised Learning, SQL models
+
+REQUIREMENTS
+- 2+ years deploying ML models to production
+- Required skills: Python, MLOps, AWS, Supervised Learning, Deep Learning, SQL, Docker & Kubernetes, Feature Stores

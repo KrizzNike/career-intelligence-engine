@@ -1,0 +1,15 @@
+Data Engineer
+Curry, Baker and James | Danielbury, Latvia
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Ensure data quality across AWS, Scala pipelines
+- Implement ETL/ELT workflows with Python, Scala
+- Design and operate scalable ML Engineering (Ops), Data Modeling pipelines
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: Azure, Orchestration, Data Modeling, Scala, AWS, Python, ML Engineering (Ops), Data Warehousing, GCP
+- Preferred skills: SQL, ETL / ELT

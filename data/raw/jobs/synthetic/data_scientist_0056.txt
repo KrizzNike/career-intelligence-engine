@@ -1,0 +1,15 @@
+Data Scientist
+Morris-Miller | Kirkchester, Chad
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Probability & Statistics, Model Evaluation models with the engineering team
+- Build predictive models using Experimentation, Probability & Statistics
+- Derive insights from large datasets using Model Evaluation, Natural Language Processing
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- Required skills: R, Probability & Statistics, SQL, Unsupervised Learning, Python, Supervised Learning, Natural Language Processing, Experimentation, Model Evaluation, Insight Storytelling
+- Preferred skills: Feature Engineering

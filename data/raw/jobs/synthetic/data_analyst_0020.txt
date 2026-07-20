@@ -1,0 +1,16 @@
+Business Data Analyst
+Ramirez-Bean | Kingland, Latvia
+
+ABOUT THE ROLE
+We are hiring a Business Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with SQL, Hypothesis Testing for stakeholders
+- Analyze large datasets using Microsoft Excel, Stakeholder Management to answer business questions
+- Partner with business teams to define KPIs and track them
+- Write efficient Domain Acumen, Data Modeling (Basics) queries to extract insights
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Python, Data Modeling (Basics), Microsoft Excel, Hypothesis Testing, KPI Design, Domain Acumen, Stakeholder Management, ETL Fundamentals, R, SQL

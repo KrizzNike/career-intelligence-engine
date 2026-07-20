@@ -1,0 +1,16 @@
+Business Intelligence Analyst
+Cannon, Anderson and Alvarez | West Allison, New Caledonia
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in KPI Design, Semantic Layer
+- Develop semantic layers and governed metrics with Looker, Python
+- Design and maintain self-serve BI models using KPI Design, Semantic Layer
+- Optimize Data Modeling (Basics), Tableau workloads for dashboard performance
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- 2+ years building dashboards and BI solutions
+- Required skills: Data Modeling (Basics), Tableau, Looker, KPI Design, Python, Semantic Layer

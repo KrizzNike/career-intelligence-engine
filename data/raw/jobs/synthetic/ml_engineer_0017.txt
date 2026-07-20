@@ -1,0 +1,14 @@
+ML Engineer
+Fowler, Jimenez and Burton | Dawnport, Liberia
+
+ABOUT THE ROLE
+We are hiring a ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize SQL, Feature Stores serving infrastructure
+- Collaborate with data scientists to ship MLOps, SQL models
+- Build MLOps pipelines for Feature Stores, Docker & Kubernetes model lifecycle
+
+REQUIREMENTS
+- 2+ years deploying ML models to production
+- Required skills: SQL, Docker & Kubernetes, MLOps, Feature Stores, Supervised Learning, AWS

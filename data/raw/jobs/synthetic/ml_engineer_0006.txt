@@ -1,0 +1,16 @@
+MLOps Engineer
+Joseph Ltd | Port Michael, Czech Republic
+
+ABOUT THE ROLE
+We are hiring a MLOps Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Collaborate with data scientists to ship Python, Deep Learning models
+- Optimize AWS, Feature Stores serving infrastructure
+- Build MLOps pipelines for AWS, Python model lifecycle
+- Deploy and monitor MLOps, AWS models in production
+
+REQUIREMENTS
+- 2+ years deploying ML models to production
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: MLOps, Python, Feature Stores, AWS, Deep Learning, Docker & Kubernetes

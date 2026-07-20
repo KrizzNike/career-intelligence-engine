@@ -1,0 +1,15 @@
+Data Analyst
+Clark-Floyd | Stevenmouth, Peru
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using Data Modeling (Basics), ETL Fundamentals to answer business questions
+- Build dashboards and reports with ETL Fundamentals, Data Modeling (Basics) for stakeholders
+- Write efficient Hypothesis Testing, SQL queries to extract insights
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: Stakeholder Management, R, Hypothesis Testing, SQL, Descriptive Statistics, SQL-to-Insight Storytelling, Data Modeling (Basics), Python, ETL Fundamentals, Domain Acumen, Microsoft Excel

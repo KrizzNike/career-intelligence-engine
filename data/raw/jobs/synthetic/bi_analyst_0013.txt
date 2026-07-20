@@ -1,0 +1,15 @@
+Senior BI Analyst
+Ross, Robinson and Bright | Daviston, Tokelau
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Semantic Layer, Data Modeling (Basics) workloads for dashboard performance
+- Develop semantic layers and governed metrics with Data Modeling (Basics), Python
+- Build executive dashboards in Tableau, SQL
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Data Modeling (Basics), SQL, Power BI, KPI Design, Semantic Layer, Tableau, Python
+- Preferred skills: Looker

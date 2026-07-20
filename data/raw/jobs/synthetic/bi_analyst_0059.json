@@ -1,0 +1,35 @@
+{
+  "jd_id": "bi_analyst_0059",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "BI Developer",
+  "company": "Ortiz, Powell and Phillips",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "data_modeling_basics",
+    "semantic_layer",
+    "sql",
+    "looker",
+    "power_bi",
+    "python"
+  ],
+  "required_skill_names": [
+    "Data Modeling (Basics)",
+    "Semantic Layer",
+    "SQL",
+    "Looker",
+    "Power BI",
+    "Python"
+  ],
+  "preferred_skills": [
+    "tableau"
+  ],
+  "preferred_skill_names": [
+    "Tableau"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,15 @@
+Senior ML Engineer
+Grant-Diaz | East Carrie, Iran
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Collaborate with data scientists to ship AWS, Deep Learning models
+- Build MLOps pipelines for Python, MLOps model lifecycle
+- Deploy and monitor MLOps, Supervised Learning models in production
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 5+ years deploying ML models to production
+- Required skills: MLOps, Python, Deep Learning, Supervised Learning, Docker & Kubernetes, Feature Stores, AWS

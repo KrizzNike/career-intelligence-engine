@@ -1,0 +1,16 @@
+Data Analyst
+Allen, Gonzales and Reeves | West Matthew, Uganda
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with Data Modeling (Basics), Python for stakeholders
+- Write efficient ETL Fundamentals, Data Modeling (Basics) queries to extract insights
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Data Modeling (Basics), ETL Fundamentals, Domain Acumen, KPI Design, Microsoft Excel, Descriptive Statistics, SQL, R, Python
+- Preferred skills: Stakeholder Management, Hypothesis Testing

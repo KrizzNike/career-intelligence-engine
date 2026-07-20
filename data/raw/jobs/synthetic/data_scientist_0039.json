@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_scientist_0039",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Applied Scientist",
+  "company": "Hughes Inc",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "probability",
+    "feature_engineering",
+    "supervised_learning",
+    "sql",
+    "insight_storytelling",
+    "model_evaluation",
+    "r_language",
+    "python"
+  ],
+  "required_skill_names": [
+    "Probability & Statistics",
+    "Feature Engineering",
+    "Supervised Learning",
+    "SQL",
+    "Insight Storytelling",
+    "Model Evaluation",
+    "R",
+    "Python"
+  ],
+  "preferred_skills": [
+    "unsupervised_learning",
+    "experimentation"
+  ],
+  "preferred_skill_names": [
+    "Unsupervised Learning",
+    "Experimentation"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

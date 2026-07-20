@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_analyst_0013",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Rivera-Owens",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "python",
+    "excel",
+    "hypothesis_testing",
+    "etl_basics",
+    "r_language",
+    "sql",
+    "descriptive_stats",
+    "stakeholder_management",
+    "kpi_design"
+  ],
+  "required_skill_names": [
+    "Python",
+    "Microsoft Excel",
+    "Hypothesis Testing",
+    "ETL Fundamentals",
+    "R",
+    "SQL",
+    "Descriptive Statistics",
+    "Stakeholder Management",
+    "KPI Design"
+  ],
+  "preferred_skills": [
+    "domain_acumen"
+  ],
+  "preferred_skill_names": [
+    "Domain Acumen"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

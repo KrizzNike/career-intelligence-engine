@@ -1,0 +1,15 @@
+Senior Data Analyst
+Hernandez Inc | South Cheryl, Seychelles
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using Hypothesis Testing, KPI Design to answer business questions
+- Write efficient KPI Design, R queries to extract insights
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: Stakeholder Management, Hypothesis Testing, Python, Domain Acumen, SQL-to-Insight Storytelling, Microsoft Excel, Descriptive Statistics, SQL, KPI Design, R
+- Preferred skills: Data Modeling (Basics)

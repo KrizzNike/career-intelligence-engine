@@ -1,0 +1,15 @@
+Business Intelligence Analyst
+Hoffman-Rodriguez | New Barry, Heard Island and McDonald Islands
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Python, KPI Design workloads for dashboard performance
+- Design and maintain self-serve BI models using Semantic Layer, Python
+- Develop semantic layers and governed metrics with Looker, SQL
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Required skills: Semantic Layer, SQL, Looker, Power BI, KPI Design, Python
+- Preferred skills: Data Modeling (Basics)

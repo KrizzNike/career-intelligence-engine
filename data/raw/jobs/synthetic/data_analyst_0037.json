@@ -1,0 +1,45 @@
+{
+  "jd_id": "data_analyst_0037",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Business Data Analyst",
+  "company": "Barajas-Pierce",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "hypothesis_testing",
+    "etl_basics",
+    "domain_acumen",
+    "excel",
+    "python",
+    "descriptive_stats",
+    "sql_to_insight",
+    "data_modeling_basics",
+    "stakeholder_management",
+    "r_language",
+    "kpi_design"
+  ],
+  "required_skill_names": [
+    "Hypothesis Testing",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Microsoft Excel",
+    "Python",
+    "Descriptive Statistics",
+    "SQL-to-Insight Storytelling",
+    "Data Modeling (Basics)",
+    "Stakeholder Management",
+    "R",
+    "KPI Design"
+  ],
+  "preferred_skills": [
+    "sql"
+  ],
+  "preferred_skill_names": [
+    "SQL"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

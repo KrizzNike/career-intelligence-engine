@@ -1,0 +1,15 @@
+Data Analyst
+Stuart, Higgins and Strickland | West Daniel, Anguilla
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with R, Stakeholder Management for stakeholders
+- Write efficient KPI Design, SQL queries to extract insights
+- Analyze large datasets using Hypothesis Testing, SQL to answer business questions
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: R, SQL-to-Insight Storytelling, Descriptive Statistics, Data Modeling (Basics), Stakeholder Management, ETL Fundamentals, Hypothesis Testing, KPI Design, SQL, Domain Acumen

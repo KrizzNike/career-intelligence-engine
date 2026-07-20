@@ -1,0 +1,16 @@
+Junior Data Scientist
+Knight Group | East Joycetown, Bermuda
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Derive insights from large datasets using Experimentation, Feature Engineering
+- Productionize Probability & Statistics, Feature Engineering models with the engineering team
+- Run experiments and A/B tests; report with Insight Storytelling, Probability & Statistics
+- Build predictive models using Python, Probability & Statistics
+
+REQUIREMENTS
+- 0+ years of hands-on data science experience
+- Required skills: Supervised Learning, Model Evaluation, Probability & Statistics, Experimentation, Feature Engineering, Insight Storytelling, SQL, Python
+- Preferred skills: Unsupervised Learning

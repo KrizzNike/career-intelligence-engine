@@ -1,0 +1,14 @@
+Analytics Engineer
+Holland and Sons | Cantuport, Malawi
+
+ABOUT THE ROLE
+We are hiring a Analytics Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Ensure data quality across Data Warehousing, Orchestration pipelines
+- Design and operate scalable Scala, SQL pipelines
+- Implement ETL/ELT workflows with GCP, Azure
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- Required skills: GCP, Orchestration, Data Modeling, AWS, ETL / ELT, Scala, Azure, SQL, Data Warehousing, Python

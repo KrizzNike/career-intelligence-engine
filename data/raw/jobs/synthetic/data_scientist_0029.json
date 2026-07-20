@@ -1,0 +1,37 @@
+{
+  "jd_id": "data_scientist_0029",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Junior Data Scientist",
+  "company": "Lee-Cooke",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "nlp",
+    "feature_engineering",
+    "sql",
+    "model_evaluation",
+    "probability",
+    "insight_storytelling",
+    "unsupervised_learning",
+    "supervised_learning",
+    "experimentation"
+  ],
+  "required_skill_names": [
+    "Natural Language Processing",
+    "Feature Engineering",
+    "SQL",
+    "Model Evaluation",
+    "Probability & Statistics",
+    "Insight Storytelling",
+    "Unsupervised Learning",
+    "Supervised Learning",
+    "Experimentation"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

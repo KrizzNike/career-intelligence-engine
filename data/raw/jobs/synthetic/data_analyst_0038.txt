@@ -1,0 +1,15 @@
+Senior Data Analyst
+Hall-Griffith | Davidside, Zambia
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with Stakeholder Management, ETL Fundamentals for stakeholders
+- Partner with business teams to define KPIs and track them
+- Write efficient KPI Design, Data Modeling (Basics) queries to extract insights
+
+REQUIREMENTS
+- 5+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: SQL-to-Insight Storytelling, Domain Acumen, Data Modeling (Basics), R, SQL, Microsoft Excel, Stakeholder Management, ETL Fundamentals, KPI Design, Python, Hypothesis Testing

@@ -1,0 +1,17 @@
+Business Intelligence Analyst
+Garcia, Pearson and Fernandez | North Sarabury, Chad
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using Data Modeling (Basics), Tableau
+- Optimize Data Modeling (Basics), Looker workloads for dashboard performance
+- Develop semantic layers and governed metrics with Data Modeling (Basics), Python
+- Build executive dashboards in Python, Tableau
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- 2+ years building dashboards and BI solutions
+- Required skills: Power BI, Looker, Semantic Layer, Python, Data Modeling (Basics), Tableau
+- Preferred skills: SQL, KPI Design

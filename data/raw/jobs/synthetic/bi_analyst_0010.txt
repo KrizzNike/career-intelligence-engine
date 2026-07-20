@@ -1,0 +1,16 @@
+Business Intelligence Analyst
+Nguyen, Tate and Brown | Port Leslieview, Bahrain
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Looker, Data Modeling (Basics)
+- Design and maintain self-serve BI models using Python, SQL
+- Develop semantic layers and governed metrics with Python, Data Modeling (Basics)
+- Optimize Semantic Layer, Looker workloads for dashboard performance
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Required skills: Looker, Semantic Layer, Power BI, SQL, Python, Tableau, Data Modeling (Basics)
+- Preferred skills: KPI Design

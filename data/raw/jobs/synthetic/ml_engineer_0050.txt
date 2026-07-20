@@ -1,0 +1,15 @@
+Senior ML Engineer
+Osborn Group | Lopezport, Turkey
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Deep Learning, Python model lifecycle
+- Optimize Python, Docker & Kubernetes serving infrastructure
+- Collaborate with data scientists to ship Supervised Learning, Python models
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Deep Learning, SQL, Docker & Kubernetes, Supervised Learning, Python, MLOps
+- Preferred skills: Feature Stores, AWS

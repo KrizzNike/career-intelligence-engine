@@ -1,0 +1,16 @@
+Junior Data Analyst
+Hines and Sons | Stonemouth, United States Virgin Islands
+
+ABOUT THE ROLE
+We are hiring a Junior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Write efficient Domain Acumen, KPI Design queries to extract insights
+- Analyze large datasets using Stakeholder Management, KPI Design to answer business questions
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- 0+ years of experience in data analysis or analytics role
+- Required skills: SQL, R, Microsoft Excel, Python, Domain Acumen, KPI Design, Stakeholder Management, ETL Fundamentals, SQL-to-Insight Storytelling, Descriptive Statistics
+- Preferred skills: Hypothesis Testing, Data Modeling (Basics)

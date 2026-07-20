@@ -1,0 +1,16 @@
+Business Data Analyst
+Wilson, Gould and Marshall | Katieburgh, New Caledonia
+
+ABOUT THE ROLE
+We are hiring a Business Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using Hypothesis Testing, SQL-to-Insight Storytelling to answer business questions
+- Write efficient ETL Fundamentals, Python queries to extract insights
+- Partner with business teams to define KPIs and track them
+- Build dashboards and reports with Python, Microsoft Excel for stakeholders
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: Hypothesis Testing, Python, KPI Design, Domain Acumen, SQL, ETL Fundamentals, SQL-to-Insight Storytelling, Microsoft Excel, Descriptive Statistics, Data Modeling (Basics), Stakeholder Management
+- Preferred skills: R

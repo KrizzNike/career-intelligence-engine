@@ -1,0 +1,17 @@
+Senior BI Analyst
+Chandler-Mcbride | East Jamesside, Kiribati
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in KPI Design, Tableau
+- Design and maintain self-serve BI models using Looker, Tableau
+- Develop semantic layers and governed metrics with Semantic Layer, SQL
+- Optimize Semantic Layer, Tableau workloads for dashboard performance
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- 5+ years building dashboards and BI solutions
+- Required skills: KPI Design, Semantic Layer, Data Modeling (Basics), Python, Looker, Tableau, SQL
+- Preferred skills: Power BI

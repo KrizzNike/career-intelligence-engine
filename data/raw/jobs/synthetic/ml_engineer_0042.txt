@@ -1,0 +1,16 @@
+MLOps Engineer
+Hill, Martinez and Rhodes | Huangfurt, Svalbard & Jan Mayen Islands
+
+ABOUT THE ROLE
+We are hiring a MLOps Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Collaborate with data scientists to ship Supervised Learning, MLOps models
+- Build MLOps pipelines for Docker & Kubernetes, SQL model lifecycle
+- Optimize Docker & Kubernetes, Feature Stores serving infrastructure
+- Deploy and monitor AWS, Feature Stores models in production
+
+REQUIREMENTS
+- 2+ years deploying ML models to production
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Docker & Kubernetes, MLOps, AWS, Supervised Learning, SQL, Feature Stores

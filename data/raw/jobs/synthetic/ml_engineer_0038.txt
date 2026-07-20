@@ -1,0 +1,15 @@
+Senior ML Engineer
+Stone PLC | Whitneyfort, Malta
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for AWS, SQL model lifecycle
+- Collaborate with data scientists to ship SQL, AWS models
+- Optimize MLOps, Docker & Kubernetes serving infrastructure
+- Deploy and monitor AWS, Supervised Learning models in production
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Deep Learning, Supervised Learning, MLOps, Docker & Kubernetes, Python, SQL, AWS

@@ -1,0 +1,16 @@
+Junior Data Scientist
+Lee-Cooke | North Kenneth, Solomon Islands
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using Experimentation, Feature Engineering
+- Productionize Supervised Learning, SQL models with the engineering team
+- Run experiments and A/B tests; report with Probability & Statistics, Unsupervised Learning
+- Derive insights from large datasets using Feature Engineering, Experimentation
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- 0+ years of hands-on data science experience
+- Required skills: Natural Language Processing, Feature Engineering, SQL, Model Evaluation, Probability & Statistics, Insight Storytelling, Unsupervised Learning, Supervised Learning, Experimentation

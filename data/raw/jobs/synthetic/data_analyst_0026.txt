@@ -1,0 +1,16 @@
+Business Data Analyst
+Vaughn, Burton and Garcia | Melissaville, South Africa
+
+ABOUT THE ROLE
+We are hiring a Business Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using Domain Acumen, SQL to answer business questions
+- Write efficient SQL-to-Insight Storytelling, ETL Fundamentals queries to extract insights
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: SQL, KPI Design, Stakeholder Management, R, Descriptive Statistics, Microsoft Excel, ETL Fundamentals, Domain Acumen, SQL-to-Insight Storytelling
+- Preferred skills: Python, Data Modeling (Basics), Hypothesis Testing

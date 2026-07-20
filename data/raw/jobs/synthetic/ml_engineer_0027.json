@@ -1,0 +1,37 @@
+{
+  "jd_id": "ml_engineer_0027",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "job_title": "Senior ML Engineer",
+  "company": "Williams-Hoffman",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "sql",
+    "aws",
+    "mlops",
+    "python",
+    "docker_k8s",
+    "supervised_learning",
+    "feature_stores"
+  ],
+  "required_skill_names": [
+    "SQL",
+    "AWS",
+    "MLOps",
+    "Python",
+    "Docker & Kubernetes",
+    "Supervised Learning",
+    "Feature Stores"
+  ],
+  "preferred_skills": [
+    "deep_learning"
+  ],
+  "preferred_skill_names": [
+    "Deep Learning"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

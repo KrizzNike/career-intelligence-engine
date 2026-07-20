@@ -1,0 +1,16 @@
+ML Engineer
+Morris-Wright | Patrickmouth, Sao Tome and Principe
+
+ABOUT THE ROLE
+We are hiring a ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor MLOps, Deep Learning models in production
+- Optimize Python, Feature Stores serving infrastructure
+- Build MLOps pipelines for AWS, Docker & Kubernetes model lifecycle
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 2+ years deploying ML models to production
+- Required skills: Deep Learning, SQL, Python, Feature Stores, Docker & Kubernetes, MLOps, AWS
+- Preferred skills: Supervised Learning

@@ -1,0 +1,17 @@
+Applied Scientist
+Jordan-Campbell | Roseport, Aruba
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Run experiments and A/B tests; report with Natural Language Processing, Unsupervised Learning
+- Productionize Experimentation, Supervised Learning models with the engineering team
+- Build predictive models using Supervised Learning, SQL
+- Derive insights from large datasets using R, Model Evaluation
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: R, Insight Storytelling, Probability & Statistics, Feature Engineering, Unsupervised Learning, Experimentation, SQL, Supervised Learning, Natural Language Processing, Model Evaluation
+- Preferred skills: Python

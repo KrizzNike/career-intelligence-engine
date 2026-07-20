@@ -1,0 +1,16 @@
+BI Developer
+Johnston, Sanchez and Kennedy | Leeville, Palestinian Territory
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Develop semantic layers and governed metrics with Power BI, KPI Design
+- Design and maintain self-serve BI models using Power BI, SQL
+- Optimize Data Modeling (Basics), Tableau workloads for dashboard performance
+- Build executive dashboards in Python, Semantic Layer
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Python, KPI Design, Tableau, Semantic Layer, SQL, Looker, Data Modeling (Basics), Power BI

@@ -1,0 +1,16 @@
+ML Engineer
+Smith PLC | West Justinside, Malta
+
+ABOUT THE ROLE
+We are hiring a ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for MLOps, Python model lifecycle
+- Collaborate with data scientists to ship SQL, Deep Learning models
+- Deploy and monitor MLOps, Python models in production
+
+REQUIREMENTS
+- 2+ years deploying ML models to production
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Deep Learning, MLOps, Python, Supervised Learning, AWS, Feature Stores, SQL
+- Preferred skills: Docker & Kubernetes

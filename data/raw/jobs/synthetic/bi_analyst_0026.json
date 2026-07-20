@@ -1,0 +1,35 @@
+{
+  "jd_id": "bi_analyst_0026",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "BI Developer",
+  "company": "Johnston, Sanchez and Kennedy",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "python",
+    "kpi_design",
+    "tableau",
+    "semantic_layer",
+    "sql",
+    "looker",
+    "data_modeling_basics",
+    "power_bi"
+  ],
+  "required_skill_names": [
+    "Python",
+    "KPI Design",
+    "Tableau",
+    "Semantic Layer",
+    "SQL",
+    "Looker",
+    "Data Modeling (Basics)",
+    "Power BI"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

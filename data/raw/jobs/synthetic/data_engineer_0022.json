@@ -1,0 +1,35 @@
+{
+  "jd_id": "data_engineer_0022",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Senior Data Engineer",
+  "company": "Alexander LLC",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "etl_elt",
+    "data_modeling",
+    "data_warehousing",
+    "scala",
+    "python",
+    "orchestration",
+    "aws",
+    "sql"
+  ],
+  "required_skill_names": [
+    "ETL / ELT",
+    "Data Modeling",
+    "Data Warehousing",
+    "Scala",
+    "Python",
+    "Orchestration",
+    "AWS",
+    "SQL"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

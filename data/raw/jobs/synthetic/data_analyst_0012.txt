@@ -1,0 +1,15 @@
+Business Data Analyst
+Miller, Hernandez and Reyes | Lake Jason, Israel
+
+ABOUT THE ROLE
+We are hiring a Business Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Build dashboards and reports with Descriptive Statistics, SQL for stakeholders
+- Analyze large datasets using Descriptive Statistics, Data Modeling (Basics) to answer business questions
+- Write efficient SQL-to-Insight Storytelling, Descriptive Statistics queries to extract insights
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: KPI Design, Microsoft Excel, SQL-to-Insight Storytelling, Hypothesis Testing, ETL Fundamentals, Descriptive Statistics, Data Modeling (Basics), Domain Acumen, R, Python, SQL

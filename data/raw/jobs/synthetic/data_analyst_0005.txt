@@ -1,0 +1,16 @@
+Junior Data Analyst
+Gibson Ltd | Lake Heather, Lithuania
+
+ABOUT THE ROLE
+We are hiring a Junior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Write efficient R, Descriptive Statistics queries to extract insights
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using R, SQL to answer business questions
+- Build dashboards and reports with Microsoft Excel, Data Modeling (Basics) for stakeholders
+
+REQUIREMENTS
+- 0+ years of experience in data analysis or analytics role
+- Required skills: SQL, SQL-to-Insight Storytelling, Descriptive Statistics, Data Modeling (Basics), Microsoft Excel, KPI Design, Domain Acumen, R, Stakeholder Management, Python, ETL Fundamentals
+- Preferred skills: Hypothesis Testing

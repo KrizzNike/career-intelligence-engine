@@ -1,0 +1,15 @@
+Business Intelligence Analyst
+Delacruz Group | Shawnstad, Central African Republic
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using Looker, Semantic Layer
+- Build executive dashboards in Tableau, Looker
+- Optimize Tableau, SQL workloads for dashboard performance
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Required skills: SQL, Tableau, Data Modeling (Basics), Python, Looker, KPI Design, Semantic Layer
+- Preferred skills: Power BI

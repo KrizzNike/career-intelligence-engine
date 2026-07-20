@@ -1,0 +1,16 @@
+Data Scientist
+Thomas PLC | Johnsonland, Dominica
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using R, Model Evaluation
+- Run experiments and A/B tests; report with Feature Engineering, Model Evaluation
+- Productionize Insight Storytelling, Model Evaluation models with the engineering team
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- 2+ years of hands-on data science experience
+- Required skills: Python, R, Unsupervised Learning, Probability & Statistics, Model Evaluation, Feature Engineering, Supervised Learning, Insight Storytelling
+- Preferred skills: SQL

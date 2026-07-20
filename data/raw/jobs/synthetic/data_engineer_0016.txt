@@ -1,0 +1,16 @@
+Data Platform Engineer
+Young Ltd | Wendyland, Jordan
+
+ABOUT THE ROLE
+We are hiring a Data Platform Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Ensure data quality across GCP, Orchestration pipelines
+- Build and maintain Data Warehousing, ETL / ELT data warehouses
+- Design and operate scalable Data Warehousing, Orchestration pipelines
+- Implement ETL/ELT workflows with ETL / ELT, GCP
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: ETL / ELT, AWS, Python, Orchestration, Scala, Data Warehousing, Azure, SQL, GCP
+- Preferred skills: Data Modeling, ML Engineering (Ops)

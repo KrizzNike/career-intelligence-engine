@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_engineer_0001",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Senior Data Engineer",
+  "company": "Dunn-Pennington",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "orchestration",
+    "etl_elt",
+    "azure",
+    "aws",
+    "gcp",
+    "data_modeling",
+    "python",
+    "data_warehousing"
+  ],
+  "required_skill_names": [
+    "Orchestration",
+    "ETL / ELT",
+    "Azure",
+    "AWS",
+    "GCP",
+    "Data Modeling",
+    "Python",
+    "Data Warehousing"
+  ],
+  "preferred_skills": [
+    "scala",
+    "sql"
+  ],
+  "preferred_skill_names": [
+    "Scala",
+    "SQL"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

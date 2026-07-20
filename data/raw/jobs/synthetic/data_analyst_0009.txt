@@ -1,0 +1,15 @@
+Senior Data Analyst
+Mcclain, Simmons and Meadows | Merrittfort, Korea
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using ETL Fundamentals, Stakeholder Management to answer business questions
+- Write efficient Python, Data Modeling (Basics) queries to extract insights
+- Build dashboards and reports with Microsoft Excel, Hypothesis Testing for stakeholders
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: Domain Acumen, Hypothesis Testing, ETL Fundamentals, Microsoft Excel, SQL-to-Insight Storytelling, Python, SQL, Descriptive Statistics, Data Modeling (Basics), KPI Design, Stakeholder Management

@@ -1,0 +1,16 @@
+Data Scientist
+Romero-Collins | Johnsonstad, Switzerland
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Run experiments and A/B tests; report with SQL, Python
+- Build predictive models using Insight Storytelling, Unsupervised Learning
+- Productionize Insight Storytelling, Python models with the engineering team
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: Python, R, Model Evaluation, Experimentation, SQL, Feature Engineering, Probability & Statistics, Insight Storytelling, Unsupervised Learning
+- Preferred skills: Supervised Learning, Natural Language Processing

@@ -1,0 +1,35 @@
+{
+  "jd_id": "bi_analyst_0039",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "Senior BI Analyst",
+  "company": "Medina PLC",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "looker",
+    "power_bi",
+    "semantic_layer",
+    "python",
+    "data_modeling_basics",
+    "kpi_design"
+  ],
+  "required_skill_names": [
+    "Looker",
+    "Power BI",
+    "Semantic Layer",
+    "Python",
+    "Data Modeling (Basics)",
+    "KPI Design"
+  ],
+  "preferred_skills": [
+    "sql"
+  ],
+  "preferred_skill_names": [
+    "SQL"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,15 @@
+Junior Data Scientist
+Haas-Miller | North John, Kazakhstan
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Experimentation, R models with the engineering team
+- Run experiments and A/B tests; report with R, Probability & Statistics
+- Build predictive models using Probability & Statistics, Insight Storytelling
+- Derive insights from large datasets using Python, Probability & Statistics
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- Required skills: Insight Storytelling, Supervised Learning, Python, Experimentation, Model Evaluation, R, Feature Engineering, Probability & Statistics, SQL

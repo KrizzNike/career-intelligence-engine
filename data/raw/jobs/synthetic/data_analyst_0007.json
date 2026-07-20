@@ -1,0 +1,45 @@
+{
+  "jd_id": "data_analyst_0007",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Business Data Analyst",
+  "company": "Robinson-Brock",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "r_language",
+    "kpi_design",
+    "excel",
+    "data_modeling_basics",
+    "python",
+    "sql",
+    "domain_acumen",
+    "sql_to_insight",
+    "stakeholder_management",
+    "hypothesis_testing"
+  ],
+  "required_skill_names": [
+    "R",
+    "KPI Design",
+    "Microsoft Excel",
+    "Data Modeling (Basics)",
+    "Python",
+    "SQL",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "Stakeholder Management",
+    "Hypothesis Testing"
+  ],
+  "preferred_skills": [
+    "descriptive_stats",
+    "etl_basics"
+  ],
+  "preferred_skill_names": [
+    "Descriptive Statistics",
+    "ETL Fundamentals"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

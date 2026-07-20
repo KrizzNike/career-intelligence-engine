@@ -1,0 +1,16 @@
+Junior Data Analyst
+Ramirez Group | Port Steven, New Zealand
+
+ABOUT THE ROLE
+We are hiring a Junior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using R, Hypothesis Testing to answer business questions
+- Build dashboards and reports with Microsoft Excel, Descriptive Statistics for stakeholders
+- Write efficient ETL Fundamentals, Microsoft Excel queries to extract insights
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- 0+ years of experience in data analysis or analytics role
+- Required skills: Descriptive Statistics, Hypothesis Testing, Stakeholder Management, ETL Fundamentals, KPI Design, R, Data Modeling (Basics), SQL, Microsoft Excel
+- Preferred skills: Domain Acumen, Python, SQL-to-Insight Storytelling

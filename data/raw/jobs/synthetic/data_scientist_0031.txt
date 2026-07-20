@@ -1,0 +1,16 @@
+Data Scientist
+Moore-White | Lake Samuel, Isle of Man
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Derive insights from large datasets using Feature Engineering, SQL
+- Build predictive models using R, Feature Engineering
+- Productionize Feature Engineering, Python models with the engineering team
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: Probability & Statistics, Python, Experimentation, Model Evaluation, Insight Storytelling, R, Feature Engineering, SQL
+- Preferred skills: Natural Language Processing, Unsupervised Learning, Supervised Learning

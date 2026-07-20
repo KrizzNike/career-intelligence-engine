@@ -1,0 +1,16 @@
+Senior Data Engineer
+Reid Group | Debraville, Burundi
+
+ABOUT THE ROLE
+We are hiring a Senior Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with GCP, Data Warehousing
+- Build and maintain GCP, Scala data warehouses
+- Design and operate scalable Azure, GCP pipelines
+- Ensure data quality across Data Warehousing, SQL pipelines
+
+REQUIREMENTS
+- 5+ years building data pipelines and warehouses
+- Required skills: AWS, SQL, Python, Data Modeling, Azure, Scala, ML Engineering (Ops), GCP, Data Warehousing
+- Preferred skills: ETL / ELT

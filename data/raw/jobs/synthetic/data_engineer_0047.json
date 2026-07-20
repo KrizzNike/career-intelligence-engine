@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_engineer_0047",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Analytics Engineer",
+  "company": "Brown, West and Cox",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "gcp",
+    "python",
+    "aws",
+    "scala",
+    "ml_engineering",
+    "orchestration",
+    "data_warehousing",
+    "data_modeling",
+    "azure",
+    "sql"
+  ],
+  "required_skill_names": [
+    "GCP",
+    "Python",
+    "AWS",
+    "Scala",
+    "ML Engineering (Ops)",
+    "Orchestration",
+    "Data Warehousing",
+    "Data Modeling",
+    "Azure",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "etl_elt"
+  ],
+  "preferred_skill_names": [
+    "ETL / ELT"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,15 @@
+Senior ML Engineer
+Diaz, Reyes and Bradley | Lake Shannon, Heard Island and McDonald Islands
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Deep Learning, SQL model lifecycle
+- Collaborate with data scientists to ship Python, Feature Stores models
+- Deploy and monitor Feature Stores, Supervised Learning models in production
+- Optimize Deep Learning, SQL serving infrastructure
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: Supervised Learning, MLOps, SQL, AWS, Deep Learning, Feature Stores, Python, Docker & Kubernetes

@@ -1,0 +1,16 @@
+Senior Data Analyst
+Byrd-Orr | Richardtown, Gabon
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with SQL-to-Insight Storytelling, Python for stakeholders
+- Analyze large datasets using SQL-to-Insight Storytelling, Descriptive Statistics to answer business questions
+- Write efficient Stakeholder Management, Data Modeling (Basics) queries to extract insights
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- 5+ years of experience in data analysis or analytics role
+- Required skills: Descriptive Statistics, SQL-to-Insight Storytelling, Data Modeling (Basics), R, Python, Stakeholder Management, Domain Acumen, ETL Fundamentals, KPI Design
+- Preferred skills: SQL

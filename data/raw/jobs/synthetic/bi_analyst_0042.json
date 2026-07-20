@@ -1,0 +1,35 @@
+{
+  "jd_id": "bi_analyst_0042",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "Senior BI Analyst",
+  "company": "Garcia, Humphrey and Baker",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "sql",
+    "looker",
+    "power_bi",
+    "data_modeling_basics",
+    "kpi_design",
+    "python",
+    "tableau",
+    "semantic_layer"
+  ],
+  "required_skill_names": [
+    "SQL",
+    "Looker",
+    "Power BI",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "Python",
+    "Tableau",
+    "Semantic Layer"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

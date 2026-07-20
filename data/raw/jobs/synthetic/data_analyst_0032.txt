@@ -1,0 +1,15 @@
+Senior Data Analyst
+Gray, Johnson and Rosales | South Jason, South Georgia and the South Sandwich Islands
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with Domain Acumen, Python for stakeholders
+- Write efficient Descriptive Statistics, Hypothesis Testing queries to extract insights
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- 5+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: SQL-to-Insight Storytelling, Microsoft Excel, KPI Design, SQL, R, Descriptive Statistics, Hypothesis Testing, Stakeholder Management, Python, Data Modeling (Basics), Domain Acumen

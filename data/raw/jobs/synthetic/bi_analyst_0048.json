@@ -1,0 +1,33 @@
+{
+  "jd_id": "bi_analyst_0048",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "BI Analyst",
+  "company": "Clark-Wright",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "tableau",
+    "kpi_design",
+    "power_bi",
+    "semantic_layer",
+    "data_modeling_basics",
+    "python",
+    "sql"
+  ],
+  "required_skill_names": [
+    "Tableau",
+    "KPI Design",
+    "Power BI",
+    "Semantic Layer",
+    "Data Modeling (Basics)",
+    "Python",
+    "SQL"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

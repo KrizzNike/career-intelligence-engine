@@ -1,0 +1,15 @@
+Senior ML Engineer
+Lee-Wright | Jeffreyport, Sierra Leone
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor Deep Learning, Python models in production
+- Optimize Supervised Learning, Python serving infrastructure
+- Collaborate with data scientists to ship AWS, Python models
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: Supervised Learning, SQL, Feature Stores, Deep Learning, AWS, Python
+- Preferred skills: MLOps

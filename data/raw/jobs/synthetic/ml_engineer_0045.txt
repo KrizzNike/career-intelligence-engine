@@ -1,0 +1,16 @@
+Senior ML Engineer
+Horton, Taylor and Gilbert | East Brent, United Kingdom
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Supervised Learning, MLOps model lifecycle
+- Optimize Deep Learning, Feature Stores serving infrastructure
+- Collaborate with data scientists to ship Python, MLOps models
+- Deploy and monitor SQL, Supervised Learning models in production
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Supervised Learning, Python, MLOps, SQL, Deep Learning, Feature Stores
+- Preferred skills: AWS, Docker & Kubernetes

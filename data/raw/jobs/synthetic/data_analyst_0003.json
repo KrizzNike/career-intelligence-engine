@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_analyst_0003",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Schultz, Rogers and Cardenas",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "r_language",
+    "sql",
+    "excel",
+    "hypothesis_testing",
+    "domain_acumen",
+    "descriptive_stats",
+    "data_modeling_basics",
+    "etl_basics",
+    "stakeholder_management",
+    "kpi_design",
+    "sql_to_insight"
+  ],
+  "required_skill_names": [
+    "R",
+    "SQL",
+    "Microsoft Excel",
+    "Hypothesis Testing",
+    "Domain Acumen",
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "ETL Fundamentals",
+    "Stakeholder Management",
+    "KPI Design",
+    "SQL-to-Insight Storytelling"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

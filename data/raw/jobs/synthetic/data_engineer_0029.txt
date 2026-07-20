@@ -1,0 +1,15 @@
+Data Engineer
+Murphy-Perry | East Kristin, Turkey
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain Data Modeling, Orchestration data warehouses
+- Implement ETL/ELT workflows with Data Modeling, SQL
+- Design and operate scalable Python, SQL pipelines
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: Orchestration, GCP, AWS, ML Engineering (Ops), SQL, Scala, Data Modeling, Data Warehousing, Python, ETL / ELT
+- Preferred skills: Azure

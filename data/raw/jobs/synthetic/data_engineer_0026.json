@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_engineer_0026",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Senior Data Engineer",
+  "company": "Lawson LLC",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "ml_engineering",
+    "gcp",
+    "data_warehousing",
+    "aws",
+    "orchestration",
+    "sql",
+    "python",
+    "azure"
+  ],
+  "required_skill_names": [
+    "ML Engineering (Ops)",
+    "GCP",
+    "Data Warehousing",
+    "AWS",
+    "Orchestration",
+    "SQL",
+    "Python",
+    "Azure"
+  ],
+  "preferred_skills": [
+    "data_modeling",
+    "etl_elt",
+    "scala"
+  ],
+  "preferred_skill_names": [
+    "Data Modeling",
+    "ETL / ELT",
+    "Scala"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

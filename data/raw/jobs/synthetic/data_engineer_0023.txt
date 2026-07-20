@@ -1,0 +1,17 @@
+Data Engineer
+Bryant-Turner | Castanedaville, Dominica
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with Orchestration, ML Engineering (Ops)
+- Design and operate scalable Scala, ML Engineering (Ops) pipelines
+- Build and maintain Azure, Data Modeling data warehouses
+- Ensure data quality across Scala, AWS pipelines
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- 2+ years building data pipelines and warehouses
+- Required skills: Orchestration, AWS, SQL, Scala, Data Warehousing, Python, Azure, ETL / ELT, ML Engineering (Ops), Data Modeling
+- Preferred skills: GCP

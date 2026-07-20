@@ -1,0 +1,15 @@
+Applied Scientist
+Nelson LLC | Michaelburgh, Trinidad and Tobago
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Model Evaluation, Natural Language Processing models with the engineering team
+- Build predictive models using Feature Engineering, R
+- Derive insights from large datasets using Supervised Learning, Insight Storytelling
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: Supervised Learning, Feature Engineering, Model Evaluation, Python, SQL, R, Unsupervised Learning, Natural Language Processing, Experimentation, Insight Storytelling

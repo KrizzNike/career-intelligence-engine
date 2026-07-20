@@ -1,0 +1,16 @@
+BI Analyst
+Mccall, Hanson and Alvarado | Lake Rachelhaven, Georgia
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using SQL, Semantic Layer
+- Build executive dashboards in Tableau, KPI Design
+- Optimize KPI Design, Power BI workloads for dashboard performance
+- Develop semantic layers and governed metrics with Power BI, Python
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: SQL, Semantic Layer, Data Modeling (Basics), KPI Design, Power BI, Tableau, Python
+- Preferred skills: Looker

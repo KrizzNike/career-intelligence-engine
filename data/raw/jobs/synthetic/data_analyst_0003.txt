@@ -1,0 +1,14 @@
+Senior Data Analyst
+Schultz, Rogers and Cardenas | Lake Lance, Sri Lanka
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with SQL, Domain Acumen for stakeholders
+- Write efficient Hypothesis Testing, Domain Acumen queries to extract insights
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: R, SQL, Microsoft Excel, Hypothesis Testing, Domain Acumen, Descriptive Statistics, Data Modeling (Basics), ETL Fundamentals, Stakeholder Management, KPI Design, SQL-to-Insight Storytelling

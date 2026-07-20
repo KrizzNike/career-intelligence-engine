@@ -1,0 +1,37 @@
+{
+  "jd_id": "bi_analyst_0043",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "Senior BI Analyst",
+  "company": "Clark, Cooper and Watts",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "tableau",
+    "looker",
+    "sql",
+    "semantic_layer",
+    "python",
+    "power_bi",
+    "kpi_design"
+  ],
+  "required_skill_names": [
+    "Tableau",
+    "Looker",
+    "SQL",
+    "Semantic Layer",
+    "Python",
+    "Power BI",
+    "KPI Design"
+  ],
+  "preferred_skills": [
+    "data_modeling_basics"
+  ],
+  "preferred_skill_names": [
+    "Data Modeling (Basics)"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

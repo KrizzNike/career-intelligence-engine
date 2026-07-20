@@ -1,0 +1,16 @@
+Junior Data Analyst
+Johnston-Odonnell | Sandersborough, Belarus
+
+ABOUT THE ROLE
+We are hiring a Junior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using SQL, Domain Acumen to answer business questions
+- Write efficient Domain Acumen, SQL queries to extract insights
+- Build dashboards and reports with Descriptive Statistics, Python for stakeholders
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: Microsoft Excel, ETL Fundamentals, Python, SQL, Descriptive Statistics, Domain Acumen, KPI Design, Stakeholder Management, Hypothesis Testing
+- Preferred skills: SQL-to-Insight Storytelling, Data Modeling (Basics), R

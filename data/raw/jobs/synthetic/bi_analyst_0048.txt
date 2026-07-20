@@ -1,0 +1,15 @@
+BI Analyst
+Clark-Wright | West Kimberlychester, Niger
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Semantic Layer, SQL workloads for dashboard performance
+- Develop semantic layers and governed metrics with Semantic Layer, Python
+- Design and maintain self-serve BI models using Tableau, Semantic Layer
+- Build executive dashboards in Python, Semantic Layer
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Required skills: Tableau, KPI Design, Power BI, Semantic Layer, Data Modeling (Basics), Python, SQL

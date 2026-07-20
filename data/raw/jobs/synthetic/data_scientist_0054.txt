@@ -1,0 +1,16 @@
+Data Scientist
+Crawford Group | Sandrahaven, Ethiopia
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Run experiments and A/B tests; report with Supervised Learning, R
+- Build predictive models using Unsupervised Learning, Experimentation
+- Productionize Insight Storytelling, Python models with the engineering team
+- Derive insights from large datasets using Natural Language Processing, Experimentation
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Required skills: Unsupervised Learning, R, Insight Storytelling, Supervised Learning, Natural Language Processing, Experimentation, Model Evaluation, Python, Feature Engineering
+- Preferred skills: SQL

@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_scientist_0050",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Applied Scientist",
+  "company": "Cain Inc",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "supervised_learning",
+    "sql",
+    "python",
+    "nlp",
+    "model_evaluation",
+    "r_language",
+    "experimentation",
+    "insight_storytelling",
+    "feature_engineering"
+  ],
+  "required_skill_names": [
+    "Supervised Learning",
+    "SQL",
+    "Python",
+    "Natural Language Processing",
+    "Model Evaluation",
+    "R",
+    "Experimentation",
+    "Insight Storytelling",
+    "Feature Engineering"
+  ],
+  "preferred_skills": [
+    "probability"
+  ],
+  "preferred_skill_names": [
+    "Probability & Statistics"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

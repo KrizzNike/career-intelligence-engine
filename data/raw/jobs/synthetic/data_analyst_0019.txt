@@ -1,0 +1,15 @@
+Data Analyst
+Green LLC | South Mark, Senegal
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with R, ETL Fundamentals for stakeholders
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using Descriptive Statistics, R to answer business questions
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: R, SQL, KPI Design, Domain Acumen, Descriptive Statistics, Data Modeling (Basics), ETL Fundamentals, Hypothesis Testing, Python, Microsoft Excel
+- Preferred skills: Stakeholder Management, SQL-to-Insight Storytelling

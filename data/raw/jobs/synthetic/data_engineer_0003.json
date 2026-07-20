@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_engineer_0003",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Data Engineer",
+  "company": "Tran Inc",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "data_warehousing",
+    "orchestration",
+    "sql",
+    "azure",
+    "ml_engineering",
+    "aws",
+    "etl_elt",
+    "data_modeling"
+  ],
+  "required_skill_names": [
+    "Data Warehousing",
+    "Orchestration",
+    "SQL",
+    "Azure",
+    "ML Engineering (Ops)",
+    "AWS",
+    "ETL / ELT",
+    "Data Modeling"
+  ],
+  "preferred_skills": [
+    "scala"
+  ],
+  "preferred_skill_names": [
+    "Scala"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

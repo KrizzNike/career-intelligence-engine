@@ -1,0 +1,17 @@
+Senior Data Engineer
+Hill Ltd | Oscarhaven, French Polynesia
+
+ABOUT THE ROLE
+We are hiring a Senior Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain ML Engineering (Ops), SQL data warehouses
+- Ensure data quality across Orchestration, Data Warehousing pipelines
+- Implement ETL/ELT workflows with ETL / ELT, Data Warehousing
+- Design and operate scalable ML Engineering (Ops), Scala pipelines
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- 5+ years building data pipelines and warehouses
+- Required skills: Azure, AWS, SQL, ETL / ELT, GCP, ML Engineering (Ops), Data Warehousing, Orchestration, Data Modeling, Scala
+- Preferred skills: Python

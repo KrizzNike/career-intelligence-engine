@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_analyst_0009",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Mcclain, Simmons and Meadows",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "domain_acumen",
+    "hypothesis_testing",
+    "etl_basics",
+    "excel",
+    "sql_to_insight",
+    "python",
+    "sql",
+    "descriptive_stats",
+    "data_modeling_basics",
+    "kpi_design",
+    "stakeholder_management"
+  ],
+  "required_skill_names": [
+    "Domain Acumen",
+    "Hypothesis Testing",
+    "ETL Fundamentals",
+    "Microsoft Excel",
+    "SQL-to-Insight Storytelling",
+    "Python",
+    "SQL",
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "Stakeholder Management"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

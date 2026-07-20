@@ -1,0 +1,14 @@
+BI Developer
+Blair PLC | South Christianport, Switzerland
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize SQL, Looker workloads for dashboard performance
+- Design and maintain self-serve BI models using KPI Design, Tableau
+- Build executive dashboards in Looker, Tableau
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Required skills: Power BI, KPI Design, SQL, Python, Looker, Semantic Layer, Tableau, Data Modeling (Basics)

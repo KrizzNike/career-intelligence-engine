@@ -1,0 +1,15 @@
+Analytics Engineer
+Harvey PLC | Rosebury, Oman
+
+ABOUT THE ROLE
+We are hiring a Analytics Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain ML Engineering (Ops), Data Warehousing data warehouses
+- Implement ETL/ELT workflows with Data Warehousing, ML Engineering (Ops)
+- Ensure data quality across Data Modeling, Python pipelines
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Bachelor's degree in CS or related field
+- Required skills: Python, Orchestration, Data Warehousing, Data Modeling, SQL, ML Engineering (Ops), ETL / ELT, GCP

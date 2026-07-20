@@ -1,0 +1,17 @@
+Business Data Analyst
+Short-Garcia | Cynthiamouth, Russian Federation
+
+ABOUT THE ROLE
+We are hiring a Business Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with ETL Fundamentals, Microsoft Excel for stakeholders
+- Partner with business teams to define KPIs and track them
+- Write efficient Descriptive Statistics, Stakeholder Management queries to extract insights
+- Analyze large datasets using Python, SQL-to-Insight Storytelling to answer business questions
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: ETL Fundamentals, KPI Design, Data Modeling (Basics), Microsoft Excel, Descriptive Statistics, Domain Acumen, SQL-to-Insight Storytelling, R, Stakeholder Management, Python
+- Preferred skills: Hypothesis Testing

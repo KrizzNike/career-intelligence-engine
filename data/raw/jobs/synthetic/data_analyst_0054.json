@@ -1,0 +1,37 @@
+{
+  "jd_id": "data_analyst_0054",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Business Data Analyst",
+  "company": "Perez Ltd",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "stakeholder_management",
+    "excel",
+    "domain_acumen",
+    "etl_basics",
+    "hypothesis_testing",
+    "r_language",
+    "sql_to_insight",
+    "kpi_design",
+    "python"
+  ],
+  "required_skill_names": [
+    "Stakeholder Management",
+    "Microsoft Excel",
+    "Domain Acumen",
+    "ETL Fundamentals",
+    "Hypothesis Testing",
+    "R",
+    "SQL-to-Insight Storytelling",
+    "KPI Design",
+    "Python"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

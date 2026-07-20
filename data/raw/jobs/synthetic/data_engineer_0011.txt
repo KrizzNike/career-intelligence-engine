@@ -1,0 +1,15 @@
+Analytics Engineer
+Garner-Thornton | Hughesberg, Lithuania
+
+ABOUT THE ROLE
+We are hiring a Analytics Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with SQL, AWS
+- Ensure data quality across ML Engineering (Ops), AWS pipelines
+- Design and operate scalable Scala, Data Warehousing pipelines
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: AWS, Azure, Scala, Data Warehousing, SQL, ETL / ELT, ML Engineering (Ops), Data Modeling, Python
+- Preferred skills: GCP

@@ -1,0 +1,16 @@
+Data Engineer
+Morgan-French | Loriport, Saint Kitts and Nevis
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and operate scalable SQL, Orchestration pipelines
+- Implement ETL/ELT workflows with Orchestration, ETL / ELT
+- Ensure data quality across ETL / ELT, Orchestration pipelines
+- Build and maintain Azure, Python data warehouses
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- Required skills: Azure, Scala, Orchestration, ETL / ELT, GCP, ML Engineering (Ops), Python, SQL, Data Modeling, Data Warehousing
+- Preferred skills: AWS

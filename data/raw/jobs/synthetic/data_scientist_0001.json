@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_scientist_0001",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Junior Data Scientist",
+  "company": "Knight Group",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "supervised_learning",
+    "model_evaluation",
+    "probability",
+    "experimentation",
+    "feature_engineering",
+    "insight_storytelling",
+    "sql",
+    "python"
+  ],
+  "required_skill_names": [
+    "Supervised Learning",
+    "Model Evaluation",
+    "Probability & Statistics",
+    "Experimentation",
+    "Feature Engineering",
+    "Insight Storytelling",
+    "SQL",
+    "Python"
+  ],
+  "preferred_skills": [
+    "unsupervised_learning"
+  ],
+  "preferred_skill_names": [
+    "Unsupervised Learning"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

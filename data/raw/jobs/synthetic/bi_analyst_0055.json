@@ -1,0 +1,35 @@
+{
+  "jd_id": "bi_analyst_0055",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "BI Developer",
+  "company": "Carlson LLC",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "tableau",
+    "sql",
+    "looker",
+    "data_modeling_basics",
+    "semantic_layer",
+    "kpi_design"
+  ],
+  "required_skill_names": [
+    "Tableau",
+    "SQL",
+    "Looker",
+    "Data Modeling (Basics)",
+    "Semantic Layer",
+    "KPI Design"
+  ],
+  "preferred_skills": [
+    "python"
+  ],
+  "preferred_skill_names": [
+    "Python"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,15 @@
+Analytics Engineer
+Williams, Kramer and Johnson | Jessicaland, United States of America
+
+ABOUT THE ROLE
+We are hiring a Analytics Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and operate scalable GCP, Scala pipelines
+- Implement ETL/ELT workflows with SQL, Orchestration
+- Ensure data quality across Data Warehousing, AWS pipelines
+- Build and maintain Data Warehousing, Azure data warehouses
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: Orchestration, Python, Data Modeling, GCP, SQL, Azure, Data Warehousing, ETL / ELT, Scala, AWS

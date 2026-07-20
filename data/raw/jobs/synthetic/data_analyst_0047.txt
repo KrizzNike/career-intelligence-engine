@@ -1,0 +1,16 @@
+Junior Data Analyst
+Garcia, Farmer and Garrett | Donnaburgh, Dominican Republic
+
+ABOUT THE ROLE
+We are hiring a Junior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using ETL Fundamentals, Python to answer business questions
+- Build dashboards and reports with Hypothesis Testing, ETL Fundamentals for stakeholders
+- Partner with business teams to define KPIs and track them
+- Write efficient SQL, Domain Acumen queries to extract insights
+
+REQUIREMENTS
+- 0+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Microsoft Excel, ETL Fundamentals, Descriptive Statistics, Python, KPI Design, SQL, Hypothesis Testing, SQL-to-Insight Storytelling, Stakeholder Management, Domain Acumen

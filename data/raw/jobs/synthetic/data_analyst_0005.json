@@ -1,0 +1,45 @@
+{
+  "jd_id": "data_analyst_0005",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Junior Data Analyst",
+  "company": "Gibson Ltd",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "sql",
+    "sql_to_insight",
+    "descriptive_stats",
+    "data_modeling_basics",
+    "excel",
+    "kpi_design",
+    "domain_acumen",
+    "r_language",
+    "stakeholder_management",
+    "python",
+    "etl_basics"
+  ],
+  "required_skill_names": [
+    "SQL",
+    "SQL-to-Insight Storytelling",
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "Microsoft Excel",
+    "KPI Design",
+    "Domain Acumen",
+    "R",
+    "Stakeholder Management",
+    "Python",
+    "ETL Fundamentals"
+  ],
+  "preferred_skills": [
+    "hypothesis_testing"
+  ],
+  "preferred_skill_names": [
+    "Hypothesis Testing"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

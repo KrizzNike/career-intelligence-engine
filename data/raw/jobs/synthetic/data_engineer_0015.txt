@@ -1,0 +1,16 @@
+Senior Data Engineer
+Sims-Clay | Brennanton, Niger
+
+ABOUT THE ROLE
+We are hiring a Senior Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain Azure, ETL / ELT data warehouses
+- Ensure data quality across GCP, ETL / ELT pipelines
+- Implement ETL/ELT workflows with AWS, Azure
+
+REQUIREMENTS
+- 5+ years building data pipelines and warehouses
+- Bachelor's degree in CS or related field
+- Required skills: Data Warehousing, AWS, ETL / ELT, ML Engineering (Ops), Orchestration, GCP, Python, Azure, Data Modeling
+- Preferred skills: SQL

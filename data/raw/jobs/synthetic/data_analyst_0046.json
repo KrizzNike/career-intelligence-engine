@@ -1,0 +1,37 @@
+{
+  "jd_id": "data_analyst_0046",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Data Analyst",
+  "company": "James, Kerr and Evans",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "excel",
+    "data_modeling_basics",
+    "kpi_design",
+    "r_language",
+    "hypothesis_testing",
+    "descriptive_stats",
+    "stakeholder_management",
+    "sql",
+    "domain_acumen"
+  ],
+  "required_skill_names": [
+    "Microsoft Excel",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "R",
+    "Hypothesis Testing",
+    "Descriptive Statistics",
+    "Stakeholder Management",
+    "SQL",
+    "Domain Acumen"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

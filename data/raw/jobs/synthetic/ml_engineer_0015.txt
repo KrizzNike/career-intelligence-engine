@@ -1,0 +1,16 @@
+Senior ML Engineer
+Moore, Hopkins and Le | Meganshire, Armenia
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Feature Stores, Supervised Learning model lifecycle
+- Deploy and monitor Supervised Learning, Python models in production
+- Optimize Feature Stores, MLOps serving infrastructure
+- Collaborate with data scientists to ship Docker & Kubernetes, SQL models
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 5+ years deploying ML models to production
+- Required skills: MLOps, SQL, Python, Supervised Learning, AWS, Docker & Kubernetes, Feature Stores

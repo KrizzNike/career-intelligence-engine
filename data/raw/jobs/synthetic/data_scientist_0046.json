@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_scientist_0046",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Applied Scientist",
+  "company": "Barnett, Mills and Ward",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "insight_storytelling",
+    "nlp",
+    "experimentation",
+    "r_language",
+    "sql",
+    "model_evaluation",
+    "python",
+    "unsupervised_learning",
+    "probability",
+    "feature_engineering"
+  ],
+  "required_skill_names": [
+    "Insight Storytelling",
+    "Natural Language Processing",
+    "Experimentation",
+    "R",
+    "SQL",
+    "Model Evaluation",
+    "Python",
+    "Unsupervised Learning",
+    "Probability & Statistics",
+    "Feature Engineering"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

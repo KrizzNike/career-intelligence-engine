@@ -1,0 +1,45 @@
+{
+  "jd_id": "data_analyst_0025",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Junior Data Analyst",
+  "company": "Johnston-Odonnell",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "excel",
+    "etl_basics",
+    "python",
+    "sql",
+    "descriptive_stats",
+    "domain_acumen",
+    "kpi_design",
+    "stakeholder_management",
+    "hypothesis_testing"
+  ],
+  "required_skill_names": [
+    "Microsoft Excel",
+    "ETL Fundamentals",
+    "Python",
+    "SQL",
+    "Descriptive Statistics",
+    "Domain Acumen",
+    "KPI Design",
+    "Stakeholder Management",
+    "Hypothesis Testing"
+  ],
+  "preferred_skills": [
+    "sql_to_insight",
+    "data_modeling_basics",
+    "r_language"
+  ],
+  "preferred_skill_names": [
+    "SQL-to-Insight Storytelling",
+    "Data Modeling (Basics)",
+    "R"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

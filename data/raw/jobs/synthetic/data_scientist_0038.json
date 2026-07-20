@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_scientist_0038",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Junior Data Scientist",
+  "company": "Wilkerson-Arias",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "unsupervised_learning",
+    "insight_storytelling",
+    "nlp",
+    "sql",
+    "model_evaluation",
+    "supervised_learning",
+    "r_language",
+    "feature_engineering",
+    "experimentation",
+    "probability"
+  ],
+  "required_skill_names": [
+    "Unsupervised Learning",
+    "Insight Storytelling",
+    "Natural Language Processing",
+    "SQL",
+    "Model Evaluation",
+    "Supervised Learning",
+    "R",
+    "Feature Engineering",
+    "Experimentation",
+    "Probability & Statistics"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,15 @@
+Data Engineer
+Wagner-Jordan | Port Dianaside, Saint Helena
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Ensure data quality across ML Engineering (Ops), AWS pipelines
+- Build and maintain Azure, Orchestration data warehouses
+- Design and operate scalable SQL, Azure pipelines
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- Required skills: Data Modeling, GCP, Orchestration, Data Warehousing, SQL, ML Engineering (Ops), AWS, Azure
+- Preferred skills: ETL / ELT

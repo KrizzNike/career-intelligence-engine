@@ -1,0 +1,31 @@
+{
+  "jd_id": "ml_engineer_0048",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "job_title": "Machine Learning Engineer",
+  "company": "Woods-Gonzalez",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "feature_stores",
+    "deep_learning",
+    "supervised_learning",
+    "aws",
+    "python",
+    "docker_k8s"
+  ],
+  "required_skill_names": [
+    "Feature Stores",
+    "Deep Learning",
+    "Supervised Learning",
+    "AWS",
+    "Python",
+    "Docker & Kubernetes"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

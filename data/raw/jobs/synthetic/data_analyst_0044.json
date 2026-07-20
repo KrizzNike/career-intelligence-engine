@@ -1,0 +1,45 @@
+{
+  "jd_id": "data_analyst_0044",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Jones-Soto",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "python",
+    "etl_basics",
+    "sql_to_insight",
+    "data_modeling_basics",
+    "descriptive_stats",
+    "domain_acumen",
+    "excel",
+    "hypothesis_testing",
+    "kpi_design",
+    "sql"
+  ],
+  "required_skill_names": [
+    "Python",
+    "ETL Fundamentals",
+    "SQL-to-Insight Storytelling",
+    "Data Modeling (Basics)",
+    "Descriptive Statistics",
+    "Domain Acumen",
+    "Microsoft Excel",
+    "Hypothesis Testing",
+    "KPI Design",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "stakeholder_management",
+    "r_language"
+  ],
+  "preferred_skill_names": [
+    "Stakeholder Management",
+    "R"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_engineer_0040",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Senior Data Engineer",
+  "company": "Wood, Ramos and Sampson",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "data_warehousing",
+    "orchestration",
+    "scala",
+    "sql",
+    "aws",
+    "etl_elt",
+    "gcp",
+    "python",
+    "ml_engineering"
+  ],
+  "required_skill_names": [
+    "Data Warehousing",
+    "Orchestration",
+    "Scala",
+    "SQL",
+    "AWS",
+    "ETL / ELT",
+    "GCP",
+    "Python",
+    "ML Engineering (Ops)"
+  ],
+  "preferred_skills": [
+    "data_modeling",
+    "azure"
+  ],
+  "preferred_skill_names": [
+    "Data Modeling",
+    "Azure"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

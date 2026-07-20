@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_scientist_0011",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Applied Scientist",
+  "company": "Jackson-Meza",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "python",
+    "sql",
+    "feature_engineering",
+    "unsupervised_learning",
+    "model_evaluation",
+    "probability",
+    "r_language",
+    "insight_storytelling",
+    "supervised_learning",
+    "experimentation"
+  ],
+  "required_skill_names": [
+    "Python",
+    "SQL",
+    "Feature Engineering",
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "Probability & Statistics",
+    "R",
+    "Insight Storytelling",
+    "Supervised Learning",
+    "Experimentation"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

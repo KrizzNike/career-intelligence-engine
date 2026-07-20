@@ -1,0 +1,16 @@
+Applied Scientist
+Whitney, Gould and Jones | Coxburgh, Zambia
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Run experiments and A/B tests; report with Unsupervised Learning, Feature Engineering
+- Build predictive models using Feature Engineering, Natural Language Processing
+- Derive insights from large datasets using Unsupervised Learning, Python
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- 2+ years of hands-on data science experience
+- Required skills: Natural Language Processing, Probability & Statistics, Model Evaluation, SQL, Unsupervised Learning, Supervised Learning, Python, Feature Engineering
+- Preferred skills: Experimentation

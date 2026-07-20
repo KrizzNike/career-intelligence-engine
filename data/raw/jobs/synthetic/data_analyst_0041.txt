@@ -1,0 +1,16 @@
+Senior Data Analyst
+Tran Ltd | Lake Miranda, Liechtenstein
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with Data Modeling (Basics), Descriptive Statistics for stakeholders
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using Microsoft Excel, KPI Design to answer business questions
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- 5+ years of experience in data analysis or analytics role
+- Required skills: SQL-to-Insight Storytelling, Hypothesis Testing, KPI Design, Data Modeling (Basics), Descriptive Statistics, Microsoft Excel, ETL Fundamentals, Domain Acumen, SQL
+- Preferred skills: Stakeholder Management

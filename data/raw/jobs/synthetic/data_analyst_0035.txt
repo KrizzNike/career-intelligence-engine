@@ -1,0 +1,16 @@
+Senior Data Analyst
+Brewer-Henry | North Kellyfurt, Puerto Rico
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with ETL Fundamentals, Domain Acumen for stakeholders
+- Write efficient SQL-to-Insight Storytelling, R queries to extract insights
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using SQL, Python to answer business questions
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- 5+ years of experience in data analysis or analytics role
+- Required skills: Microsoft Excel, Domain Acumen, SQL-to-Insight Storytelling, Hypothesis Testing, R, SQL, Python, ETL Fundamentals, KPI Design

@@ -1,0 +1,16 @@
+Senior Data Analyst
+Salas PLC | Taylormouth, Guam
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using Stakeholder Management, ETL Fundamentals to answer business questions
+- Write efficient Python, ETL Fundamentals queries to extract insights
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- 5+ years of experience in data analysis or analytics role
+- Required skills: Descriptive Statistics, R, Hypothesis Testing, KPI Design, SQL-to-Insight Storytelling, Microsoft Excel, Python, ETL Fundamentals, Stakeholder Management, SQL
+- Preferred skills: Domain Acumen

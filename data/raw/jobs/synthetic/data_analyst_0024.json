@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_analyst_0024",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Data Analyst",
+  "company": "Stuart, Higgins and Strickland",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "r_language",
+    "sql_to_insight",
+    "descriptive_stats",
+    "data_modeling_basics",
+    "stakeholder_management",
+    "etl_basics",
+    "hypothesis_testing",
+    "kpi_design",
+    "sql",
+    "domain_acumen"
+  ],
+  "required_skill_names": [
+    "R",
+    "SQL-to-Insight Storytelling",
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "Stakeholder Management",
+    "ETL Fundamentals",
+    "Hypothesis Testing",
+    "KPI Design",
+    "SQL",
+    "Domain Acumen"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

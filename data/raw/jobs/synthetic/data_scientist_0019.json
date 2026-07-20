@@ -1,0 +1,37 @@
+{
+  "jd_id": "data_scientist_0019",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Data Scientist",
+  "company": "Jones-Lin",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "nlp",
+    "insight_storytelling",
+    "feature_engineering",
+    "experimentation",
+    "python",
+    "unsupervised_learning",
+    "model_evaluation",
+    "probability",
+    "supervised_learning"
+  ],
+  "required_skill_names": [
+    "Natural Language Processing",
+    "Insight Storytelling",
+    "Feature Engineering",
+    "Experimentation",
+    "Python",
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "Probability & Statistics",
+    "Supervised Learning"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

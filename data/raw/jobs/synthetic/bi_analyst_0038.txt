@@ -1,0 +1,16 @@
+BI Developer
+Brewer, Bryant and Hickman | North Stephenshire, Bolivia
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Tableau, Semantic Layer
+- Develop semantic layers and governed metrics with Tableau, Power BI
+- Optimize Semantic Layer, Looker workloads for dashboard performance
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Semantic Layer, SQL, Python, Power BI, Looker, KPI Design, Tableau
+- Preferred skills: Data Modeling (Basics)

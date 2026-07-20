@@ -1,0 +1,17 @@
+Senior Data Engineer
+Howard, Sanders and Lopez | Port Madisonland, Panama
+
+ABOUT THE ROLE
+We are hiring a Senior Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain ETL / ELT, Data Warehousing data warehouses
+- Implement ETL/ELT workflows with Azure, Scala
+- Ensure data quality across Python, ETL / ELT pipelines
+- Design and operate scalable GCP, Data Warehousing pipelines
+
+REQUIREMENTS
+- 5+ years building data pipelines and warehouses
+- Bachelor's degree in CS or related field
+- Required skills: GCP, ETL / ELT, Python, Data Warehousing, AWS, Orchestration, Azure, SQL, Scala
+- Preferred skills: ML Engineering (Ops)

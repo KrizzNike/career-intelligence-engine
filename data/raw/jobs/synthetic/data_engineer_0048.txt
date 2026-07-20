@@ -1,0 +1,16 @@
+Senior Data Engineer
+Boyd, Ellis and Maynard | South Melaniechester, Poland
+
+ABOUT THE ROLE
+We are hiring a Senior Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain ML Engineering (Ops), Scala data warehouses
+- Design and operate scalable ML Engineering (Ops), Orchestration pipelines
+- Implement ETL/ELT workflows with ML Engineering (Ops), Orchestration
+- Ensure data quality across AWS, Scala pipelines
+
+REQUIREMENTS
+- 5+ years building data pipelines and warehouses
+- Required skills: Data Warehousing, Scala, SQL, ML Engineering (Ops), Python, AWS, Orchestration, Data Modeling
+- Preferred skills: GCP

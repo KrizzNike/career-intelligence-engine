@@ -1,0 +1,35 @@
+{
+  "jd_id": "ml_engineer_0026",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "job_title": "MLOps Engineer",
+  "company": "Jordan LLC",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "docker_k8s",
+    "mlops",
+    "python",
+    "feature_stores",
+    "supervised_learning",
+    "sql"
+  ],
+  "required_skill_names": [
+    "Docker & Kubernetes",
+    "MLOps",
+    "Python",
+    "Feature Stores",
+    "Supervised Learning",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "deep_learning"
+  ],
+  "preferred_skill_names": [
+    "Deep Learning"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,16 @@
+Business Intelligence Analyst
+Hoover-Savage | North Donna, Iran
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using SQL, Power BI
+- Develop semantic layers and governed metrics with SQL, Looker
+- Optimize KPI Design, Looker workloads for dashboard performance
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- 2+ years building dashboards and BI solutions
+- Required skills: Data Modeling (Basics), KPI Design, Looker, SQL, Python, Power BI
+- Preferred skills: Tableau, Semantic Layer

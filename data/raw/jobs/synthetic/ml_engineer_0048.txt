@@ -1,0 +1,16 @@
+Machine Learning Engineer
+Woods-Gonzalez | Manuelton, United States of America
+
+ABOUT THE ROLE
+We are hiring a Machine Learning Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor Feature Stores, AWS models in production
+- Collaborate with data scientists to ship AWS, Python models
+- Build MLOps pipelines for Supervised Learning, Python model lifecycle
+- Optimize AWS, Supervised Learning serving infrastructure
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 2+ years deploying ML models to production
+- Required skills: Feature Stores, Deep Learning, Supervised Learning, AWS, Python, Docker & Kubernetes

@@ -1,0 +1,16 @@
+Data Scientist
+Whitehead-Hernandez | Davisbury, Svalbard & Jan Mayen Islands
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize R, Insight Storytelling models with the engineering team
+- Build predictive models using Python, R
+- Derive insights from large datasets using R, SQL
+- Run experiments and A/B tests; report with Model Evaluation, Feature Engineering
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Required skills: Insight Storytelling, R, Model Evaluation, Python, Probability & Statistics, Natural Language Processing, Feature Engineering, Unsupervised Learning, SQL
+- Preferred skills: Experimentation, Supervised Learning

@@ -1,0 +1,16 @@
+Junior Data Analyst
+Hall, Baker and Moody | South Danny, Czech Republic
+
+ABOUT THE ROLE
+We are hiring a Junior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Write efficient SQL, Microsoft Excel queries to extract insights
+- Analyze large datasets using Domain Acumen, Stakeholder Management to answer business questions
+- Build dashboards and reports with Microsoft Excel, R for stakeholders
+
+REQUIREMENTS
+- 0+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Python, SQL, Stakeholder Management, Domain Acumen, SQL-to-Insight Storytelling, R, KPI Design, Hypothesis Testing, Microsoft Excel, Data Modeling (Basics), Descriptive Statistics
+- Preferred skills: ETL Fundamentals

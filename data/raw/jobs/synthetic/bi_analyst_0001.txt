@@ -1,0 +1,17 @@
+BI Analyst
+Miller, Henderson and Johnson | East William, Anguilla
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using Python, Power BI
+- Build executive dashboards in KPI Design, Semantic Layer
+- Develop semantic layers and governed metrics with Looker, Power BI
+- Optimize Semantic Layer, Power BI workloads for dashboard performance
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- 2+ years building dashboards and BI solutions
+- Required skills: Power BI, SQL, Tableau, Semantic Layer, Looker, KPI Design, Python
+- Preferred skills: Data Modeling (Basics)

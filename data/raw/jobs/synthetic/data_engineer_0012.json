@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_engineer_0012",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Analytics Engineer",
+  "company": "Martinez PLC",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "python",
+    "scala",
+    "azure",
+    "etl_elt",
+    "gcp",
+    "sql",
+    "aws",
+    "orchestration",
+    "ml_engineering",
+    "data_modeling"
+  ],
+  "required_skill_names": [
+    "Python",
+    "Scala",
+    "Azure",
+    "ETL / ELT",
+    "GCP",
+    "SQL",
+    "AWS",
+    "Orchestration",
+    "ML Engineering (Ops)",
+    "Data Modeling"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,16 @@
+ML Engineer
+Humphrey PLC | Port Tammy, Jersey
+
+ABOUT THE ROLE
+We are hiring a ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor Deep Learning, Supervised Learning models in production
+- Collaborate with data scientists to ship Feature Stores, MLOps models
+- Build MLOps pipelines for Docker & Kubernetes, Supervised Learning model lifecycle
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 2+ years deploying ML models to production
+- Required skills: MLOps, SQL, Deep Learning, Python, Feature Stores, Supervised Learning, Docker & Kubernetes
+- Preferred skills: AWS

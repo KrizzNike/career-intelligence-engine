@@ -1,0 +1,17 @@
+BI Developer
+Evans, Fowler and Lynch | West Kathryn, Mauritius
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Looker, Tableau workloads for dashboard performance
+- Build executive dashboards in Power BI, Data Modeling (Basics)
+- Develop semantic layers and governed metrics with KPI Design, Data Modeling (Basics)
+- Design and maintain self-serve BI models using SQL, Python
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: SQL, KPI Design, Python, Tableau, Looker, Data Modeling (Basics), Power BI
+- Preferred skills: Semantic Layer

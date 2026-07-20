@@ -1,0 +1,16 @@
+Junior Data Scientist
+Li-Thompson | Pollardfort, Norfolk Island
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using Python, Probability & Statistics
+- Run experiments and A/B tests; report with Probability & Statistics, Supervised Learning
+- Productionize Python, Model Evaluation models with the engineering team
+- Derive insights from large datasets using Unsupervised Learning, Natural Language Processing
+
+REQUIREMENTS
+- 0+ years of hands-on data science experience
+- Required skills: Unsupervised Learning, Python, Feature Engineering, Supervised Learning, SQL, R, Natural Language Processing, Probability & Statistics, Model Evaluation, Experimentation
+- Preferred skills: Insight Storytelling

@@ -1,0 +1,17 @@
+Data Scientist
+Jones-Ramos | Laurashire, Azerbaijan
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Run experiments and A/B tests; report with Unsupervised Learning, SQL
+- Derive insights from large datasets using Natural Language Processing, Supervised Learning
+- Build predictive models using Natural Language Processing, Feature Engineering
+- Productionize Unsupervised Learning, Natural Language Processing models with the engineering team
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: Insight Storytelling, Natural Language Processing, SQL, Probability & Statistics, Experimentation, Unsupervised Learning, Model Evaluation, Feature Engineering, Supervised Learning
+- Preferred skills: R

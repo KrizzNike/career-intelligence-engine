@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_engineer_0058",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Data Platform Engineer",
+  "company": "Bell PLC",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "data_modeling",
+    "aws",
+    "etl_elt",
+    "orchestration",
+    "azure",
+    "data_warehousing",
+    "scala",
+    "gcp"
+  ],
+  "required_skill_names": [
+    "Data Modeling",
+    "AWS",
+    "ETL / ELT",
+    "Orchestration",
+    "Azure",
+    "Data Warehousing",
+    "Scala",
+    "GCP"
+  ],
+  "preferred_skills": [
+    "sql",
+    "ml_engineering"
+  ],
+  "preferred_skill_names": [
+    "SQL",
+    "ML Engineering (Ops)"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

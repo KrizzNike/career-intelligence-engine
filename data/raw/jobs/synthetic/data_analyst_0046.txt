@@ -1,0 +1,16 @@
+Data Analyst
+James, Kerr and Evans | Torreston, New Zealand
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using KPI Design, Hypothesis Testing to answer business questions
+- Build dashboards and reports with Data Modeling (Basics), Descriptive Statistics for stakeholders
+- Write efficient Hypothesis Testing, Data Modeling (Basics) queries to extract insights
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Microsoft Excel, Data Modeling (Basics), KPI Design, R, Hypothesis Testing, Descriptive Statistics, Stakeholder Management, SQL, Domain Acumen

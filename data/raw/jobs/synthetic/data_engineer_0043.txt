@@ -1,0 +1,17 @@
+Data Platform Engineer
+Harris, Gallegos and Spencer | Port Molly, Greenland
+
+ABOUT THE ROLE
+We are hiring a Data Platform Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with Python, ML Engineering (Ops)
+- Ensure data quality across Orchestration, AWS pipelines
+- Build and maintain Data Warehousing, AWS data warehouses
+- Design and operate scalable AWS, GCP pipelines
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- 2+ years building data pipelines and warehouses
+- Required skills: ETL / ELT, GCP, Azure, Data Warehousing, Python, ML Engineering (Ops), Orchestration, AWS
+- Preferred skills: Data Modeling, SQL

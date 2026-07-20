@@ -1,0 +1,16 @@
+MLOps Engineer
+Jordan LLC | Kathrynstad, Aruba
+
+ABOUT THE ROLE
+We are hiring a MLOps Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Collaborate with data scientists to ship SQL, Supervised Learning models
+- Deploy and monitor Feature Stores, MLOps models in production
+- Optimize Python, Docker & Kubernetes serving infrastructure
+- Build MLOps pipelines for Python, Docker & Kubernetes model lifecycle
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Docker & Kubernetes, MLOps, Python, Feature Stores, Supervised Learning, SQL
+- Preferred skills: Deep Learning

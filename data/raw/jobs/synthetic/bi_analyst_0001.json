@@ -1,0 +1,37 @@
+{
+  "jd_id": "bi_analyst_0001",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "BI Analyst",
+  "company": "Miller, Henderson and Johnson",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "power_bi",
+    "sql",
+    "tableau",
+    "semantic_layer",
+    "looker",
+    "kpi_design",
+    "python"
+  ],
+  "required_skill_names": [
+    "Power BI",
+    "SQL",
+    "Tableau",
+    "Semantic Layer",
+    "Looker",
+    "KPI Design",
+    "Python"
+  ],
+  "preferred_skills": [
+    "data_modeling_basics"
+  ],
+  "preferred_skill_names": [
+    "Data Modeling (Basics)"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

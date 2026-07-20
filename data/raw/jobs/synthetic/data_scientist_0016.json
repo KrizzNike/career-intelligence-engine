@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_scientist_0016",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Junior Data Scientist",
+  "company": "Wolf, Cole and Glass",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "experimentation",
+    "insight_storytelling",
+    "probability",
+    "python",
+    "unsupervised_learning",
+    "nlp",
+    "supervised_learning",
+    "feature_engineering",
+    "model_evaluation"
+  ],
+  "required_skill_names": [
+    "Experimentation",
+    "Insight Storytelling",
+    "Probability & Statistics",
+    "Python",
+    "Unsupervised Learning",
+    "Natural Language Processing",
+    "Supervised Learning",
+    "Feature Engineering",
+    "Model Evaluation"
+  ],
+  "preferred_skills": [
+    "r_language",
+    "sql"
+  ],
+  "preferred_skill_names": [
+    "R",
+    "SQL"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

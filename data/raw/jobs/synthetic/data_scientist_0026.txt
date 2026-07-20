@@ -1,0 +1,15 @@
+Data Scientist
+Aguilar and Sons | Kylefurt, Bulgaria
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using Natural Language Processing, R
+- Run experiments and A/B tests; report with SQL, R
+- Productionize Natural Language Processing, Feature Engineering models with the engineering team
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Required skills: R, Unsupervised Learning, SQL, Python, Experimentation, Feature Engineering, Model Evaluation, Natural Language Processing
+- Preferred skills: Supervised Learning, Probability & Statistics

@@ -1,0 +1,16 @@
+Senior Data Analyst
+Marshall-Petersen | Marcusbury, Switzerland
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using Hypothesis Testing, KPI Design to answer business questions
+- Write efficient Data Modeling (Basics), Hypothesis Testing queries to extract insights
+- Build dashboards and reports with SQL, SQL-to-Insight Storytelling for stakeholders
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- 5+ years of experience in data analysis or analytics role
+- Required skills: KPI Design, Hypothesis Testing, Data Modeling (Basics), SQL, SQL-to-Insight Storytelling, Stakeholder Management, ETL Fundamentals, Domain Acumen

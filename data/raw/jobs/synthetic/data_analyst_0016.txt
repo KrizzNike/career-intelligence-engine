@@ -1,0 +1,16 @@
+Business Data Analyst
+Hurst, Freeman and Nelson | Johnsonmouth, Paraguay
+
+ABOUT THE ROLE
+We are hiring a Business Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with Descriptive Statistics, Data Modeling (Basics) for stakeholders
+- Analyze large datasets using SQL, KPI Design to answer business questions
+- Write efficient SQL-to-Insight Storytelling, Python queries to extract insights
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Data Modeling (Basics), Domain Acumen, Python, Descriptive Statistics, Microsoft Excel, KPI Design, SQL-to-Insight Storytelling, SQL, ETL Fundamentals, Stakeholder Management, Hypothesis Testing
+- Preferred skills: R

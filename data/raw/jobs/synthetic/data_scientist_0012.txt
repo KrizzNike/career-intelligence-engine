@@ -1,0 +1,15 @@
+Senior Data Scientist
+Richard-Sanchez | Warrenfurt, Trinidad and Tobago
+
+ABOUT THE ROLE
+We are hiring a Senior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Supervised Learning, Experimentation models with the engineering team
+- Run experiments and A/B tests; report with Feature Engineering, Natural Language Processing
+- Build predictive models using SQL, Python
+
+REQUIREMENTS
+- 5+ years of hands-on data science experience
+- Required skills: Unsupervised Learning, Model Evaluation, Natural Language Processing, Feature Engineering, Experimentation, SQL, Python, R, Supervised Learning, Probability & Statistics
+- Preferred skills: Insight Storytelling

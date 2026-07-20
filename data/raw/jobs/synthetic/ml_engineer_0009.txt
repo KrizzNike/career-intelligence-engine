@@ -1,0 +1,15 @@
+MLOps Engineer
+Sanders-Love | Foxchester, Swaziland
+
+ABOUT THE ROLE
+We are hiring a MLOps Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for MLOps, Python model lifecycle
+- Collaborate with data scientists to ship MLOps, Python models
+- Optimize Docker & Kubernetes, MLOps serving infrastructure
+- Deploy and monitor MLOps, Deep Learning models in production
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Deep Learning, Supervised Learning, Python, SQL, MLOps, Feature Stores, Docker & Kubernetes

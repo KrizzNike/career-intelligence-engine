@@ -1,0 +1,15 @@
+Data Analyst
+Snyder, Miller and Williams | Navarroview, Anguilla
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using R, Data Modeling (Basics) to answer business questions
+- Build dashboards and reports with Data Modeling (Basics), Python for stakeholders
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: SQL, KPI Design, Descriptive Statistics, ETL Fundamentals, Data Modeling (Basics), Python, SQL-to-Insight Storytelling, R, Microsoft Excel, Domain Acumen, Stakeholder Management

@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_analyst_0038",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Hall-Griffith",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "sql_to_insight",
+    "domain_acumen",
+    "data_modeling_basics",
+    "r_language",
+    "sql",
+    "excel",
+    "stakeholder_management",
+    "etl_basics",
+    "kpi_design",
+    "python",
+    "hypothesis_testing"
+  ],
+  "required_skill_names": [
+    "SQL-to-Insight Storytelling",
+    "Domain Acumen",
+    "Data Modeling (Basics)",
+    "R",
+    "SQL",
+    "Microsoft Excel",
+    "Stakeholder Management",
+    "ETL Fundamentals",
+    "KPI Design",
+    "Python",
+    "Hypothesis Testing"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

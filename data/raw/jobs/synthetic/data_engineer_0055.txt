@@ -1,0 +1,15 @@
+Data Platform Engineer
+Garner LLC | New Brian, Zimbabwe
+
+ABOUT THE ROLE
+We are hiring a Data Platform Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and operate scalable Python, AWS pipelines
+- Build and maintain Orchestration, SQL data warehouses
+- Implement ETL/ELT workflows with Orchestration, ML Engineering (Ops)
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: ML Engineering (Ops), SQL, GCP, AWS, Orchestration, Python, Data Modeling, Scala
+- Preferred skills: Data Warehousing, Azure, ETL / ELT

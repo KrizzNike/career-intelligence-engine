@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_engineer_0039",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Analytics Engineer",
+  "company": "Pena-Bass",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "azure",
+    "python",
+    "gcp",
+    "data_modeling",
+    "orchestration",
+    "sql",
+    "scala",
+    "aws"
+  ],
+  "required_skill_names": [
+    "Azure",
+    "Python",
+    "GCP",
+    "Data Modeling",
+    "Orchestration",
+    "SQL",
+    "Scala",
+    "AWS"
+  ],
+  "preferred_skills": [
+    "ml_engineering",
+    "etl_elt",
+    "data_warehousing"
+  ],
+  "preferred_skill_names": [
+    "ML Engineering (Ops)",
+    "ETL / ELT",
+    "Data Warehousing"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,16 @@
+Senior ML Engineer
+Wright-Davis | Soniachester, Egypt
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Docker & Kubernetes, Python model lifecycle
+- Deploy and monitor Python, Feature Stores models in production
+- Collaborate with data scientists to ship Docker & Kubernetes, MLOps models
+- Optimize MLOps, Feature Stores serving infrastructure
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: MLOps, Docker & Kubernetes, SQL, Python, Feature Stores, Supervised Learning
+- Preferred skills: AWS

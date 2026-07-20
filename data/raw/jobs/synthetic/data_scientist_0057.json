@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_scientist_0057",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Senior Data Scientist",
+  "company": "Wallace, West and Acosta",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "experimentation",
+    "probability",
+    "python",
+    "model_evaluation",
+    "supervised_learning",
+    "sql",
+    "feature_engineering",
+    "r_language",
+    "nlp"
+  ],
+  "required_skill_names": [
+    "Experimentation",
+    "Probability & Statistics",
+    "Python",
+    "Model Evaluation",
+    "Supervised Learning",
+    "SQL",
+    "Feature Engineering",
+    "R",
+    "Natural Language Processing"
+  ],
+  "preferred_skills": [
+    "insight_storytelling"
+  ],
+  "preferred_skill_names": [
+    "Insight Storytelling"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

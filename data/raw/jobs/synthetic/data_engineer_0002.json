@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_engineer_0002",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Senior Data Engineer",
+  "company": "Dudley PLC",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "scala",
+    "aws",
+    "sql",
+    "data_modeling",
+    "azure",
+    "python",
+    "ml_engineering",
+    "gcp",
+    "etl_elt",
+    "orchestration"
+  ],
+  "required_skill_names": [
+    "Scala",
+    "AWS",
+    "SQL",
+    "Data Modeling",
+    "Azure",
+    "Python",
+    "ML Engineering (Ops)",
+    "GCP",
+    "ETL / ELT",
+    "Orchestration"
+  ],
+  "preferred_skills": [
+    "data_warehousing"
+  ],
+  "preferred_skill_names": [
+    "Data Warehousing"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

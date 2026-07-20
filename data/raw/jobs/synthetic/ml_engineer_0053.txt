@@ -1,0 +1,14 @@
+Senior ML Engineer
+Simon Ltd | Jennifertown, Saint Pierre and Miquelon
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Python, AWS model lifecycle
+- Optimize Deep Learning, Docker & Kubernetes serving infrastructure
+- Deploy and monitor Feature Stores, AWS models in production
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: Feature Stores, SQL, Python, Deep Learning, AWS, Docker & Kubernetes

@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_scientist_0013",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Data Scientist",
+  "company": "Reese-Walker",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "probability",
+    "experimentation",
+    "supervised_learning",
+    "feature_engineering",
+    "sql",
+    "unsupervised_learning",
+    "nlp",
+    "insight_storytelling",
+    "model_evaluation",
+    "r_language"
+  ],
+  "required_skill_names": [
+    "Probability & Statistics",
+    "Experimentation",
+    "Supervised Learning",
+    "Feature Engineering",
+    "SQL",
+    "Unsupervised Learning",
+    "Natural Language Processing",
+    "Insight Storytelling",
+    "Model Evaluation",
+    "R"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

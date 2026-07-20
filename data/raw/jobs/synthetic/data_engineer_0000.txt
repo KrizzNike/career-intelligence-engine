@@ -1,0 +1,16 @@
+Analytics Engineer
+Lopez LLC | Garrettton, Costa Rica
+
+ABOUT THE ROLE
+We are hiring a Analytics Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and operate scalable ETL / ELT, Azure pipelines
+- Implement ETL/ELT workflows with GCP, Scala
+- Build and maintain Scala, Orchestration data warehouses
+- Ensure data quality across GCP, ML Engineering (Ops) pipelines
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: ML Engineering (Ops), Orchestration, Python, ETL / ELT, Scala, Data Warehousing, Azure, GCP
+- Preferred skills: Data Modeling

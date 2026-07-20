@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_engineer_0042",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Senior Data Engineer",
+  "company": "May PLC",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "gcp",
+    "ml_engineering",
+    "etl_elt",
+    "data_warehousing",
+    "azure",
+    "orchestration",
+    "aws",
+    "scala"
+  ],
+  "required_skill_names": [
+    "GCP",
+    "ML Engineering (Ops)",
+    "ETL / ELT",
+    "Data Warehousing",
+    "Azure",
+    "Orchestration",
+    "AWS",
+    "Scala"
+  ],
+  "preferred_skills": [
+    "data_modeling",
+    "python"
+  ],
+  "preferred_skill_names": [
+    "Data Modeling",
+    "Python"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

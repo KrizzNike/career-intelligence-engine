@@ -1,0 +1,15 @@
+Senior Data Analyst
+Lopez, Robinson and Washington | Tinaborough, French Polynesia
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Write efficient Descriptive Statistics, KPI Design queries to extract insights
+- Analyze large datasets using Python, SQL-to-Insight Storytelling to answer business questions
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: Descriptive Statistics, Python, SQL-to-Insight Storytelling, R, Data Modeling (Basics), KPI Design, Domain Acumen, ETL Fundamentals, Stakeholder Management
+- Preferred skills: Hypothesis Testing, Microsoft Excel, SQL

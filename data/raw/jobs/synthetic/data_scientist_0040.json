@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_scientist_0040",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Junior Data Scientist",
+  "company": "Combs Ltd",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "sql",
+    "probability",
+    "supervised_learning",
+    "python",
+    "experimentation",
+    "model_evaluation",
+    "feature_engineering",
+    "nlp",
+    "r_language"
+  ],
+  "required_skill_names": [
+    "SQL",
+    "Probability & Statistics",
+    "Supervised Learning",
+    "Python",
+    "Experimentation",
+    "Model Evaluation",
+    "Feature Engineering",
+    "Natural Language Processing",
+    "R"
+  ],
+  "preferred_skills": [
+    "unsupervised_learning",
+    "insight_storytelling"
+  ],
+  "preferred_skill_names": [
+    "Unsupervised Learning",
+    "Insight Storytelling"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

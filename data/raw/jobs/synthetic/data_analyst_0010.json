@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_analyst_0010",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Junior Data Analyst",
+  "company": "Walton-Larsen",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "kpi_design",
+    "stakeholder_management",
+    "data_modeling_basics",
+    "hypothesis_testing",
+    "r_language",
+    "excel",
+    "sql",
+    "sql_to_insight"
+  ],
+  "required_skill_names": [
+    "KPI Design",
+    "Stakeholder Management",
+    "Data Modeling (Basics)",
+    "Hypothesis Testing",
+    "R",
+    "Microsoft Excel",
+    "SQL",
+    "SQL-to-Insight Storytelling"
+  ],
+  "preferred_skills": [
+    "domain_acumen",
+    "descriptive_stats",
+    "python"
+  ],
+  "preferred_skill_names": [
+    "Domain Acumen",
+    "Descriptive Statistics",
+    "Python"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

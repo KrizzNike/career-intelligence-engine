@@ -1,0 +1,16 @@
+Junior Data Scientist
+Blackwell LLC | Zacharyside, Lebanon
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Supervised Learning, R models with the engineering team
+- Build predictive models using SQL, Feature Engineering
+- Derive insights from large datasets using Probability & Statistics, Model Evaluation
+- Run experiments and A/B tests; report with Insight Storytelling, SQL
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- Required skills: Experimentation, Probability & Statistics, Supervised Learning, SQL, Unsupervised Learning, R, Python, Model Evaluation, Feature Engineering, Insight Storytelling
+- Preferred skills: Natural Language Processing

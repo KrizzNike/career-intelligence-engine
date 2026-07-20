@@ -1,0 +1,16 @@
+Business Intelligence Analyst
+Kelly-Santiago | New Cynthiaside, Saint Lucia
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Semantic Layer, Python workloads for dashboard performance
+- Design and maintain self-serve BI models using Looker, Python
+- Develop semantic layers and governed metrics with Python, Semantic Layer
+- Build executive dashboards in Semantic Layer, Power BI
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Required skills: Power BI, SQL, Looker, Python, Tableau, Semantic Layer
+- Preferred skills: KPI Design, Data Modeling (Basics)

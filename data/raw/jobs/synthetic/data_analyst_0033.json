@@ -1,0 +1,45 @@
+{
+  "jd_id": "data_analyst_0033",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Data Analyst",
+  "company": "Peterson-Beard",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "python",
+    "data_modeling_basics",
+    "stakeholder_management",
+    "descriptive_stats",
+    "sql_to_insight",
+    "sql",
+    "hypothesis_testing",
+    "r_language",
+    "etl_basics",
+    "domain_acumen"
+  ],
+  "required_skill_names": [
+    "Python",
+    "Data Modeling (Basics)",
+    "Stakeholder Management",
+    "Descriptive Statistics",
+    "SQL-to-Insight Storytelling",
+    "SQL",
+    "Hypothesis Testing",
+    "R",
+    "ETL Fundamentals",
+    "Domain Acumen"
+  ],
+  "preferred_skills": [
+    "excel",
+    "kpi_design"
+  ],
+  "preferred_skill_names": [
+    "Microsoft Excel",
+    "KPI Design"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

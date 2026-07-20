@@ -1,0 +1,15 @@
+Senior Data Analyst
+Miller-Wright | Obrienbury, Singapore
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using ETL Fundamentals, SQL-to-Insight Storytelling to answer business questions
+- Write efficient Hypothesis Testing, SQL queries to extract insights
+- Build dashboards and reports with Descriptive Statistics, SQL for stakeholders
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: Stakeholder Management, SQL-to-Insight Storytelling, Microsoft Excel, Descriptive Statistics, KPI Design, ETL Fundamentals, SQL, Data Modeling (Basics), Hypothesis Testing, R
+- Preferred skills: Domain Acumen

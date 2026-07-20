@@ -1,0 +1,15 @@
+Senior BI Analyst
+Gonzalez, Santos and Gardner | South Bridget, Sudan
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Develop semantic layers and governed metrics with Semantic Layer, Tableau
+- Build executive dashboards in Semantic Layer, Data Modeling (Basics)
+- Design and maintain self-serve BI models using Semantic Layer, Power BI
+
+REQUIREMENTS
+- 5+ years building dashboards and BI solutions
+- Required skills: Power BI, KPI Design, Tableau, Looker, Python, Semantic Layer, Data Modeling (Basics)
+- Preferred skills: SQL

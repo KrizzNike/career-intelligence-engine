@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_analyst_0001",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Data Analyst",
+  "company": "Clark-Floyd",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "stakeholder_management",
+    "r_language",
+    "hypothesis_testing",
+    "sql",
+    "descriptive_stats",
+    "sql_to_insight",
+    "data_modeling_basics",
+    "python",
+    "etl_basics",
+    "domain_acumen",
+    "excel"
+  ],
+  "required_skill_names": [
+    "Stakeholder Management",
+    "R",
+    "Hypothesis Testing",
+    "SQL",
+    "Descriptive Statistics",
+    "SQL-to-Insight Storytelling",
+    "Data Modeling (Basics)",
+    "Python",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "Microsoft Excel"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

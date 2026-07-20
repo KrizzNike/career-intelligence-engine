@@ -1,0 +1,17 @@
+Data Engineer
+Hanson-Sanders | Port Markside, Hong Kong
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain Python, Orchestration data warehouses
+- Implement ETL/ELT workflows with ML Engineering (Ops), Python
+- Ensure data quality across ML Engineering (Ops), Azure pipelines
+- Design and operate scalable AWS, Python pipelines
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- 2+ years building data pipelines and warehouses
+- Required skills: GCP, Orchestration, SQL, ML Engineering (Ops), Azure, Python, AWS, Data Modeling, Scala
+- Preferred skills: Data Warehousing, ETL / ELT

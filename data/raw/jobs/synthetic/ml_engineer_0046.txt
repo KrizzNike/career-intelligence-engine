@@ -1,0 +1,15 @@
+Senior ML Engineer
+Perez, Hall and Garcia | Jenniferville, Pitcairn Islands
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Collaborate with data scientists to ship Python, SQL models
+- Build MLOps pipelines for Python, SQL model lifecycle
+- Optimize Python, Deep Learning serving infrastructure
+- Deploy and monitor Deep Learning, Feature Stores models in production
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Supervised Learning, Deep Learning, Docker & Kubernetes, Python, Feature Stores, SQL, AWS

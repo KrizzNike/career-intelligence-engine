@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_analyst_0000",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Byrd-Orr",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "descriptive_stats",
+    "sql_to_insight",
+    "data_modeling_basics",
+    "r_language",
+    "python",
+    "stakeholder_management",
+    "domain_acumen",
+    "etl_basics",
+    "kpi_design"
+  ],
+  "required_skill_names": [
+    "Descriptive Statistics",
+    "SQL-to-Insight Storytelling",
+    "Data Modeling (Basics)",
+    "R",
+    "Python",
+    "Stakeholder Management",
+    "Domain Acumen",
+    "ETL Fundamentals",
+    "KPI Design"
+  ],
+  "preferred_skills": [
+    "sql"
+  ],
+  "preferred_skill_names": [
+    "SQL"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

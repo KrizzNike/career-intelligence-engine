@@ -1,0 +1,15 @@
+Business Data Analyst
+Graham Ltd | Christinaside, Singapore
+
+ABOUT THE ROLE
+We are hiring a Business Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using Stakeholder Management, Descriptive Statistics to answer business questions
+- Write efficient Descriptive Statistics, SQL-to-Insight Storytelling queries to extract insights
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Required skills: Descriptive Statistics, Stakeholder Management, ETL Fundamentals, Hypothesis Testing, Data Modeling (Basics), R, SQL-to-Insight Storytelling, KPI Design, Microsoft Excel
+- Preferred skills: Domain Acumen

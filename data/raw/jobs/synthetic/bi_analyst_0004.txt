@@ -1,0 +1,16 @@
+BI Analyst
+Garcia-James | Melanieview, Sri Lanka
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Power BI, Tableau
+- Develop semantic layers and governed metrics with Semantic Layer, SQL
+- Design and maintain self-serve BI models using Data Modeling (Basics), Semantic Layer
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- 2+ years building dashboards and BI solutions
+- Required skills: Data Modeling (Basics), KPI Design, Python, Semantic Layer, SQL, Tableau, Power BI
+- Preferred skills: Looker

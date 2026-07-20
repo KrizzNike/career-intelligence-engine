@@ -1,0 +1,17 @@
+Senior BI Analyst
+Gentry PLC | Jasonfort, Indonesia
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Python, Semantic Layer
+- Develop semantic layers and governed metrics with KPI Design, Python
+- Optimize Semantic Layer, Python workloads for dashboard performance
+- Design and maintain self-serve BI models using Tableau, Looker
+
+REQUIREMENTS
+- 5+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Tableau, KPI Design, Python, Semantic Layer, Power BI, Looker
+- Preferred skills: Data Modeling (Basics), SQL

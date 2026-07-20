@@ -1,0 +1,35 @@
+{
+  "jd_id": "data_analyst_0030",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Marshall-Petersen",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "kpi_design",
+    "hypothesis_testing",
+    "data_modeling_basics",
+    "sql",
+    "sql_to_insight",
+    "stakeholder_management",
+    "etl_basics",
+    "domain_acumen"
+  ],
+  "required_skill_names": [
+    "KPI Design",
+    "Hypothesis Testing",
+    "Data Modeling (Basics)",
+    "SQL",
+    "SQL-to-Insight Storytelling",
+    "Stakeholder Management",
+    "ETL Fundamentals",
+    "Domain Acumen"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

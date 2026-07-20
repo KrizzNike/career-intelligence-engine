@@ -1,0 +1,15 @@
+Senior Data Engineer
+Pollard and Sons | Hallchester, Aruba
+
+ABOUT THE ROLE
+We are hiring a Senior Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain Data Warehousing, GCP data warehouses
+- Design and operate scalable Data Warehousing, Data Modeling pipelines
+- Implement ETL/ELT workflows with Data Warehousing, Azure
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- Required skills: Data Warehousing, Orchestration, AWS, GCP, Scala, Azure, SQL, Data Modeling, ETL / ELT
+- Preferred skills: ML Engineering (Ops)

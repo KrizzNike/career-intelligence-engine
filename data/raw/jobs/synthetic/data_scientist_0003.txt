@@ -1,0 +1,16 @@
+Applied Scientist
+Carlson, Ware and Moore | Lake Christophermouth, Panama
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Python, SQL models with the engineering team
+- Build predictive models using Probability & Statistics, Model Evaluation
+- Run experiments and A/B tests; report with Python, Model Evaluation
+- Derive insights from large datasets using SQL, Experimentation
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- 2+ years of hands-on data science experience
+- Required skills: SQL, Python, R, Probability & Statistics, Feature Engineering, Experimentation, Insight Storytelling, Model Evaluation, Unsupervised Learning

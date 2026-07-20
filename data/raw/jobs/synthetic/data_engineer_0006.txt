@@ -1,0 +1,16 @@
+Analytics Engineer
+Weeks PLC | Port Chad, Sierra Leone
+
+ABOUT THE ROLE
+We are hiring a Analytics Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with Scala, GCP
+- Design and operate scalable GCP, Scala pipelines
+- Build and maintain Python, Scala data warehouses
+- Ensure data quality across Data Warehousing, ML Engineering (Ops) pipelines
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: Data Warehousing, AWS, ML Engineering (Ops), Python, Scala, Orchestration, SQL, GCP, Data Modeling
+- Preferred skills: ETL / ELT, Azure

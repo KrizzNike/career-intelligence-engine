@@ -1,0 +1,14 @@
+Data Engineer
+Harvey-Allen | East Steven, Equatorial Guinea
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with Python, ETL / ELT
+- Ensure data quality across ETL / ELT, Python pipelines
+- Design and operate scalable Orchestration, AWS pipelines
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: Orchestration, AWS, SQL, ML Engineering (Ops), ETL / ELT, Scala, Azure, Python, Data Modeling

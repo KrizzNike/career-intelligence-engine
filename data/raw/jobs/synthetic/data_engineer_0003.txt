@@ -1,0 +1,17 @@
+Data Engineer
+Tran Inc | Port Robin, Kyrgyz Republic
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with ETL / ELT, Azure
+- Design and operate scalable ETL / ELT, Orchestration pipelines
+- Ensure data quality across ETL / ELT, Azure pipelines
+- Build and maintain ETL / ELT, SQL data warehouses
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Bachelor's degree in CS or related field
+- Required skills: Data Warehousing, Orchestration, SQL, Azure, ML Engineering (Ops), AWS, ETL / ELT, Data Modeling
+- Preferred skills: Scala

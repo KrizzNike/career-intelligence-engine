@@ -1,0 +1,45 @@
+{
+  "jd_id": "data_analyst_0039",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Lopez, Robinson and Washington",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "descriptive_stats",
+    "python",
+    "sql_to_insight",
+    "r_language",
+    "data_modeling_basics",
+    "kpi_design",
+    "domain_acumen",
+    "etl_basics",
+    "stakeholder_management"
+  ],
+  "required_skill_names": [
+    "Descriptive Statistics",
+    "Python",
+    "SQL-to-Insight Storytelling",
+    "R",
+    "Data Modeling (Basics)",
+    "KPI Design",
+    "Domain Acumen",
+    "ETL Fundamentals",
+    "Stakeholder Management"
+  ],
+  "preferred_skills": [
+    "hypothesis_testing",
+    "excel",
+    "sql"
+  ],
+  "preferred_skill_names": [
+    "Hypothesis Testing",
+    "Microsoft Excel",
+    "SQL"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

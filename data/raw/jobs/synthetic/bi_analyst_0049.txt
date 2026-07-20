@@ -1,0 +1,16 @@
+BI Analyst
+Moore, Spears and Hancock | South Angel, Saint Pierre and Miquelon
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Python, Tableau workloads for dashboard performance
+- Build executive dashboards in Python, KPI Design
+- Design and maintain self-serve BI models using Python, Looker
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- 2+ years building dashboards and BI solutions
+- Required skills: Looker, Power BI, Tableau, Python, Data Modeling (Basics), KPI Design
+- Preferred skills: SQL, Semantic Layer

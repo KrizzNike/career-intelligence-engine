@@ -1,0 +1,15 @@
+Senior Data Scientist
+Moreno, Bennett and Chavez | West Larry, Greece
+
+ABOUT THE ROLE
+We are hiring a Senior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Derive insights from large datasets using R, Experimentation
+- Build predictive models using Supervised Learning, Python
+- Run experiments and A/B tests; report with Probability & Statistics, Python
+
+REQUIREMENTS
+- 5+ years of hands-on data science experience
+- Required skills: Natural Language Processing, Unsupervised Learning, Experimentation, Model Evaluation, Supervised Learning, Python, Probability & Statistics, Feature Engineering, R
+- Preferred skills: SQL, Insight Storytelling

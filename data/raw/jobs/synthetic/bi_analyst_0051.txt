@@ -1,0 +1,15 @@
+Senior BI Analyst
+Reyes Inc | Walkermouth, Guernsey
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using Semantic Layer, Tableau
+- Build executive dashboards in Semantic Layer, Tableau
+- Optimize Tableau, SQL workloads for dashboard performance
+- Develop semantic layers and governed metrics with SQL, Tableau
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: KPI Design, Power BI, Data Modeling (Basics), Python, Tableau, SQL, Semantic Layer

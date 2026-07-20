@@ -1,0 +1,16 @@
+Senior Data Engineer
+Dunn-Pennington | Gilmorefort, British Virgin Islands
+
+ABOUT THE ROLE
+We are hiring a Senior Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and operate scalable ETL / ELT, Azure pipelines
+- Implement ETL/ELT workflows with Python, GCP
+- Build and maintain ETL / ELT, Azure data warehouses
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- 5+ years building data pipelines and warehouses
+- Required skills: Orchestration, ETL / ELT, Azure, AWS, GCP, Data Modeling, Python, Data Warehousing
+- Preferred skills: Scala, SQL

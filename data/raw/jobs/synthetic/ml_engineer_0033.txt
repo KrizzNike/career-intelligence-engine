@@ -1,0 +1,16 @@
+Senior ML Engineer
+Richardson Ltd | South Brandytown, Nepal
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor SQL, AWS models in production
+- Collaborate with data scientists to ship AWS, Docker & Kubernetes models
+- Build MLOps pipelines for Deep Learning, AWS model lifecycle
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 5+ years deploying ML models to production
+- Required skills: Deep Learning, SQL, Feature Stores, Docker & Kubernetes, Python, Supervised Learning, AWS
+- Preferred skills: MLOps

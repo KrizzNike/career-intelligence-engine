@@ -1,0 +1,35 @@
+{
+  "jd_id": "data_engineer_0024",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Data Engineer",
+  "company": "Armstrong-Andrews",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "aws",
+    "ml_engineering",
+    "sql",
+    "data_warehousing",
+    "orchestration",
+    "azure",
+    "etl_elt",
+    "python"
+  ],
+  "required_skill_names": [
+    "AWS",
+    "ML Engineering (Ops)",
+    "SQL",
+    "Data Warehousing",
+    "Orchestration",
+    "Azure",
+    "ETL / ELT",
+    "Python"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

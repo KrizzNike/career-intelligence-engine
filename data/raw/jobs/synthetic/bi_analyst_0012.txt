@@ -1,0 +1,17 @@
+BI Analyst
+Ellis, Baker and Wright | Juliechester, Ukraine
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using Data Modeling (Basics), Semantic Layer
+- Optimize SQL, Tableau workloads for dashboard performance
+- Build executive dashboards in Looker, KPI Design
+- Develop semantic layers and governed metrics with SQL, Tableau
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Data Modeling (Basics), Tableau, Looker, Power BI, SQL, Semantic Layer, KPI Design
+- Preferred skills: Python

@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_analyst_0049",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Data Analyst",
+  "company": "Hall Ltd",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "etl_basics",
+    "kpi_design",
+    "stakeholder_management",
+    "excel",
+    "sql",
+    "descriptive_stats",
+    "data_modeling_basics",
+    "r_language",
+    "python",
+    "sql_to_insight"
+  ],
+  "required_skill_names": [
+    "ETL Fundamentals",
+    "KPI Design",
+    "Stakeholder Management",
+    "Microsoft Excel",
+    "SQL",
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "R",
+    "Python",
+    "SQL-to-Insight Storytelling"
+  ],
+  "preferred_skills": [
+    "hypothesis_testing"
+  ],
+  "preferred_skill_names": [
+    "Hypothesis Testing"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

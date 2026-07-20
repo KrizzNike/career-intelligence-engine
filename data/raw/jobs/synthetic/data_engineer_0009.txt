@@ -1,0 +1,17 @@
+Data Platform Engineer
+Reed-Arnold | Gibsonmouth, Trinidad and Tobago
+
+ABOUT THE ROLE
+We are hiring a Data Platform Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with Orchestration, GCP
+- Design and operate scalable Scala, ETL / ELT pipelines
+- Build and maintain Python, Data Modeling data warehouses
+- Ensure data quality across Orchestration, Scala pipelines
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- 2+ years building data pipelines and warehouses
+- Required skills: AWS, ETL / ELT, Data Modeling, Python, Orchestration, Data Warehousing, ML Engineering (Ops), Scala, GCP
+- Preferred skills: SQL, Azure

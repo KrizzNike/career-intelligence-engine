@@ -1,0 +1,17 @@
+Data Analyst
+Gonzales-Harrison | Hollyview, Macao
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using ETL Fundamentals, Descriptive Statistics to answer business questions
+- Write efficient Descriptive Statistics, ETL Fundamentals queries to extract insights
+- Partner with business teams to define KPIs and track them
+- Build dashboards and reports with SQL, Data Modeling (Basics) for stakeholders
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Descriptive Statistics, Microsoft Excel, KPI Design, Python, SQL-to-Insight Storytelling, Data Modeling (Basics), Hypothesis Testing, SQL, ETL Fundamentals
+- Preferred skills: Domain Acumen, Stakeholder Management, R

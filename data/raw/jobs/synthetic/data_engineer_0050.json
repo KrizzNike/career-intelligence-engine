@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_engineer_0050",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Senior Data Engineer",
+  "company": "Hill Ltd",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "azure",
+    "aws",
+    "sql",
+    "etl_elt",
+    "gcp",
+    "ml_engineering",
+    "data_warehousing",
+    "orchestration",
+    "data_modeling",
+    "scala"
+  ],
+  "required_skill_names": [
+    "Azure",
+    "AWS",
+    "SQL",
+    "ETL / ELT",
+    "GCP",
+    "ML Engineering (Ops)",
+    "Data Warehousing",
+    "Orchestration",
+    "Data Modeling",
+    "Scala"
+  ],
+  "preferred_skills": [
+    "python"
+  ],
+  "preferred_skill_names": [
+    "Python"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

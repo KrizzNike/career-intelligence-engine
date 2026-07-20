@@ -1,0 +1,17 @@
+Senior Data Analyst
+Sanchez-Douglas | Port Michelleville, Slovakia (Slovak Republic)
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Write efficient Python, Domain Acumen queries to extract insights
+- Build dashboards and reports with R, Stakeholder Management for stakeholders
+- Analyze large datasets using Hypothesis Testing, Microsoft Excel to answer business questions
+
+REQUIREMENTS
+- 5+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Data Modeling (Basics), Microsoft Excel, KPI Design, Descriptive Statistics, Hypothesis Testing, R, SQL, Python, Stakeholder Management, SQL-to-Insight Storytelling, Domain Acumen
+- Preferred skills: ETL Fundamentals

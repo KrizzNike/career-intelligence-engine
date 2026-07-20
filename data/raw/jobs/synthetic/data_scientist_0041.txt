@@ -1,0 +1,16 @@
+Applied Scientist
+Lowery-Kennedy | Port Janice, Kiribati
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using Python, Unsupervised Learning
+- Productionize SQL, R models with the engineering team
+- Run experiments and A/B tests; report with Supervised Learning, SQL
+- Derive insights from large datasets using Supervised Learning, SQL
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: SQL, Model Evaluation, Natural Language Processing, Insight Storytelling, Experimentation, Supervised Learning, Probability & Statistics, Unsupervised Learning, Python, R

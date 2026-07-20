@@ -1,0 +1,15 @@
+Data Engineer
+Shah LLC | Wilsonbury, Tuvalu
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Ensure data quality across ETL / ELT, Python pipelines
+- Implement ETL/ELT workflows with ML Engineering (Ops), SQL
+- Design and operate scalable Orchestration, AWS pipelines
+- Build and maintain GCP, ML Engineering (Ops) data warehouses
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- Required skills: Data Modeling, Azure, Orchestration, Python, SQL, Scala, ETL / ELT, AWS, GCP, ML Engineering (Ops)

@@ -1,0 +1,15 @@
+Senior BI Analyst
+Mack-Peterson | Ryanmouth, Afghanistan
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Develop semantic layers and governed metrics with Semantic Layer, Python
+- Design and maintain self-serve BI models using KPI Design, SQL
+- Optimize Tableau, KPI Design workloads for dashboard performance
+
+REQUIREMENTS
+- 5+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Data Modeling (Basics), Looker, KPI Design, Python, Semantic Layer, SQL, Tableau

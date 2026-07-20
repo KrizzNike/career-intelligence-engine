@@ -1,0 +1,15 @@
+BI Analyst
+Sanchez, Wheeler and Harvey | Sandovalshire, Mali
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using Power BI, Python
+- Develop semantic layers and governed metrics with Power BI, Looker
+- Optimize Python, Looker workloads for dashboard performance
+- Build executive dashboards in Looker, Python
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Semantic Layer, KPI Design, Tableau, Looker, Power BI, Data Modeling (Basics), SQL, Python

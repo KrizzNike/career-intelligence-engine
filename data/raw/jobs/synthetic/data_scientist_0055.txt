@@ -1,0 +1,15 @@
+Applied Scientist
+Acosta Inc | Morrisonburgh, Mayotte
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Run experiments and A/B tests; report with Python, Supervised Learning
+- Derive insights from large datasets using Natural Language Processing, SQL
+- Productionize Natural Language Processing, Experimentation models with the engineering team
+- Build predictive models using SQL, Supervised Learning
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- Required skills: Python, Model Evaluation, Experimentation, R, Natural Language Processing, Supervised Learning, Unsupervised Learning, SQL, Feature Engineering

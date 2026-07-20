@@ -1,0 +1,16 @@
+Senior BI Analyst
+Liu, Baker and Mason | New Rita, Trinidad and Tobago
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using SQL, Python
+- Develop semantic layers and governed metrics with Power BI, Python
+- Build executive dashboards in SQL, Power BI
+- Optimize KPI Design, Looker workloads for dashboard performance
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Semantic Layer, Looker, Power BI, Python, KPI Design, SQL, Data Modeling (Basics)
+- Preferred skills: Tableau

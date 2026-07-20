@@ -1,0 +1,17 @@
+Senior Data Analyst
+Jones-Soto | East Edwardshire, Yemen
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Write efficient SQL-to-Insight Storytelling, Microsoft Excel queries to extract insights
+- Partner with business teams to define KPIs and track them
+- Build dashboards and reports with SQL-to-Insight Storytelling, SQL for stakeholders
+- Analyze large datasets using Data Modeling (Basics), SQL-to-Insight Storytelling to answer business questions
+
+REQUIREMENTS
+- 5+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Python, ETL Fundamentals, SQL-to-Insight Storytelling, Data Modeling (Basics), Descriptive Statistics, Domain Acumen, Microsoft Excel, Hypothesis Testing, KPI Design, SQL
+- Preferred skills: Stakeholder Management, R

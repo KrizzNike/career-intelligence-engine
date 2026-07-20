@@ -1,0 +1,15 @@
+Data Engineer
+Schmidt PLC | East Gregory, New Zealand
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and operate scalable AWS, Scala pipelines
+- Ensure data quality across SQL, Orchestration pipelines
+- Build and maintain Scala, GCP data warehouses
+- Implement ETL/ELT workflows with Azure, SQL
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: ML Engineering (Ops), ETL / ELT, Python, Scala, SQL, GCP, Azure, Data Modeling, Orchestration, AWS

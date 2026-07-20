@@ -1,0 +1,15 @@
+Analytics Engineer
+Hoffman, Santiago and Jenkins | Parrishton, France
+
+ABOUT THE ROLE
+We are hiring a Analytics Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Ensure data quality across Data Modeling, ML Engineering (Ops) pipelines
+- Implement ETL/ELT workflows with ETL / ELT, Data Modeling
+- Build and maintain Data Modeling, ML Engineering (Ops) data warehouses
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Bachelor's degree in CS or related field
+- Required skills: AWS, Azure, ETL / ELT, ML Engineering (Ops), Scala, Orchestration, Data Modeling, GCP, Data Warehousing

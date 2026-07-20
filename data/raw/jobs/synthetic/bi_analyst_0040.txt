@@ -1,0 +1,14 @@
+BI Developer
+Suarez LLC | Ericside, Romania
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Data Modeling (Basics), SQL
+- Design and maintain self-serve BI models using Data Modeling (Basics), Tableau
+- Develop semantic layers and governed metrics with Looker, SQL
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Required skills: Power BI, Looker, Python, SQL, Data Modeling (Basics), Tableau, Semantic Layer

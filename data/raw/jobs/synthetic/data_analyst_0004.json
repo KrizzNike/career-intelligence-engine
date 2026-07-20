@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_analyst_0004",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Hernandez Inc",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "stakeholder_management",
+    "hypothesis_testing",
+    "python",
+    "domain_acumen",
+    "sql_to_insight",
+    "excel",
+    "descriptive_stats",
+    "sql",
+    "kpi_design",
+    "r_language"
+  ],
+  "required_skill_names": [
+    "Stakeholder Management",
+    "Hypothesis Testing",
+    "Python",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "Microsoft Excel",
+    "Descriptive Statistics",
+    "SQL",
+    "KPI Design",
+    "R"
+  ],
+  "preferred_skills": [
+    "data_modeling_basics"
+  ],
+  "preferred_skill_names": [
+    "Data Modeling (Basics)"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

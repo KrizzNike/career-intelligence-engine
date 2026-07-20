@@ -1,0 +1,16 @@
+Junior Data Analyst
+Sheppard LLC | Wilsonland, Iran
+
+ABOUT THE ROLE
+We are hiring a Junior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Write efficient Descriptive Statistics, Microsoft Excel queries to extract insights
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using Microsoft Excel, SQL-to-Insight Storytelling to answer business questions
+- Build dashboards and reports with Stakeholder Management, KPI Design for stakeholders
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- 0+ years of experience in data analysis or analytics role
+- Required skills: Stakeholder Management, SQL, ETL Fundamentals, Microsoft Excel, SQL-to-Insight Storytelling, R, Python, KPI Design, Descriptive Statistics

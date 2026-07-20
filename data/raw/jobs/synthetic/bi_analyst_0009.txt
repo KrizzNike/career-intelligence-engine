@@ -1,0 +1,17 @@
+Senior BI Analyst
+Martin Group | Veronicaside, Cyprus
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in KPI Design, Data Modeling (Basics)
+- Design and maintain self-serve BI models using KPI Design, Python
+- Optimize SQL, Python workloads for dashboard performance
+- Develop semantic layers and governed metrics with Tableau, Python
+
+REQUIREMENTS
+- 5+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: KPI Design, SQL, Power BI, Tableau, Data Modeling (Basics), Python
+- Preferred skills: Semantic Layer

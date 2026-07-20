@@ -1,0 +1,16 @@
+Machine Learning Engineer
+Bush-Vaughn | Stewartstad, Monaco
+
+ABOUT THE ROLE
+We are hiring a Machine Learning Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Supervised Learning, SQL serving infrastructure
+- Deploy and monitor SQL, MLOps models in production
+- Collaborate with data scientists to ship AWS, Supervised Learning models
+- Build MLOps pipelines for Deep Learning, SQL model lifecycle
+
+REQUIREMENTS
+- 2+ years deploying ML models to production
+- Required skills: MLOps, AWS, Deep Learning, Supervised Learning, Feature Stores, Docker & Kubernetes, SQL
+- Preferred skills: Python

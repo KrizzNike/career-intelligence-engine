@@ -1,0 +1,16 @@
+ML Engineer
+Douglas-Burgess | East Maria, Faroe Islands
+
+ABOUT THE ROLE
+We are hiring a ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Deep Learning, Supervised Learning serving infrastructure
+- Deploy and monitor MLOps, AWS models in production
+- Build MLOps pipelines for Deep Learning, AWS model lifecycle
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 2+ years deploying ML models to production
+- Required skills: AWS, Python, Feature Stores, Supervised Learning, MLOps, Deep Learning
+- Preferred skills: SQL, Docker & Kubernetes

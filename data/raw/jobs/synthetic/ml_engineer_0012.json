@@ -1,0 +1,37 @@
+{
+  "jd_id": "ml_engineer_0012",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "job_title": "Senior ML Engineer",
+  "company": "Bartlett, Brown and Martinez",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "aws",
+    "python",
+    "mlops",
+    "deep_learning",
+    "supervised_learning",
+    "sql"
+  ],
+  "required_skill_names": [
+    "AWS",
+    "Python",
+    "MLOps",
+    "Deep Learning",
+    "Supervised Learning",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "feature_stores",
+    "docker_k8s"
+  ],
+  "preferred_skill_names": [
+    "Feature Stores",
+    "Docker & Kubernetes"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

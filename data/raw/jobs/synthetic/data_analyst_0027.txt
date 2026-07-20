@@ -1,0 +1,14 @@
+Data Analyst
+Patton, Reed and Patterson | Caseymouth, American Samoa
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Partner with business teams to define KPIs and track them
+- Analyze large datasets using Hypothesis Testing, Descriptive Statistics to answer business questions
+- Build dashboards and reports with Data Modeling (Basics), Stakeholder Management for stakeholders
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Required skills: ETL Fundamentals, Data Modeling (Basics), Python, Hypothesis Testing, SQL-to-Insight Storytelling, SQL, Microsoft Excel, Stakeholder Management, Descriptive Statistics

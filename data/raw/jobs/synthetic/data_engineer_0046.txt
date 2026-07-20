@@ -1,0 +1,16 @@
+Data Platform Engineer
+Smith-Baker | Lake Robert, Brazil
+
+ABOUT THE ROLE
+We are hiring a Data Platform Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with AWS, ETL / ELT
+- Design and operate scalable AWS, ETL / ELT pipelines
+- Build and maintain AWS, Python data warehouses
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Bachelor's degree in CS or related field
+- Required skills: Azure, ETL / ELT, Data Warehousing, ML Engineering (Ops), Python, Data Modeling, Scala, SQL, AWS
+- Preferred skills: Orchestration, GCP

@@ -1,0 +1,15 @@
+Senior Data Scientist
+Duran LLC | Davidfort, San Marino
+
+ABOUT THE ROLE
+We are hiring a Senior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Derive insights from large datasets using Probability & Statistics, Natural Language Processing
+- Run experiments and A/B tests; report with Experimentation, Natural Language Processing
+- Build predictive models using Unsupervised Learning, Feature Engineering
+- Productionize Natural Language Processing, Model Evaluation models with the engineering team
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- Required skills: Natural Language Processing, R, Insight Storytelling, SQL, Unsupervised Learning, Model Evaluation, Experimentation, Python, Feature Engineering, Probability & Statistics

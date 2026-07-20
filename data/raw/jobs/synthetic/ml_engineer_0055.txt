@@ -1,0 +1,15 @@
+Senior ML Engineer
+Wilcox-Robertson | South Elizabethburgh, Burundi
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize MLOps, SQL serving infrastructure
+- Collaborate with data scientists to ship Deep Learning, Feature Stores models
+- Build MLOps pipelines for MLOps, Python model lifecycle
+- Deploy and monitor AWS, Deep Learning models in production
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: Supervised Learning, MLOps, Deep Learning, Python, AWS, SQL, Feature Stores

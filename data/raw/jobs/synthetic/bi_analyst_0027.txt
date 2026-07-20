@@ -1,0 +1,15 @@
+Business Intelligence Analyst
+Gomez-Jenkins | Lake Deniseville, Bahamas
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Semantic Layer, Python workloads for dashboard performance
+- Develop semantic layers and governed metrics with Python, Data Modeling (Basics)
+- Design and maintain self-serve BI models using Data Modeling (Basics), SQL
+- Build executive dashboards in Looker, Python
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Data Modeling (Basics), Looker, SQL, Python, KPI Design, Semantic Layer

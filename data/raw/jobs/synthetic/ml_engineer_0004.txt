@@ -1,0 +1,14 @@
+Senior ML Engineer
+Gonzalez-Taylor | South Geraldmouth, Benin
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor Feature Stores, Deep Learning models in production
+- Collaborate with data scientists to ship Deep Learning, AWS models
+- Build MLOps pipelines for Feature Stores, MLOps model lifecycle
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: SQL, AWS, Deep Learning, Docker & Kubernetes, Feature Stores, MLOps

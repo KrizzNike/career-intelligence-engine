@@ -1,0 +1,16 @@
+Applied Scientist
+Hughes Inc | Jeffreymouth, Venezuela
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using Insight Storytelling, Feature Engineering
+- Derive insights from large datasets using Model Evaluation, SQL
+- Run experiments and A/B tests; report with Probability & Statistics, Insight Storytelling
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- 2+ years of hands-on data science experience
+- Required skills: Probability & Statistics, Feature Engineering, Supervised Learning, SQL, Insight Storytelling, Model Evaluation, R, Python
+- Preferred skills: Unsupervised Learning, Experimentation

@@ -1,0 +1,35 @@
+{
+  "jd_id": "bi_analyst_0054",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "BI Analyst",
+  "company": "Zavala, Herrera and Crosby",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "power_bi",
+    "python",
+    "tableau",
+    "looker",
+    "kpi_design",
+    "sql"
+  ],
+  "required_skill_names": [
+    "Power BI",
+    "Python",
+    "Tableau",
+    "Looker",
+    "KPI Design",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "semantic_layer"
+  ],
+  "preferred_skill_names": [
+    "Semantic Layer"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

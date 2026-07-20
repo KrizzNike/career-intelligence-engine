@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_scientist_0007",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Senior Data Scientist",
+  "company": "Duran LLC",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "nlp",
+    "r_language",
+    "insight_storytelling",
+    "sql",
+    "unsupervised_learning",
+    "model_evaluation",
+    "experimentation",
+    "python",
+    "feature_engineering",
+    "probability"
+  ],
+  "required_skill_names": [
+    "Natural Language Processing",
+    "R",
+    "Insight Storytelling",
+    "SQL",
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "Experimentation",
+    "Python",
+    "Feature Engineering",
+    "Probability & Statistics"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,15 @@
+Junior Data Scientist
+Wolf, Cole and Glass | Michellemouth, Canada
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Unsupervised Learning, Model Evaluation models with the engineering team
+- Run experiments and A/B tests; report with Feature Engineering, Probability & Statistics
+- Derive insights from large datasets using Supervised Learning, Unsupervised Learning
+
+REQUIREMENTS
+- 0+ years of hands-on data science experience
+- Required skills: Experimentation, Insight Storytelling, Probability & Statistics, Python, Unsupervised Learning, Natural Language Processing, Supervised Learning, Feature Engineering, Model Evaluation
+- Preferred skills: R, SQL

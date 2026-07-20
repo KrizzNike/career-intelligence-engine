@@ -1,0 +1,15 @@
+Business Data Analyst
+Robinson-Brock | Williamsbury, United States Virgin Islands
+
+ABOUT THE ROLE
+We are hiring a Business Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Write efficient Python, R queries to extract insights
+- Partner with business teams to define KPIs and track them
+- Build dashboards and reports with SQL, Stakeholder Management for stakeholders
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Required skills: R, KPI Design, Microsoft Excel, Data Modeling (Basics), Python, SQL, Domain Acumen, SQL-to-Insight Storytelling, Stakeholder Management, Hypothesis Testing
+- Preferred skills: Descriptive Statistics, ETL Fundamentals

@@ -1,0 +1,45 @@
+{
+  "jd_id": "data_analyst_0050",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Junior Data Analyst",
+  "company": "Hall, Baker and Moody",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "python",
+    "sql",
+    "stakeholder_management",
+    "domain_acumen",
+    "sql_to_insight",
+    "r_language",
+    "kpi_design",
+    "hypothesis_testing",
+    "excel",
+    "data_modeling_basics",
+    "descriptive_stats"
+  ],
+  "required_skill_names": [
+    "Python",
+    "SQL",
+    "Stakeholder Management",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "R",
+    "KPI Design",
+    "Hypothesis Testing",
+    "Microsoft Excel",
+    "Data Modeling (Basics)",
+    "Descriptive Statistics"
+  ],
+  "preferred_skills": [
+    "etl_basics"
+  ],
+  "preferred_skill_names": [
+    "ETL Fundamentals"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,16 @@
+Data Analyst
+Dixon Ltd | Lake Christopher, Malaysia
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Write efficient SQL, R queries to extract insights
+- Analyze large datasets using Python, SQL to answer business questions
+- Build dashboards and reports with Data Modeling (Basics), R for stakeholders
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Hypothesis Testing, Data Modeling (Basics), KPI Design, Python, Stakeholder Management, R, SQL, Domain Acumen, Descriptive Statistics

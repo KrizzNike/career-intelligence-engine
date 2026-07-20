@@ -1,0 +1,16 @@
+Data Platform Engineer
+Hodges Ltd | South Garrettport, United Kingdom
+
+ABOUT THE ROLE
+We are hiring a Data Platform Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Ensure data quality across Azure, GCP pipelines
+- Implement ETL/ELT workflows with Data Warehousing, Data Modeling
+- Design and operate scalable ML Engineering (Ops), SQL pipelines
+- Build and maintain Data Warehousing, Scala data warehouses
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: SQL, Python, Data Modeling, Data Warehousing, Orchestration, GCP, ML Engineering (Ops), Azure, ETL / ELT, Scala
+- Preferred skills: AWS

@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_analyst_0041",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Tran Ltd",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "sql_to_insight",
+    "hypothesis_testing",
+    "kpi_design",
+    "data_modeling_basics",
+    "descriptive_stats",
+    "excel",
+    "etl_basics",
+    "domain_acumen",
+    "sql"
+  ],
+  "required_skill_names": [
+    "SQL-to-Insight Storytelling",
+    "Hypothesis Testing",
+    "KPI Design",
+    "Data Modeling (Basics)",
+    "Descriptive Statistics",
+    "Microsoft Excel",
+    "ETL Fundamentals",
+    "Domain Acumen",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "stakeholder_management"
+  ],
+  "preferred_skill_names": [
+    "Stakeholder Management"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

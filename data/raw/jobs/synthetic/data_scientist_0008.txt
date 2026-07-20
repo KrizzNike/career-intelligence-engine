@@ -1,0 +1,17 @@
+Data Scientist
+Thompson-James | New Angelica, Paraguay
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using Insight Storytelling, R
+- Run experiments and A/B tests; report with Model Evaluation, Natural Language Processing
+- Derive insights from large datasets using Python, Natural Language Processing
+- Productionize Probability & Statistics, Feature Engineering models with the engineering team
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- 2+ years of hands-on data science experience
+- Required skills: Supervised Learning, R, Python, Feature Engineering, Insight Storytelling, Unsupervised Learning, Model Evaluation, Probability & Statistics, Natural Language Processing
+- Preferred skills: SQL

@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_scientist_0042",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Applied Scientist",
+  "company": "Smith, Miller and Scott",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "insight_storytelling",
+    "probability",
+    "nlp",
+    "r_language",
+    "model_evaluation",
+    "unsupervised_learning",
+    "sql",
+    "python",
+    "supervised_learning",
+    "experimentation"
+  ],
+  "required_skill_names": [
+    "Insight Storytelling",
+    "Probability & Statistics",
+    "Natural Language Processing",
+    "R",
+    "Model Evaluation",
+    "Unsupervised Learning",
+    "SQL",
+    "Python",
+    "Supervised Learning",
+    "Experimentation"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

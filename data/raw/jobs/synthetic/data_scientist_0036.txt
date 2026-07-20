@@ -1,0 +1,16 @@
+Junior Data Scientist
+Spencer-Garcia | West Christopherburgh, Faroe Islands
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize R, Experimentation models with the engineering team
+- Run experiments and A/B tests; report with Experimentation, Supervised Learning
+- Derive insights from large datasets using Experimentation, SQL
+
+REQUIREMENTS
+- 0+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: Probability & Statistics, Supervised Learning, Feature Engineering, Insight Storytelling, Experimentation, R, SQL, Natural Language Processing, Python
+- Preferred skills: Model Evaluation

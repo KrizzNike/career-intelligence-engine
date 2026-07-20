@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_scientist_0012",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Senior Data Scientist",
+  "company": "Richard-Sanchez",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "unsupervised_learning",
+    "model_evaluation",
+    "nlp",
+    "feature_engineering",
+    "experimentation",
+    "sql",
+    "python",
+    "r_language",
+    "supervised_learning",
+    "probability"
+  ],
+  "required_skill_names": [
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "Natural Language Processing",
+    "Feature Engineering",
+    "Experimentation",
+    "SQL",
+    "Python",
+    "R",
+    "Supervised Learning",
+    "Probability & Statistics"
+  ],
+  "preferred_skills": [
+    "insight_storytelling"
+  ],
+  "preferred_skill_names": [
+    "Insight Storytelling"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

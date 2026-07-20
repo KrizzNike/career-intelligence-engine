@@ -1,0 +1,14 @@
+Data Scientist
+Jones-Lin | New Brookefurt, Kyrgyz Republic
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using Natural Language Processing, Feature Engineering
+- Productionize Natural Language Processing, Python models with the engineering team
+- Run experiments and A/B tests; report with Unsupervised Learning, Insight Storytelling
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Required skills: Natural Language Processing, Insight Storytelling, Feature Engineering, Experimentation, Python, Unsupervised Learning, Model Evaluation, Probability & Statistics, Supervised Learning

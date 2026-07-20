@@ -1,0 +1,16 @@
+BI Developer
+Allen PLC | North Jessicaland, Senegal
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Data Modeling (Basics), Power BI
+- Develop semantic layers and governed metrics with Semantic Layer, KPI Design
+- Optimize Data Modeling (Basics), SQL workloads for dashboard performance
+- Design and maintain self-serve BI models using Tableau, KPI Design
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Python, Power BI, Data Modeling (Basics), Tableau, SQL, KPI Design, Semantic Layer
+- Preferred skills: Looker

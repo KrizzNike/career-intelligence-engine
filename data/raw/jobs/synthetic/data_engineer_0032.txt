@@ -1,0 +1,15 @@
+Data Platform Engineer
+Webster and Sons | Coffeyside, Haiti
+
+ABOUT THE ROLE
+We are hiring a Data Platform Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain AWS, Data Warehousing data warehouses
+- Design and operate scalable Data Modeling, GCP pipelines
+- Ensure data quality across Data Warehousing, Azure pipelines
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Bachelor's degree in CS or related field
+- Required skills: Data Warehousing, Data Modeling, Azure, ETL / ELT, SQL, AWS, ML Engineering (Ops), Python, GCP

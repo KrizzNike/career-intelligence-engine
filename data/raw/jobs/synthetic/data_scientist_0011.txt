@@ -1,0 +1,14 @@
+Applied Scientist
+Jackson-Meza | Collierstad, Benin
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Feature Engineering, Unsupervised Learning models with the engineering team
+- Run experiments and A/B tests; report with Supervised Learning, Insight Storytelling
+- Build predictive models using Supervised Learning, Python
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Required skills: Python, SQL, Feature Engineering, Unsupervised Learning, Model Evaluation, Probability & Statistics, R, Insight Storytelling, Supervised Learning, Experimentation

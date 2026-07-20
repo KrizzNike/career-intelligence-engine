@@ -1,0 +1,16 @@
+Senior Data Analyst
+Rivera-Owens | East Marissafurt, United Kingdom
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with Stakeholder Management, R for stakeholders
+- Partner with business teams to define KPIs and track them
+- Write efficient Microsoft Excel, Descriptive Statistics queries to extract insights
+
+REQUIREMENTS
+- 5+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Python, Microsoft Excel, Hypothesis Testing, ETL Fundamentals, R, SQL, Descriptive Statistics, Stakeholder Management, KPI Design
+- Preferred skills: Domain Acumen

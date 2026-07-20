@@ -1,0 +1,15 @@
+Data Scientist
+Henderson, Parsons and Young | North Johnmouth, Bahrain
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Run experiments and A/B tests; report with Insight Storytelling, Model Evaluation
+- Build predictive models using Python, Natural Language Processing
+- Productionize Probability & Statistics, Natural Language Processing models with the engineering team
+- Derive insights from large datasets using Experimentation, Unsupervised Learning
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- Required skills: SQL, Insight Storytelling, Natural Language Processing, Supervised Learning, Python, Experimentation, Probability & Statistics, R, Unsupervised Learning, Model Evaluation

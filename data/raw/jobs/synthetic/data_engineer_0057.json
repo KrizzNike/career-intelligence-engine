@@ -1,0 +1,37 @@
+{
+  "jd_id": "data_engineer_0057",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Senior Data Engineer",
+  "company": "Edwards, Garcia and Romero",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "azure",
+    "gcp",
+    "python",
+    "ml_engineering",
+    "sql",
+    "scala",
+    "aws",
+    "data_modeling",
+    "data_warehousing"
+  ],
+  "required_skill_names": [
+    "Azure",
+    "GCP",
+    "Python",
+    "ML Engineering (Ops)",
+    "SQL",
+    "Scala",
+    "AWS",
+    "Data Modeling",
+    "Data Warehousing"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

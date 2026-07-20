@@ -1,2 +1,3 @@
 batch,source,license,count,generated_at,path
 synthetic_resumes_v1,synthetic_generator,CC0-1.0 (synthetic; no real PII),600,2026-07-17T17:03:24Z,data\raw\resumes\synthetic
+synthetic_jds_v1,synthetic_jd_generator,CC0-1.0 (synthetic; no real PII),300,2026-07-20T16:51:36Z,data\raw\jobs\synthetic

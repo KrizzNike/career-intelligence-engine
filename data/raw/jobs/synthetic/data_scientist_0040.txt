@@ -1,0 +1,16 @@
+Junior Data Scientist
+Combs Ltd | Laceyberg, Argentina
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Probability & Statistics, Natural Language Processing models with the engineering team
+- Derive insights from large datasets using Experimentation, Python
+- Run experiments and A/B tests; report with Supervised Learning, SQL
+
+REQUIREMENTS
+- 0+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: SQL, Probability & Statistics, Supervised Learning, Python, Experimentation, Model Evaluation, Feature Engineering, Natural Language Processing, R
+- Preferred skills: Unsupervised Learning, Insight Storytelling

@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_scientist_0018",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Data Scientist",
+  "company": "Romero-Collins",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "python",
+    "r_language",
+    "model_evaluation",
+    "experimentation",
+    "sql",
+    "feature_engineering",
+    "probability",
+    "insight_storytelling",
+    "unsupervised_learning"
+  ],
+  "required_skill_names": [
+    "Python",
+    "R",
+    "Model Evaluation",
+    "Experimentation",
+    "SQL",
+    "Feature Engineering",
+    "Probability & Statistics",
+    "Insight Storytelling",
+    "Unsupervised Learning"
+  ],
+  "preferred_skills": [
+    "supervised_learning",
+    "nlp"
+  ],
+  "preferred_skill_names": [
+    "Supervised Learning",
+    "Natural Language Processing"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

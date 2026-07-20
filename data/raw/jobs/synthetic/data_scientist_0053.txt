@@ -1,0 +1,16 @@
+Senior Data Scientist
+Rivera, Martinez and Richardson | Paulfurt, Guadeloupe
+
+ABOUT THE ROLE
+We are hiring a Senior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using Feature Engineering, Model Evaluation
+- Derive insights from large datasets using Natural Language Processing, Model Evaluation
+- Productionize Model Evaluation, SQL models with the engineering team
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- 5+ years of hands-on data science experience
+- Required skills: Supervised Learning, Probability & Statistics, Python, Unsupervised Learning, Insight Storytelling, Model Evaluation, Natural Language Processing, SQL, Feature Engineering
+- Preferred skills: R

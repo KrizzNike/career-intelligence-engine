@@ -1,0 +1,15 @@
+Analytics Engineer
+Henry Group | North Marcberg, Bahrain
+
+ABOUT THE ROLE
+We are hiring a Analytics Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain Data Warehousing, Data Modeling data warehouses
+- Implement ETL/ELT workflows with Python, Data Warehousing
+- Design and operate scalable ML Engineering (Ops), Data Warehousing pipelines
+- Ensure data quality across Orchestration, Data Modeling pipelines
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- Required skills: ML Engineering (Ops), AWS, ETL / ELT, Azure, Scala, Orchestration, Data Modeling, Python, Data Warehousing, SQL

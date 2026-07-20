@@ -1,0 +1,15 @@
+Data Scientist
+Reese-Walker | North William, Brazil
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Run experiments and A/B tests; report with Model Evaluation, Supervised Learning
+- Build predictive models using Natural Language Processing, Supervised Learning
+- Derive insights from large datasets using R, Supervised Learning
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: Probability & Statistics, Experimentation, Supervised Learning, Feature Engineering, SQL, Unsupervised Learning, Natural Language Processing, Insight Storytelling, Model Evaluation, R

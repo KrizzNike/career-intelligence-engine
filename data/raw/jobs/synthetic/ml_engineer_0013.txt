@@ -1,0 +1,15 @@
+Machine Learning Engineer
+Perez, Meza and Stone | Meghanview, Congo
+
+ABOUT THE ROLE
+We are hiring a Machine Learning Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Collaborate with data scientists to ship AWS, Python models
+- Optimize Python, SQL serving infrastructure
+- Build MLOps pipelines for MLOps, SQL model lifecycle
+- Deploy and monitor Supervised Learning, Deep Learning models in production
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Deep Learning, MLOps, Python, SQL, AWS, Supervised Learning, Feature Stores

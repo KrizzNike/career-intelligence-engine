@@ -1,0 +1,16 @@
+BI Analyst
+Zavala, Herrera and Crosby | West Gregoryview, Argentina
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize KPI Design, Python workloads for dashboard performance
+- Design and maintain self-serve BI models using KPI Design, SQL
+- Develop semantic layers and governed metrics with SQL, Tableau
+- Build executive dashboards in Power BI, Looker
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Power BI, Python, Tableau, Looker, KPI Design, SQL
+- Preferred skills: Semantic Layer

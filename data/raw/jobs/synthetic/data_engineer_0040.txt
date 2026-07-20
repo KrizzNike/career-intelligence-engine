@@ -1,0 +1,15 @@
+Senior Data Engineer
+Wood, Ramos and Sampson | Corystad, Mayotte
+
+ABOUT THE ROLE
+We are hiring a Senior Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build and maintain Scala, Data Warehousing data warehouses
+- Implement ETL/ELT workflows with Scala, Data Warehousing
+- Design and operate scalable Scala, AWS pipelines
+
+REQUIREMENTS
+- Bachelor's degree in CS or related field
+- Required skills: Data Warehousing, Orchestration, Scala, SQL, AWS, ETL / ELT, GCP, Python, ML Engineering (Ops)
+- Preferred skills: Data Modeling, Azure

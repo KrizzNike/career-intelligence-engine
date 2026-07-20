@@ -1,0 +1,16 @@
+BI Developer
+Donovan-Harris | Johnfurt, Bulgaria
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Power BI, Tableau workloads for dashboard performance
+- Develop semantic layers and governed metrics with Semantic Layer, Tableau
+- Build executive dashboards in Python, Tableau
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Looker, SQL, Power BI, Python, Semantic Layer, Tableau
+- Preferred skills: KPI Design

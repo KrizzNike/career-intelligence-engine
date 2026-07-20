@@ -1,0 +1,16 @@
+Senior BI Analyst
+Patton-Jenkins | West Erik, Reunion
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using Data Modeling (Basics), KPI Design
+- Develop semantic layers and governed metrics with Semantic Layer, Python
+- Build executive dashboards in Looker, Data Modeling (Basics)
+
+REQUIREMENTS
+- 5+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: KPI Design, Tableau, Python, Semantic Layer, Power BI, Data Modeling (Basics), Looker
+- Preferred skills: SQL

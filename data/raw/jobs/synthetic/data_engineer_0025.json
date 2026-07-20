@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_engineer_0025",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Senior Data Engineer",
+  "company": "Knight Ltd",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "ml_engineering",
+    "orchestration",
+    "etl_elt",
+    "sql",
+    "data_modeling",
+    "aws",
+    "scala",
+    "python"
+  ],
+  "required_skill_names": [
+    "ML Engineering (Ops)",
+    "Orchestration",
+    "ETL / ELT",
+    "SQL",
+    "Data Modeling",
+    "AWS",
+    "Scala",
+    "Python"
+  ],
+  "preferred_skills": [
+    "azure"
+  ],
+  "preferred_skill_names": [
+    "Azure"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

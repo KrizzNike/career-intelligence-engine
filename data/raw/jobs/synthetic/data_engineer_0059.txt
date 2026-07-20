@@ -1,0 +1,15 @@
+Data Platform Engineer
+Aguirre PLC | New Sarahview, Antarctica (the territory South of 60 deg S)
+
+ABOUT THE ROLE
+We are hiring a Data Platform Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Implement ETL/ELT workflows with SQL, Python
+- Build and maintain Data Warehousing, AWS data warehouses
+- Design and operate scalable ML Engineering (Ops), AWS pipelines
+- Ensure data quality across Scala, Azure pipelines
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: ETL / ELT, Data Warehousing, Orchestration, Scala, AWS, Azure, GCP, ML Engineering (Ops), SQL, Python

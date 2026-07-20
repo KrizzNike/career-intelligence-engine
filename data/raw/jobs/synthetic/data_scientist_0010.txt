@@ -1,0 +1,17 @@
+Data Scientist
+Johnston-Berry | Robertsfurt, Angola
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Derive insights from large datasets using Feature Engineering, Insight Storytelling
+- Productionize Python, R models with the engineering team
+- Build predictive models using R, Python
+- Run experiments and A/B tests; report with Insight Storytelling, Supervised Learning
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: Python, Supervised Learning, R, Unsupervised Learning, Insight Storytelling, Probability & Statistics, Feature Engineering, Model Evaluation
+- Preferred skills: SQL, Natural Language Processing

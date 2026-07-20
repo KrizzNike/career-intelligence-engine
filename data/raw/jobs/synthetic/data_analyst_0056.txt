@@ -1,0 +1,17 @@
+Senior Data Analyst
+White-Richards | Costafort, Guernsey
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Write efficient SQL-to-Insight Storytelling, ETL Fundamentals queries to extract insights
+- Analyze large datasets using Python, SQL to answer business questions
+- Partner with business teams to define KPIs and track them
+- Build dashboards and reports with Python, SQL for stakeholders
+
+REQUIREMENTS
+- 5+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: ETL Fundamentals, R, Stakeholder Management, Python, SQL-to-Insight Storytelling, SQL, KPI Design, Domain Acumen, Microsoft Excel
+- Preferred skills: Data Modeling (Basics), Hypothesis Testing

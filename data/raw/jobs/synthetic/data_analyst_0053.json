@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_analyst_0053",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Data Analyst",
+  "company": "Snyder, Miller and Williams",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "sql",
+    "kpi_design",
+    "descriptive_stats",
+    "etl_basics",
+    "data_modeling_basics",
+    "python",
+    "sql_to_insight",
+    "r_language",
+    "excel",
+    "domain_acumen",
+    "stakeholder_management"
+  ],
+  "required_skill_names": [
+    "SQL",
+    "KPI Design",
+    "Descriptive Statistics",
+    "ETL Fundamentals",
+    "Data Modeling (Basics)",
+    "Python",
+    "SQL-to-Insight Storytelling",
+    "R",
+    "Microsoft Excel",
+    "Domain Acumen",
+    "Stakeholder Management"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

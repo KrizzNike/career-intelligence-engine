@@ -1,0 +1,37 @@
+{
+  "jd_id": "data_scientist_0055",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Applied Scientist",
+  "company": "Acosta Inc",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "python",
+    "model_evaluation",
+    "experimentation",
+    "r_language",
+    "nlp",
+    "supervised_learning",
+    "unsupervised_learning",
+    "sql",
+    "feature_engineering"
+  ],
+  "required_skill_names": [
+    "Python",
+    "Model Evaluation",
+    "Experimentation",
+    "R",
+    "Natural Language Processing",
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "SQL",
+    "Feature Engineering"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

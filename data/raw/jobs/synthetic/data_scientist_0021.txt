@@ -1,0 +1,17 @@
+Applied Scientist
+Morris Group | North Shannon, Sudan
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Derive insights from large datasets using Insight Storytelling, SQL
+- Build predictive models using Experimentation, SQL
+- Productionize R, Experimentation models with the engineering team
+- Run experiments and A/B tests; report with Insight Storytelling, Unsupervised Learning
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Advanced degree (MS or PhD) preferred
+- Required skills: SQL, Experimentation, Probability & Statistics, Insight Storytelling, Supervised Learning, Model Evaluation, Unsupervised Learning, R, Natural Language Processing
+- Preferred skills: Python, Feature Engineering

@@ -1,0 +1,35 @@
+{
+  "jd_id": "data_scientist_0024",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Data Scientist",
+  "company": "Schroeder-Shelton",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "sql",
+    "nlp",
+    "supervised_learning",
+    "model_evaluation",
+    "probability",
+    "r_language",
+    "insight_storytelling",
+    "experimentation"
+  ],
+  "required_skill_names": [
+    "SQL",
+    "Natural Language Processing",
+    "Supervised Learning",
+    "Model Evaluation",
+    "Probability & Statistics",
+    "R",
+    "Insight Storytelling",
+    "Experimentation"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

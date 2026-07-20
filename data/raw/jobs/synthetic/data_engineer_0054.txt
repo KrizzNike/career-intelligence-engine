@@ -1,0 +1,15 @@
+Data Engineer
+Mcdaniel Group | North Marieland, Jersey
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and operate scalable Orchestration, GCP pipelines
+- Ensure data quality across AWS, Data Warehousing pipelines
+- Build and maintain Data Warehousing, AWS data warehouses
+- Implement ETL/ELT workflows with ETL / ELT, Python
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: Data Modeling, Orchestration, Python, Data Warehousing, AWS, Scala, GCP, ETL / ELT, Azure, ML Engineering (Ops)

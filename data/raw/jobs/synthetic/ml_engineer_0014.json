@@ -1,0 +1,35 @@
+{
+  "jd_id": "ml_engineer_0014",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "job_title": "MLOps Engineer",
+  "company": "Huber, Hill and Weber",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "sql",
+    "feature_stores",
+    "python",
+    "supervised_learning",
+    "deep_learning",
+    "mlops"
+  ],
+  "required_skill_names": [
+    "SQL",
+    "Feature Stores",
+    "Python",
+    "Supervised Learning",
+    "Deep Learning",
+    "MLOps"
+  ],
+  "preferred_skills": [
+    "aws"
+  ],
+  "preferred_skill_names": [
+    "AWS"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

@@ -1,0 +1,37 @@
+{
+  "jd_id": "ml_engineer_0021",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "job_title": "ML Engineer",
+  "company": "Hodges PLC",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "supervised_learning",
+    "docker_k8s",
+    "feature_stores",
+    "mlops",
+    "deep_learning",
+    "aws",
+    "sql"
+  ],
+  "required_skill_names": [
+    "Supervised Learning",
+    "Docker & Kubernetes",
+    "Feature Stores",
+    "MLOps",
+    "Deep Learning",
+    "AWS",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "python"
+  ],
+  "preferred_skill_names": [
+    "Python"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

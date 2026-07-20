@@ -1,0 +1,15 @@
+Business Intelligence Analyst
+Tucker-Lewis | Barreraburgh, Hong Kong
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Data Modeling (Basics), Power BI
+- Develop semantic layers and governed metrics with Python, SQL
+- Design and maintain self-serve BI models using Looker, Tableau
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- 2+ years building dashboards and BI solutions
+- Required skills: Power BI, Data Modeling (Basics), KPI Design, Python, Tableau, Looker, SQL

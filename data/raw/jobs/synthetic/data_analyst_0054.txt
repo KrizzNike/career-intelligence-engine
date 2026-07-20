@@ -1,0 +1,14 @@
+Business Data Analyst
+Perez Ltd | Port Emilyview, Morocco
+
+ABOUT THE ROLE
+We are hiring a Business Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with Stakeholder Management, R for stakeholders
+- Write efficient Stakeholder Management, SQL-to-Insight Storytelling queries to extract insights
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Required skills: Stakeholder Management, Microsoft Excel, Domain Acumen, ETL Fundamentals, Hypothesis Testing, R, SQL-to-Insight Storytelling, KPI Design, Python

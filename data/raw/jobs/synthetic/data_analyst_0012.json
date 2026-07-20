@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_analyst_0012",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Business Data Analyst",
+  "company": "Miller, Hernandez and Reyes",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "kpi_design",
+    "excel",
+    "sql_to_insight",
+    "hypothesis_testing",
+    "etl_basics",
+    "descriptive_stats",
+    "data_modeling_basics",
+    "domain_acumen",
+    "r_language",
+    "python",
+    "sql"
+  ],
+  "required_skill_names": [
+    "KPI Design",
+    "Microsoft Excel",
+    "SQL-to-Insight Storytelling",
+    "Hypothesis Testing",
+    "ETL Fundamentals",
+    "Descriptive Statistics",
+    "Data Modeling (Basics)",
+    "Domain Acumen",
+    "R",
+    "Python",
+    "SQL"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

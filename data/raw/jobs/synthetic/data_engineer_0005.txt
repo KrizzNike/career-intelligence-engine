@@ -1,0 +1,16 @@
+Data Engineer
+Hill, Davenport and Baird | South Andrea, Hungary
+
+ABOUT THE ROLE
+We are hiring a Data Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Ensure data quality across Data Warehousing, Azure pipelines
+- Design and operate scalable SQL, Orchestration pipelines
+- Implement ETL/ELT workflows with Data Modeling, SQL
+- Build and maintain SQL, Data Warehousing data warehouses
+
+REQUIREMENTS
+- 2+ years building data pipelines and warehouses
+- Required skills: Data Warehousing, SQL, Orchestration, Azure, AWS, GCP, Python, Data Modeling
+- Preferred skills: Scala

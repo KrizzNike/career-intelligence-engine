@@ -1,0 +1,15 @@
+Senior Data Analyst
+Cordova Group | Lake Mollymouth, Isle of Man
+
+ABOUT THE ROLE
+We are hiring a Senior Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using SQL-to-Insight Storytelling, SQL to answer business questions
+- Build dashboards and reports with SQL-to-Insight Storytelling, R for stakeholders
+- Partner with business teams to define KPIs and track them
+
+REQUIREMENTS
+- 5+ years of experience in data analysis or analytics role
+- Required skills: SQL-to-Insight Storytelling, KPI Design, ETL Fundamentals, Domain Acumen, SQL, Stakeholder Management, Data Modeling (Basics), R, Descriptive Statistics, Microsoft Excel
+- Preferred skills: Hypothesis Testing, Python

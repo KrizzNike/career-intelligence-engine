@@ -1,0 +1,35 @@
+{
+  "jd_id": "bi_analyst_0037",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "BI Developer",
+  "company": "Donovan-Harris",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "looker",
+    "sql",
+    "power_bi",
+    "python",
+    "semantic_layer",
+    "tableau"
+  ],
+  "required_skill_names": [
+    "Looker",
+    "SQL",
+    "Power BI",
+    "Python",
+    "Semantic Layer",
+    "Tableau"
+  ],
+  "preferred_skills": [
+    "kpi_design"
+  ],
+  "preferred_skill_names": [
+    "KPI Design"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

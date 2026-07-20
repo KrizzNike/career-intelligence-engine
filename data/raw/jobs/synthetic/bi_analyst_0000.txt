@@ -1,0 +1,16 @@
+BI Analyst
+Rodriguez, Figueroa and Sanchez | Lake Curtis, Saint Vincent and the Grenadines
+
+ABOUT THE ROLE
+We are hiring a BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Data Modeling (Basics), KPI Design
+- Design and maintain self-serve BI models using Python, SQL
+- Develop semantic layers and governed metrics with Python, Data Modeling (Basics)
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Power BI, KPI Design, Looker, Tableau, Data Modeling (Basics), Python, SQL
+- Preferred skills: Semantic Layer

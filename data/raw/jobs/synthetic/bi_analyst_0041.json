@@ -1,0 +1,37 @@
+{
+  "jd_id": "bi_analyst_0041",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "Senior BI Analyst",
+  "company": "Carr-Archer",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "data_modeling_basics",
+    "semantic_layer",
+    "looker",
+    "power_bi",
+    "sql",
+    "tableau",
+    "python"
+  ],
+  "required_skill_names": [
+    "Data Modeling (Basics)",
+    "Semantic Layer",
+    "Looker",
+    "Power BI",
+    "SQL",
+    "Tableau",
+    "Python"
+  ],
+  "preferred_skills": [
+    "kpi_design"
+  ],
+  "preferred_skill_names": [
+    "KPI Design"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

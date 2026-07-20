@@ -1,0 +1,16 @@
+Senior BI Analyst
+Brandt-Hickman | Lake Larry, Paraguay
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Tableau, Python workloads for dashboard performance
+- Design and maintain self-serve BI models using Python, Looker
+- Build executive dashboards in Tableau, Semantic Layer
+- Develop semantic layers and governed metrics with Python, Looker
+
+REQUIREMENTS
+- 5+ years building dashboards and BI solutions
+- Required skills: SQL, Semantic Layer, Power BI, Looker, Data Modeling (Basics), Tableau, Python
+- Preferred skills: KPI Design

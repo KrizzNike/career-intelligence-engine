@@ -1,0 +1,15 @@
+BI Developer
+Ferrell, Rice and Maddox | Lake Jenniferside, Sao Tome and Principe
+
+ABOUT THE ROLE
+We are hiring a BI Developer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Semantic Layer, SQL
+- Optimize SQL, KPI Design workloads for dashboard performance
+- Develop semantic layers and governed metrics with Power BI, SQL
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- 2+ years building dashboards and BI solutions
+- Required skills: KPI Design, SQL, Semantic Layer, Tableau, Looker, Power BI

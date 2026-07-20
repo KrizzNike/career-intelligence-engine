@@ -1,0 +1,15 @@
+Senior ML Engineer
+Williams, Williams and Reeves | Stoneberg, New Caledonia
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor Deep Learning, SQL models in production
+- Optimize Feature Stores, MLOps serving infrastructure
+- Collaborate with data scientists to ship MLOps, SQL models
+- Build MLOps pipelines for Deep Learning, AWS model lifecycle
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: Deep Learning, MLOps, Feature Stores, SQL, Python, Supervised Learning, AWS

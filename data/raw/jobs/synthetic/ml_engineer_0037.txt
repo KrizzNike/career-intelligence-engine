@@ -1,0 +1,16 @@
+Machine Learning Engineer
+Jenkins PLC | Salaston, Romania
+
+ABOUT THE ROLE
+We are hiring a Machine Learning Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor MLOps, Docker & Kubernetes models in production
+- Build MLOps pipelines for Feature Stores, SQL model lifecycle
+- Optimize SQL, Docker & Kubernetes serving infrastructure
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 2+ years deploying ML models to production
+- Required skills: Docker & Kubernetes, Python, Feature Stores, SQL, MLOps, Deep Learning
+- Preferred skills: AWS

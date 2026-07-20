@@ -1,0 +1,37 @@
+{
+  "jd_id": "data_analyst_0035",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Senior Data Analyst",
+  "company": "Brewer-Henry",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "excel",
+    "domain_acumen",
+    "sql_to_insight",
+    "hypothesis_testing",
+    "r_language",
+    "sql",
+    "python",
+    "etl_basics",
+    "kpi_design"
+  ],
+  "required_skill_names": [
+    "Microsoft Excel",
+    "Domain Acumen",
+    "SQL-to-Insight Storytelling",
+    "Hypothesis Testing",
+    "R",
+    "SQL",
+    "Python",
+    "ETL Fundamentals",
+    "KPI Design"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

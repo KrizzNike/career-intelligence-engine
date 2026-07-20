@@ -1,0 +1,15 @@
+Senior ML Engineer
+Cole, Pierce and Bryan | East Theresafurt, Holy See (Vatican City State)
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Deep Learning, AWS model lifecycle
+- Collaborate with data scientists to ship Python, AWS models
+- Deploy and monitor Supervised Learning, AWS models in production
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: Feature Stores, Deep Learning, Python, MLOps, AWS, Supervised Learning
+- Preferred skills: SQL, Docker & Kubernetes

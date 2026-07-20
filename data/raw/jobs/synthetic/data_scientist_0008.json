@@ -1,0 +1,41 @@
+{
+  "jd_id": "data_scientist_0008",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Data Scientist",
+  "company": "Thompson-James",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "supervised_learning",
+    "r_language",
+    "python",
+    "feature_engineering",
+    "insight_storytelling",
+    "unsupervised_learning",
+    "model_evaluation",
+    "probability",
+    "nlp"
+  ],
+  "required_skill_names": [
+    "Supervised Learning",
+    "R",
+    "Python",
+    "Feature Engineering",
+    "Insight Storytelling",
+    "Unsupervised Learning",
+    "Model Evaluation",
+    "Probability & Statistics",
+    "Natural Language Processing"
+  ],
+  "preferred_skills": [
+    "sql"
+  ],
+  "preferred_skill_names": [
+    "SQL"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

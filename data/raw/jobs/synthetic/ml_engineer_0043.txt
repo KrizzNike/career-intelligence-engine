@@ -1,0 +1,17 @@
+Senior ML Engineer
+Blevins-Ballard | Bobbyland, Guatemala
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor Supervised Learning, AWS models in production
+- Build MLOps pipelines for Feature Stores, MLOps model lifecycle
+- Collaborate with data scientists to ship Feature Stores, Supervised Learning models
+- Optimize MLOps, Docker & Kubernetes serving infrastructure
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Deep Learning, AWS, Docker & Kubernetes, Supervised Learning, Feature Stores, MLOps
+- Preferred skills: Python

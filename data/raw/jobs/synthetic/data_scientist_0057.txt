@@ -1,0 +1,16 @@
+Senior Data Scientist
+Wallace, West and Acosta | Christinachester, Falkland Islands (Malvinas)
+
+ABOUT THE ROLE
+We are hiring a Senior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Derive insights from large datasets using R, Feature Engineering
+- Productionize R, Supervised Learning models with the engineering team
+- Build predictive models using Python, Feature Engineering
+- Run experiments and A/B tests; report with Feature Engineering, Python
+
+REQUIREMENTS
+- 5+ years of hands-on data science experience
+- Required skills: Experimentation, Probability & Statistics, Python, Model Evaluation, Supervised Learning, SQL, Feature Engineering, R, Natural Language Processing
+- Preferred skills: Insight Storytelling

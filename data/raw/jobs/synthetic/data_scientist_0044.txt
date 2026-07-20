@@ -1,0 +1,14 @@
+Junior Data Scientist
+Copeland Group | Lake Zacharybury, Saint Barthelemy
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Run experiments and A/B tests; report with Unsupervised Learning, Model Evaluation
+- Build predictive models using Supervised Learning, Model Evaluation
+- Derive insights from large datasets using R, Python
+
+REQUIREMENTS
+- Advanced degree (MS or PhD) preferred
+- Required skills: Experimentation, Python, R, SQL, Feature Engineering, Model Evaluation, Unsupervised Learning, Supervised Learning

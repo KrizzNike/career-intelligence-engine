@@ -1,0 +1,15 @@
+Data Scientist
+Carter Inc | Johnchester, Colombia
+
+ABOUT THE ROLE
+We are hiring a Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build predictive models using SQL, Python
+- Productionize Natural Language Processing, Python models with the engineering team
+- Derive insights from large datasets using Unsupervised Learning, Feature Engineering
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Required skills: Feature Engineering, Supervised Learning, R, Python, Unsupervised Learning, SQL, Experimentation, Natural Language Processing, Probability & Statistics
+- Preferred skills: Model Evaluation

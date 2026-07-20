@@ -1,0 +1,15 @@
+ML Engineer
+Hodges PLC | West Johnville, Ethiopia
+
+ABOUT THE ROLE
+We are hiring a ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Collaborate with data scientists to ship Supervised Learning, MLOps models
+- Optimize Docker & Kubernetes, AWS serving infrastructure
+- Deploy and monitor Feature Stores, SQL models in production
+
+REQUIREMENTS
+- 2+ years deploying ML models to production
+- Required skills: Supervised Learning, Docker & Kubernetes, Feature Stores, MLOps, Deep Learning, AWS, SQL
+- Preferred skills: Python

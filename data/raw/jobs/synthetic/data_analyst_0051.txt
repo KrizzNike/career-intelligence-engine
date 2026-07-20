@@ -1,0 +1,15 @@
+Data Analyst
+Hernandez, Baker and Thomas | East Laurashire, Uruguay
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build dashboards and reports with Data Modeling (Basics), Hypothesis Testing for stakeholders
+- Partner with business teams to define KPIs and track them
+- Write efficient KPI Design, SQL queries to extract insights
+
+REQUIREMENTS
+- 2+ years of experience in data analysis or analytics role
+- Bachelor's degree in a quantitative field
+- Required skills: Domain Acumen, ETL Fundamentals, SQL, SQL-to-Insight Storytelling, Python, KPI Design, Stakeholder Management, Descriptive Statistics, Data Modeling (Basics), Hypothesis Testing

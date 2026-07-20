@@ -1,0 +1,15 @@
+Senior BI Analyst
+Garcia, Humphrey and Baker | Lake Angelaview, Finland
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build executive dashboards in Power BI, Python
+- Develop semantic layers and governed metrics with Looker, Python
+- Optimize SQL, Power BI workloads for dashboard performance
+
+REQUIREMENTS
+- 5+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: SQL, Looker, Power BI, Data Modeling (Basics), KPI Design, Python, Tableau, Semantic Layer

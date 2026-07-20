@@ -1,0 +1,37 @@
+{
+  "jd_id": "bi_analyst_0028",
+  "target_role_id": "bi_analyst",
+  "target_role_name": "BI Analyst",
+  "job_title": "Senior BI Analyst",
+  "company": "Chandler-Mcbride",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "kpi_design",
+    "semantic_layer",
+    "data_modeling_basics",
+    "python",
+    "looker",
+    "tableau",
+    "sql"
+  ],
+  "required_skill_names": [
+    "KPI Design",
+    "Semantic Layer",
+    "Data Modeling (Basics)",
+    "Python",
+    "Looker",
+    "Tableau",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "power_bi"
+  ],
+  "preferred_skill_names": [
+    "Power BI"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

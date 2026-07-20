@@ -1,0 +1,14 @@
+Business Intelligence Analyst
+Hernandez and Sons | Carlsonfurt, Hong Kong
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Develop semantic layers and governed metrics with Python, KPI Design
+- Optimize Semantic Layer, Data Modeling (Basics) workloads for dashboard performance
+- Build executive dashboards in Data Modeling (Basics), Semantic Layer
+
+REQUIREMENTS
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Looker, Semantic Layer, Tableau, Power BI, Python, KPI Design, Data Modeling (Basics)

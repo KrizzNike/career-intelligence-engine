@@ -1,0 +1,17 @@
+Data Analyst
+Vargas-Alvarado | Lake Roymouth, Cocos (Keeling) Islands
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Write efficient Data Modeling (Basics), KPI Design queries to extract insights
+- Analyze large datasets using Domain Acumen, Data Modeling (Basics) to answer business questions
+- Partner with business teams to define KPIs and track them
+- Build dashboards and reports with Descriptive Statistics, SQL for stakeholders
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- 2+ years of experience in data analysis or analytics role
+- Required skills: KPI Design, Descriptive Statistics, SQL-to-Insight Storytelling, Data Modeling (Basics), R, Hypothesis Testing, SQL, Stakeholder Management, Domain Acumen, Python
+- Preferred skills: ETL Fundamentals, Microsoft Excel

@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_scientist_0028",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Senior Data Scientist",
+  "company": "Santiago, Romero and Smith",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "insight_storytelling",
+    "model_evaluation",
+    "experimentation",
+    "nlp",
+    "supervised_learning",
+    "python",
+    "probability",
+    "feature_engineering",
+    "unsupervised_learning",
+    "sql"
+  ],
+  "required_skill_names": [
+    "Insight Storytelling",
+    "Model Evaluation",
+    "Experimentation",
+    "Natural Language Processing",
+    "Supervised Learning",
+    "Python",
+    "Probability & Statistics",
+    "Feature Engineering",
+    "Unsupervised Learning",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "r_language"
+  ],
+  "preferred_skill_names": [
+    "R"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

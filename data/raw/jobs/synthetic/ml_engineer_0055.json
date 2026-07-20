@@ -1,0 +1,33 @@
+{
+  "jd_id": "ml_engineer_0055",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "job_title": "Senior ML Engineer",
+  "company": "Wilcox-Robertson",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "supervised_learning",
+    "mlops",
+    "deep_learning",
+    "python",
+    "aws",
+    "sql",
+    "feature_stores"
+  ],
+  "required_skill_names": [
+    "Supervised Learning",
+    "MLOps",
+    "Deep Learning",
+    "Python",
+    "AWS",
+    "SQL",
+    "Feature Stores"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

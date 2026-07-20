@@ -1,0 +1,15 @@
+Senior ML Engineer
+Finley-Turner | West Desireebury, Bahamas
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Feature Stores, MLOps model lifecycle
+- Deploy and monitor Python, Deep Learning models in production
+- Collaborate with data scientists to ship Python, MLOps models
+- Optimize AWS, Docker & Kubernetes serving infrastructure
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: Deep Learning, Feature Stores, Python, MLOps, Supervised Learning, AWS, Docker & Kubernetes

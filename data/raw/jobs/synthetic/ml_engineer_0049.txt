@@ -1,0 +1,17 @@
+Machine Learning Engineer
+Pearson and Sons | East Robertburgh, Vietnam
+
+ABOUT THE ROLE
+We are hiring a Machine Learning Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize MLOps, Python serving infrastructure
+- Collaborate with data scientists to ship MLOps, Feature Stores models
+- Deploy and monitor SQL, Docker & Kubernetes models in production
+- Build MLOps pipelines for MLOps, Feature Stores model lifecycle
+
+REQUIREMENTS
+- 2+ years deploying ML models to production
+- MS or PhD in CS, ML, or related field preferred
+- Required skills: Feature Stores, Docker & Kubernetes, Python, AWS, Supervised Learning, MLOps, SQL
+- Preferred skills: Deep Learning

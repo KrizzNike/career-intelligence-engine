@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_engineer_0028",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Analytics Engineer",
+  "company": "Williams, Kramer and Johnson",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "orchestration",
+    "python",
+    "data_modeling",
+    "gcp",
+    "sql",
+    "azure",
+    "data_warehousing",
+    "etl_elt",
+    "scala",
+    "aws"
+  ],
+  "required_skill_names": [
+    "Orchestration",
+    "Python",
+    "Data Modeling",
+    "GCP",
+    "SQL",
+    "Azure",
+    "Data Warehousing",
+    "ETL / ELT",
+    "Scala",
+    "AWS"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

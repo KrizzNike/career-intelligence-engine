@@ -1,0 +1,15 @@
+Machine Learning Engineer
+Wilson, Parker and Sullivan | Hannahport, Heard Island and McDonald Islands
+
+ABOUT THE ROLE
+We are hiring a Machine Learning Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Build MLOps pipelines for Python, MLOps model lifecycle
+- Collaborate with data scientists to ship Deep Learning, Docker & Kubernetes models
+- Deploy and monitor Feature Stores, Python models in production
+
+REQUIREMENTS
+- MS or PhD in CS, ML, or related field preferred
+- 2+ years deploying ML models to production
+- Required skills: Docker & Kubernetes, Deep Learning, MLOps, SQL, Python, Feature Stores

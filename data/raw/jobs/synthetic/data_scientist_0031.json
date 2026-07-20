@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_scientist_0031",
+  "target_role_id": "data_scientist",
+  "target_role_name": "Data Scientist",
+  "job_title": "Data Scientist",
+  "company": "Moore-White",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "probability",
+    "python",
+    "experimentation",
+    "model_evaluation",
+    "insight_storytelling",
+    "r_language",
+    "feature_engineering",
+    "sql"
+  ],
+  "required_skill_names": [
+    "Probability & Statistics",
+    "Python",
+    "Experimentation",
+    "Model Evaluation",
+    "Insight Storytelling",
+    "R",
+    "Feature Engineering",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "nlp",
+    "unsupervised_learning",
+    "supervised_learning"
+  ],
+  "preferred_skill_names": [
+    "Natural Language Processing",
+    "Unsupervised Learning",
+    "Supervised Learning"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

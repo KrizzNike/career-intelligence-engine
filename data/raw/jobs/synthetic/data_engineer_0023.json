@@ -1,0 +1,43 @@
+{
+  "jd_id": "data_engineer_0023",
+  "target_role_id": "data_engineer",
+  "target_role_name": "Data Engineer",
+  "job_title": "Data Engineer",
+  "company": "Bryant-Turner",
+  "industry": "data_analytics",
+  "seniority_band": "mid",
+  "min_years_experience": 2,
+  "required_skills": [
+    "orchestration",
+    "aws",
+    "sql",
+    "scala",
+    "data_warehousing",
+    "python",
+    "azure",
+    "etl_elt",
+    "ml_engineering",
+    "data_modeling"
+  ],
+  "required_skill_names": [
+    "Orchestration",
+    "AWS",
+    "SQL",
+    "Scala",
+    "Data Warehousing",
+    "Python",
+    "Azure",
+    "ETL / ELT",
+    "ML Engineering (Ops)",
+    "Data Modeling"
+  ],
+  "preferred_skills": [
+    "gcp"
+  ],
+  "preferred_skill_names": [
+    "GCP"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

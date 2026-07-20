@@ -1,0 +1,39 @@
+{
+  "jd_id": "data_analyst_0047",
+  "target_role_id": "data_analyst",
+  "target_role_name": "Data Analyst",
+  "job_title": "Junior Data Analyst",
+  "company": "Garcia, Farmer and Garrett",
+  "industry": "data_analytics",
+  "seniority_band": "fresher",
+  "min_years_experience": 0,
+  "required_skills": [
+    "excel",
+    "etl_basics",
+    "descriptive_stats",
+    "python",
+    "kpi_design",
+    "sql",
+    "hypothesis_testing",
+    "sql_to_insight",
+    "stakeholder_management",
+    "domain_acumen"
+  ],
+  "required_skill_names": [
+    "Microsoft Excel",
+    "ETL Fundamentals",
+    "Descriptive Statistics",
+    "Python",
+    "KPI Design",
+    "SQL",
+    "Hypothesis Testing",
+    "SQL-to-Insight Storytelling",
+    "Stakeholder Management",
+    "Domain Acumen"
+  ],
+  "preferred_skills": [],
+  "preferred_skill_names": [],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

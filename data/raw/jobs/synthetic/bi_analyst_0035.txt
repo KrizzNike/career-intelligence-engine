@@ -1,0 +1,15 @@
+Business Intelligence Analyst
+Jones Inc | South David, Tuvalu
+
+ABOUT THE ROLE
+We are hiring a Business Intelligence Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize Looker, Power BI workloads for dashboard performance
+- Develop semantic layers and governed metrics with KPI Design, Looker
+- Build executive dashboards in Power BI, Semantic Layer
+- Design and maintain self-serve BI models using SQL, Semantic Layer
+
+REQUIREMENTS
+- 2+ years building dashboards and BI solutions
+- Required skills: Data Modeling (Basics), Looker, Power BI, Semantic Layer, KPI Design, SQL

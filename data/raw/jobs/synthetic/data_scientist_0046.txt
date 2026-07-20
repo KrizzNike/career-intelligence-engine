@@ -1,0 +1,15 @@
+Applied Scientist
+Barnett, Mills and Ward | South Morganton, North Macedonia
+
+ABOUT THE ROLE
+We are hiring a Applied Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Productionize Natural Language Processing, Insight Storytelling models with the engineering team
+- Derive insights from large datasets using Probability & Statistics, Experimentation
+- Run experiments and A/B tests; report with Experimentation, Insight Storytelling
+- Build predictive models using Unsupervised Learning, Probability & Statistics
+
+REQUIREMENTS
+- 2+ years of hands-on data science experience
+- Required skills: Insight Storytelling, Natural Language Processing, Experimentation, R, SQL, Model Evaluation, Python, Unsupervised Learning, Probability & Statistics, Feature Engineering

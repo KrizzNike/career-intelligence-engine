@@ -1,0 +1,17 @@
+Senior BI Analyst
+Medina PLC | Davidstad, Turkmenistan
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Design and maintain self-serve BI models using KPI Design, Semantic Layer
+- Develop semantic layers and governed metrics with Power BI, Looker
+- Optimize Python, Looker workloads for dashboard performance
+- Build executive dashboards in KPI Design, Looker
+
+REQUIREMENTS
+- 5+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Looker, Power BI, Semantic Layer, Python, Data Modeling (Basics), KPI Design
+- Preferred skills: SQL

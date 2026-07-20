@@ -1,0 +1,16 @@
+Junior Data Scientist
+Murray-Campbell | Shawchester, Central African Republic
+
+ABOUT THE ROLE
+We are hiring a Junior Data Scientist to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Derive insights from large datasets using Model Evaluation, Natural Language Processing
+- Build predictive models using R, Model Evaluation
+- Productionize Model Evaluation, Natural Language Processing models with the engineering team
+- Run experiments and A/B tests; report with Unsupervised Learning, Insight Storytelling
+
+REQUIREMENTS
+- 0+ years of hands-on data science experience
+- Required skills: Unsupervised Learning, Insight Storytelling, R, Python, Model Evaluation, Experimentation, Probability & Statistics, Feature Engineering, Natural Language Processing
+- Preferred skills: SQL, Supervised Learning

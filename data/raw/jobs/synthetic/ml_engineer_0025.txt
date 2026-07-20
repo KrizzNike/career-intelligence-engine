@@ -1,0 +1,15 @@
+Senior ML Engineer
+Gomez, Williams and Simpson | Mitchelltown, Tanzania
+
+ABOUT THE ROLE
+We are hiring a Senior ML Engineer to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Deploy and monitor Feature Stores, Docker & Kubernetes models in production
+- Optimize Deep Learning, Python serving infrastructure
+- Collaborate with data scientists to ship Docker & Kubernetes, Supervised Learning models
+
+REQUIREMENTS
+- 5+ years deploying ML models to production
+- Required skills: Feature Stores, Deep Learning, Docker & Kubernetes, Python, Supervised Learning, SQL, MLOps
+- Preferred skills: AWS

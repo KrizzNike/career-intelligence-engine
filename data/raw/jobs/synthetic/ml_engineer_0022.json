@@ -1,0 +1,35 @@
+{
+  "jd_id": "ml_engineer_0022",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "job_title": "Senior ML Engineer",
+  "company": "Wright-Davis",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "mlops",
+    "docker_k8s",
+    "sql",
+    "python",
+    "feature_stores",
+    "supervised_learning"
+  ],
+  "required_skill_names": [
+    "MLOps",
+    "Docker & Kubernetes",
+    "SQL",
+    "Python",
+    "Feature Stores",
+    "Supervised Learning"
+  ],
+  "preferred_skills": [
+    "aws"
+  ],
+  "preferred_skill_names": [
+    "AWS"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

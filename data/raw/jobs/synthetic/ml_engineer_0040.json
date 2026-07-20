@@ -1,0 +1,35 @@
+{
+  "jd_id": "ml_engineer_0040",
+  "target_role_id": "ml_engineer",
+  "target_role_name": "Machine Learning Engineer",
+  "job_title": "Senior ML Engineer",
+  "company": "Lee-Wright",
+  "industry": "data_analytics",
+  "seniority_band": "senior",
+  "min_years_experience": 5,
+  "required_skills": [
+    "supervised_learning",
+    "sql",
+    "feature_stores",
+    "deep_learning",
+    "aws",
+    "python"
+  ],
+  "required_skill_names": [
+    "Supervised Learning",
+    "SQL",
+    "Feature Stores",
+    "Deep Learning",
+    "AWS",
+    "Python"
+  ],
+  "preferred_skills": [
+    "mlops"
+  ],
+  "preferred_skill_names": [
+    "MLOps"
+  ],
+  "generated_at": "2026-07-20T16:51:35Z",
+  "source": "synthetic_jd_generator",
+  "license": "CC0-1.0 (synthetic; no real PII)"
+}

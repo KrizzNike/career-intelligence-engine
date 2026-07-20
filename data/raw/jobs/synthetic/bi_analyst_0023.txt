@@ -1,0 +1,16 @@
+Senior BI Analyst
+Brooks, Lam and Hayes | East Caleb, Angola
+
+ABOUT THE ROLE
+We are hiring a Senior BI Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Optimize SQL, Semantic Layer workloads for dashboard performance
+- Build executive dashboards in KPI Design, Semantic Layer
+- Develop semantic layers and governed metrics with KPI Design, Power BI
+
+REQUIREMENTS
+- 5+ years building dashboards and BI solutions
+- Bachelor's degree in CS, IS, or related field
+- Required skills: Power BI, Python, KPI Design, Semantic Layer, Tableau, Data Modeling (Basics), SQL
+- Preferred skills: Looker

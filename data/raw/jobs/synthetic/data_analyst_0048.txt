@@ -1,0 +1,15 @@
+Data Analyst
+Arnold and Sons | South Shannonfort, French Guiana
+
+ABOUT THE ROLE
+We are hiring a Data Analyst to join our growing team. The ideal candidate will work cross-functionally to deliver data-driven impact.
+
+RESPONSIBILITIES
+- Analyze large datasets using Descriptive Statistics, Data Modeling (Basics) to answer business questions
+- Partner with business teams to define KPIs and track them
+- Write efficient Microsoft Excel, Domain Acumen queries to extract insights
+
+REQUIREMENTS
+- Bachelor's degree in a quantitative field
+- Required skills: R, SQL-to-Insight Storytelling, Domain Acumen, Python, SQL, Microsoft Excel, Data Modeling (Basics), KPI Design, ETL Fundamentals, Descriptive Statistics, Hypothesis Testing
+- Preferred skills: Stakeholder Management
