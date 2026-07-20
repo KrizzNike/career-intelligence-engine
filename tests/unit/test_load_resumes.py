@@ -37,10 +37,10 @@ def test_every_candidate_has_a_resume(cur):
 
 
 def test_all_resumes_pending_parse(cur):
-    """Loader writes parsed_status='pending'; Week 4 flips these to 'parsed'."""
+    """No resumes should be 'failed'; some may be 'parsed' after Week 4."""
     cur.execute(
-        "SELECT COUNT(*) FROM Resumes WHERE parsed_status <> 'pending'")
-    assert cur.fetchone()[0] == 0
+        "SELECT COUNT(*) FROM Resumes WHERE parsed_status = 'failed'")
+    assert cur.fetchone()[0] == 0, "some resumes are marked failed"
 
 
 def test_candidate_skills_linked(cur):
